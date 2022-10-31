@@ -1,0 +1,8 @@
+{
+  "name": "open-english-dictionary",
+  "author": "Sajjad Shirazy",
+  "type": "module",
+  "dependencies": {
+    "glob": "^8.0.3"
+  }
+}
