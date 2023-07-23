@@ -8,13 +8,13 @@ const languages = ['en', 'fa'];
 for (const language of languages) {
   console.log(`Processing *.${language}.yaml files`);
   const list = glob.sync(`**/*.${language}.yaml`, {
-    cwd: join(__dirname, '..'),
+    cwd: join(process.cwd(), '..'),
   });
   const words = list.map((item) => item.split('/').reverse()[1]).sort();
   writeFileSync(
-    join(__dirname, '..', `./en-to-${language}.index.csv`),
+    join(process.cwd(), '..', `./en-to-${language}.index.csv`),
     words.join('\n'),
-    'utf-8'
+    'utf-8',
   );
 }
 

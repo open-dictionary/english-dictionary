@@ -2,6 +2,12 @@
   "name": "open-english-dictionary",
   "author": "Sajjad Shirazy",
   "type": "module",
+  "scripts": {
+    "index": "node ./create-indexes.js"
+  },
+  "engines": {
+    "node": "^18"
+  },
   "dependencies": {
     "glob": "^8.0.3"
   }
