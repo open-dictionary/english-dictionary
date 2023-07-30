@@ -9,8 +9,6 @@ const __dirname = dirname(__filename);
 
 const REPO_DIR = join(__dirname, '..');
 
-const languages = ['en', 'fa'];
-
 const words = [];
 const entries = readdirSync(REPO_DIR).filter((dirname) => dirname.length == 1);
 for (const l1 of entries) {
@@ -18,11 +16,13 @@ for (const l1 of entries) {
   for (const l2 of subEntries) {
     const cwd = join(REPO_DIR, l1, l2);
     console.log(`processing ${l1}/${l2}`);
-    const list = readdirSync(cwd, { withFileTypes: true })
-      .filter((item) => item.isDirectory())
-      .map((item) => item.name);
-    words.push(...list);
-    writeFileSync(join(cwd, `./index.csv`), list.join('\n'), 'utf-8');
+    const list = readdirSync(cwd, { withFileTypes: true });
+    if (list.filter((item) => item.name.endsWith('.yaml')).length > 0) {
+      words.push(l2);
+    }
+    const entryWords = list.filter((item) => item.isDirectory()).map((item) => item.name);
+    words.push(...entryWords);
+    writeFileSync(join(cwd, `./index.csv`), entryWords.join('\n'), 'utf-8');
   }
 }
 writeFileSync(join(REPO_DIR, `./index.csv`), words.sort().join('\n'), 'utf-8');
