@@ -1,0 +1,13 @@
+{
+	"word": "editor",
+	"definitions": [
+		{
+			"definition": "a person responsible for the editorial aspects of publication",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a program designed to perform such editorial functions as rearrangement or modification or deletion of data",
+			"pos": "noun"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"word": "clash",
+	"definitions": [
+		{
+			"definition": "a loud resonant repeating noise",
+			"pos": "noun"
+		},
+		{
+			"definition": "a state of conflict between persons",
+			"pos": "noun"
+		},
+		{
+			"definition": "a state of conflict between colors",
+			"pos": "noun"
+		},
+		{
+			"definition": "a minor short-term fight",
+			"pos": "noun"
+		},
+		{
+			"definition": "crash together with violent impact",
+			"pos": "verb"
+		},
+		{
+			"definition": "be incompatible",
+			"pos": "verb"
+		},
+		{
+			"definition": "disagree violently",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"word": "school",
+	"definitions": [
+		{
+			"definition": "an educational institution",
+			"pos": "noun"
+		},
+		{
+			"definition": "a building where young people receive education",
+			"pos": "noun"
+		},
+		{
+			"definition": "the process of being formally educated at a school",
+			"pos": "noun"
+		},
+		{
+			"definition": "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+			"pos": "noun"
+		},
+		{
+			"definition": "the period of instruction in a school",
+			"pos": "noun"
+		},
+		{
+			"definition": "an educational institution's faculty and students",
+			"pos": "noun"
+		},
+		{
+			"definition": "a large group of fish",
+			"pos": "noun"
+		},
+		{
+			"definition": "educate in or as if in a school",
+			"pos": "verb"
+		},
+		{
+			"definition": "teach or refine to be discriminative in taste or judgment",
+			"pos": "verb"
+		},
+		{
+			"definition": "swim in or form a large group of fish",
+			"pos": "verb"
+		}
+	]
+}

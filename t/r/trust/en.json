@@ -1,0 +1,53 @@
+{
+	"word": "trust",
+	"definitions": [
+		{
+			"definition": "something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)",
+			"pos": "noun"
+		},
+		{
+			"definition": "certainty based on past experience",
+			"pos": "noun"
+		},
+		{
+			"definition": "the trait of believing in the honesty and reliability of others",
+			"pos": "noun"
+		},
+		{
+			"definition": "a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service",
+			"pos": "noun"
+		},
+		{
+			"definition": "complete confidence in a person or plan etc",
+			"pos": "noun"
+		},
+		{
+			"definition": "a trustful relationship",
+			"pos": "noun"
+		},
+		{
+			"definition": "have confidence or faith in",
+			"pos": "verb"
+		},
+		{
+			"definition": "allow without fear",
+			"pos": "verb"
+		},
+		{
+			"definition": "be confident about something",
+			"pos": "verb"
+		},
+		{
+			"definition": "expect and wish",
+			"pos": "verb"
+		},
+		{
+			"definition": "confer a trust upon",
+			"pos": "verb"
+		},
+		{
+			"definition": "(chiefly archaic) extend credit to",
+			"pos": "verb"
+		}
+	]
+}

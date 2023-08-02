@@ -1,0 +1,33 @@
+{
+	"word": "jaw",
+	"definitions": [
+		{
+			"definition": "the part of the skull of a vertebrate that frames the mouth and holds the teeth",
+			"pos": "noun"
+		},
+		{
+			"definition": "the bones of the skull that frame the mouth and serve to open it",
+			"pos": "noun"
+		},
+		{
+			"definition": "holding device consisting of one or both of the opposing parts of a tool that close to hold an object",
+			"pos": "noun"
+		},
+		{
+			"definition": "talk socially without exchanging too much information",
+			"pos": "verb"
+		},
+		{
+			"definition": "talk incessantly and tiresomely",
+			"pos": "verb"
+		},
+		{
+			"definition": "chew (food)",
+			"pos": "verb"
+		},
+		{
+			"definition": "censure severely or angrily",
+			"pos": "verb"
+		}
+	]
+}

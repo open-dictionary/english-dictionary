@@ -1,0 +1,49 @@
+{
+	"word": "swallow",
+	"definitions": [
+		{
+			"definition": "a small amount of liquid food",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of swallowing",
+			"pos": "noun"
+		},
+		{
+			"definition": "small long-winged songbird noted for swift graceful flight and the regularity of its migrations",
+			"pos": "noun"
+		},
+		{
+			"definition": "pass through the esophagus as part of eating or drinking",
+			"pos": "verb"
+		},
+		{
+			"definition": "engulf and destroy",
+			"pos": "verb"
+		},
+		{
+			"definition": "enclose or envelop completely, as if by swallowing",
+			"pos": "verb"
+		},
+		{
+			"definition": "utter indistinctly",
+			"pos": "verb"
+		},
+		{
+			"definition": "take back what one has said",
+			"pos": "verb"
+		},
+		{
+			"definition": "keep from expressing",
+			"pos": "verb"
+		},
+		{
+			"definition": "tolerate or accommodate oneself to",
+			"pos": "verb"
+		},
+		{
+			"definition": "believe or accept without questioning or challenge",
+			"pos": "verb"
+		}
+	]
+}

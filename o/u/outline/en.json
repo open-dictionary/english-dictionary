@@ -1,0 +1,29 @@
+{
+	"word": "outline",
+	"definitions": [
+		{
+			"definition": "the line that appears to bound an object",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sketchy summary of the main points of an argument or theory",
+			"pos": "noun"
+		},
+		{
+			"definition": "a schematic or preliminary plan",
+			"pos": "noun"
+		},
+		{
+			"definition": "describe roughly or briefly or give the main points or summary of",
+			"pos": "verb"
+		},
+		{
+			"definition": "draw up an outline or sketch for something",
+			"pos": "verb"
+		},
+		{
+			"definition": "trace the shape of",
+			"pos": "verb"
+		}
+	]
+}

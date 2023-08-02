@@ -1,0 +1,45 @@
+{
+	"word": "little",
+	"definitions": [
+		{
+			"definition": "a small amount or duration",
+			"pos": "noun"
+		},
+		{
+			"definition": "limited or below average in number or quantity or magnitude or extent",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(quantifier used with mass nouns) small in quantity or degree",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of children and animals) young, immature",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(informal) small and of little importance",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of a voice) faint",
+			"pos": "adjective"
+		},
+		{
+			"definition": "low in stature",
+			"pos": "adjective"
+		},
+		{
+			"definition": "lowercase",
+			"pos": "adjective"
+		},
+		{
+			"definition": "small in a way that arouses feelings (of tenderness or its opposite depending on the context)",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not much",
+			"pos": "adverb"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "class",
+	"definitions": [
+		{
+			"definition": "a collection of things sharing a common attribute",
+			"pos": "noun"
+		},
+		{
+			"definition": "a body of students who are taught together",
+			"pos": "noun"
+		},
+		{
+			"definition": "people having the same social, economic, or educational status",
+			"pos": "noun"
+		},
+		{
+			"definition": "education imparted in a series of lessons or meetings",
+			"pos": "noun"
+		},
+		{
+			"definition": "a league ranked by quality",
+			"pos": "noun"
+		},
+		{
+			"definition": "a body of students who graduate together",
+			"pos": "noun"
+		},
+		{
+			"definition": "(biology) a taxonomic group containing one or more orders",
+			"pos": "noun"
+		},
+		{
+			"definition": "elegance in dress or behavior",
+			"pos": "noun"
+		},
+		{
+			"definition": "arrange or order by classes or categories",
+			"pos": "verb"
+		}
+	]
+}

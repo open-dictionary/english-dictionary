@@ -1,0 +1,29 @@
+{
+	"word": "variant",
+	"definitions": [
+		{
+			"definition": "an event that departs from expectations",
+			"pos": "noun"
+		},
+		{
+			"definition": "(biology) a group of organisms within a species that differ in trivial ways from similar groups",
+			"pos": "noun"
+		},
+		{
+			"definition": "a variable quantity that is random",
+			"pos": "noun"
+		},
+		{
+			"definition": "something a little different from others of the same type",
+			"pos": "noun"
+		},
+		{
+			"definition": "differing from a norm or standard",
+			"pos": "adjective"
+		},
+		{
+			"definition": "exhibiting variation and change",
+			"pos": "adjective"
+		}
+	]
+}

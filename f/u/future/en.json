@@ -1,0 +1,33 @@
+{
+	"word": "future",
+	"definitions": [
+		{
+			"definition": "the time yet to come",
+			"pos": "noun"
+		},
+		{
+			"definition": "a verb tense that expresses actions or states in the future",
+			"pos": "noun"
+		},
+		{
+			"definition": "bulk commodities bought or sold at an agreed price for delivery at a specified future date",
+			"pos": "noun"
+		},
+		{
+			"definition": "yet to be or coming",
+			"pos": "adjective"
+		},
+		{
+			"definition": "effective in or looking toward the future",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of elected officers) elected but not yet serving",
+			"pos": "adjective"
+		},
+		{
+			"definition": "a verb tense or other formation referring to events or states that have not yet happened",
+			"pos": "adjective"
+		}
+	]
+}

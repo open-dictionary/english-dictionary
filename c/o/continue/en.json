@@ -1,0 +1,45 @@
+{
+	"word": "continue",
+	"definitions": [
+		{
+			"definition": "continue a certain state, condition, or activity",
+			"pos": "verb"
+		},
+		{
+			"definition": "continue talking",
+			"pos": "verb"
+		},
+		{
+			"definition": "keep or maintain in unaltered condition",
+			"pos": "verb"
+		},
+		{
+			"definition": "move ahead",
+			"pos": "verb"
+		},
+		{
+			"definition": "allow to remain in a place or position or maintain a property or feature",
+			"pos": "verb"
+		},
+		{
+			"definition": "do something repeatedly and showing no intention to stop",
+			"pos": "verb"
+		},
+		{
+			"definition": "continue after an interruption",
+			"pos": "verb"
+		},
+		{
+			"definition": "continue in a place, position, or situation",
+			"pos": "verb"
+		},
+		{
+			"definition": "span an interval of distance, space or time",
+			"pos": "verb"
+		},
+		{
+			"definition": "exist over a prolonged period of time",
+			"pos": "verb"
+		}
+	]
+}

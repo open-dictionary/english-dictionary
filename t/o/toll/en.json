@@ -1,0 +1,25 @@
+{
+	"word": "toll",
+	"definitions": [
+		{
+			"definition": "a fee levied for the use of roads or bridges (used for maintenance)",
+			"pos": "noun"
+		},
+		{
+			"definition": "value measured by what must be given or done or undergone to obtain something",
+			"pos": "noun"
+		},
+		{
+			"definition": "the sound of a bell being struck",
+			"pos": "noun"
+		},
+		{
+			"definition": "ring slowly",
+			"pos": "verb"
+		},
+		{
+			"definition": "charge a fee for using",
+			"pos": "verb"
+		}
+	]
+}

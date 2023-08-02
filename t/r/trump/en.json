@@ -1,0 +1,33 @@
+{
+	"word": "trump",
+	"definitions": [
+		{
+			"definition": "a playing card in the suit that has been declared trumps",
+			"pos": "noun"
+		},
+		{
+			"definition": "(card games) the suit that has been declared to rank above all other suits for the duration of the hand",
+			"pos": "noun"
+		},
+		{
+			"definition": "a brass musical instrument with a brilliant tone",
+			"pos": "noun"
+		},
+		{
+			"definition": "produce a sound as if from a trumpet",
+			"pos": "verb"
+		},
+		{
+			"definition": "get the better of",
+			"pos": "verb"
+		},
+		{
+			"definition": "play a trump",
+			"pos": "verb"
+		},
+		{
+			"definition": "proclaim or announce with or as if with a fanfare",
+			"pos": "verb"
+		}
+	]
+}

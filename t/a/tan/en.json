@@ -1,0 +1,29 @@
+{
+	"word": "tan",
+	"definitions": [
+		{
+			"definition": "a browning of the skin resulting from exposure to the rays of the sun",
+			"pos": "noun"
+		},
+		{
+			"definition": "a light brown the color of topaz",
+			"pos": "noun"
+		},
+		{
+			"definition": "ratio of the opposite to the adjacent side of a right-angled triangle",
+			"pos": "noun"
+		},
+		{
+			"definition": "treat skins and hides with tannic acid so as to convert them into leather",
+			"pos": "verb"
+		},
+		{
+			"definition": "get a tan, from wind or sun",
+			"pos": "verb"
+		},
+		{
+			"definition": "of a light yellowish-brown color",
+			"pos": "adjective"
+		}
+	]
+}

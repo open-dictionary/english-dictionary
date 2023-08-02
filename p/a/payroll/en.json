@@ -1,0 +1,17 @@
+{
+	"word": "payroll",
+	"definitions": [
+		{
+			"definition": "a list of employees and their salaries",
+			"pos": "noun"
+		},
+		{
+			"definition": "the total amount of money paid in wages",
+			"pos": "noun"
+		},
+		{
+			"definition": "the department that determines the amounts of wage or salary due to each employee",
+			"pos": "noun"
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"word": "first",
+	"definitions": [
+		{
+			"definition": "the first or highest in an ordering or series",
+			"pos": "noun"
+		},
+		{
+			"definition": "the first element in a countable series",
+			"pos": "noun"
+		},
+		{
+			"definition": "the time at which something is supposed to begin",
+			"pos": "noun"
+		},
+		{
+			"definition": "the fielding position of the player on a baseball team who is stationed at first of the bases in the infield (counting counterclockwise from home plate)",
+			"pos": "noun"
+		},
+		{
+			"definition": "an honours degree of the highest class",
+			"pos": "noun"
+		},
+		{
+			"definition": "the lowest forward gear ratio in the gear box of a motor vehicle",
+			"pos": "noun"
+		},
+		{
+			"definition": "preceding all others in time or space or degree",
+			"pos": "adjective"
+		},
+		{
+			"definition": "indicating the beginning unit in a series",
+			"pos": "adjective"
+		},
+		{
+			"definition": "serving to set in motion",
+			"pos": "adjective"
+		},
+		{
+			"definition": "serving to begin",
+			"pos": "adjective"
+		},
+		{
+			"definition": "ranking above all others",
+			"pos": "adjective"
+		},
+		{
+			"definition": "highest in pitch or chief among parts or voices or instruments or orchestra sections",
+			"pos": "adjective"
+		},
+		{
+			"definition": "before anything else",
+			"pos": "adverb"
+		},
+		{
+			"definition": "the initial time",
+			"pos": "adverb"
+		},
+		{
+			"definition": "before another in time, space, or importance",
+			"pos": "adverb"
+		},
+		{
+			"definition": "prominently forward",
+			"pos": "adverb"
+		}
+	]
+}

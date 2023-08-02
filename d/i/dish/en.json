@@ -1,0 +1,37 @@
+{
+	"word": "dish",
+	"definitions": [
+		{
+			"definition": "a piece of dishware normally used as a container for holding or serving food",
+			"pos": "noun"
+		},
+		{
+			"definition": "a particular item of prepared food",
+			"pos": "noun"
+		},
+		{
+			"definition": "the quantity that a dish will hold",
+			"pos": "noun"
+		},
+		{
+			"definition": "a very attractive or seductive looking woman",
+			"pos": "noun"
+		},
+		{
+			"definition": "directional antenna consisting of a parabolic reflector for microwave or radio frequency radiation",
+			"pos": "noun"
+		},
+		{
+			"definition": "an activity that you like or at which you are superior",
+			"pos": "noun"
+		},
+		{
+			"definition": "provide (usually but not necessarily food)",
+			"pos": "verb"
+		},
+		{
+			"definition": "make concave",
+			"pos": "verb"
+		}
+	]
+}

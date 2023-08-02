@@ -1,0 +1,49 @@
+{
+	"word": "host",
+	"definitions": [
+		{
+			"definition": "a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there",
+			"pos": "noun"
+		},
+		{
+			"definition": "a vast multitude",
+			"pos": "noun"
+		},
+		{
+			"definition": "an animal or plant that nourishes and supports a parasite",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person who acts as host at formal occasions (makes an introductory speech and introduces other speakers)",
+			"pos": "noun"
+		},
+		{
+			"definition": "archaic terms for army",
+			"pos": "noun"
+		},
+		{
+			"definition": "any organization that provides resources and facilities for a function or event",
+			"pos": "noun"
+		},
+		{
+			"definition": "(medicine) recipient of transplanted tissue or organ from a donor",
+			"pos": "noun"
+		},
+		{
+			"definition": "the owner or manager of an inn",
+			"pos": "noun"
+		},
+		{
+			"definition": "a technical name for the bread used in the service of Mass or Holy Communion",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network",
+			"pos": "noun"
+		},
+		{
+			"definition": "be the host of or for",
+			"pos": "verb"
+		}
+	]
+}

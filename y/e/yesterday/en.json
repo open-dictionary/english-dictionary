@@ -1,0 +1,21 @@
+{
+	"word": "yesterday",
+	"definitions": [
+		{
+			"definition": "the day immediately before today",
+			"pos": "noun"
+		},
+		{
+			"definition": "the recent past",
+			"pos": "noun"
+		},
+		{
+			"definition": "on the day preceding today",
+			"pos": "adverb"
+		},
+		{
+			"definition": "in the recent past",
+			"pos": "adverb"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "poll",
+	"definitions": [
+		{
+			"definition": "an inquiry into public opinion conducted by interviewing a random sample of people",
+			"pos": "noun"
+		},
+		{
+			"definition": "the top of the head",
+			"pos": "noun"
+		},
+		{
+			"definition": "the part of the head between the ears",
+			"pos": "noun"
+		},
+		{
+			"definition": "a tame parrot",
+			"pos": "noun"
+		},
+		{
+			"definition": "the counting of votes (as in an election)",
+			"pos": "noun"
+		},
+		{
+			"definition": "get the opinions (of people) by asking specific questions",
+			"pos": "verb"
+		},
+		{
+			"definition": "vote in an election at a polling station",
+			"pos": "verb"
+		},
+		{
+			"definition": "get the votes of",
+			"pos": "verb"
+		},
+		{
+			"definition": "convert into a pollard",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "mesh",
+	"definitions": [
+		{
+			"definition": "the number of openings per linear inch of a screen",
+			"pos": "noun"
+		},
+		{
+			"definition": "contact by fitting together",
+			"pos": "noun"
+		},
+		{
+			"definition": "the topology of a network whose components are all connected directly to every other component",
+			"pos": "noun"
+		},
+		{
+			"definition": "an open fabric of string or rope or wire woven together at regular intervals",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of interlocking or meshing",
+			"pos": "noun"
+		},
+		{
+			"definition": "keep engaged",
+			"pos": "verb"
+		},
+		{
+			"definition": "coordinate in such a way that all parts work together effectively",
+			"pos": "verb"
+		},
+		{
+			"definition": "work together in harmony",
+			"pos": "verb"
+		},
+		{
+			"definition": "entangle or catch in (or as if in) a mesh",
+			"pos": "verb"
+		}
+	]
+}

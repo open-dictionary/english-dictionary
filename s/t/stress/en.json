@@ -1,0 +1,37 @@
+{
+	"word": "stress",
+	"definitions": [
+		{
+			"definition": "the relative prominence of a syllable or musical note (especially with regard to stress or pitch)",
+			"pos": "noun"
+		},
+		{
+			"definition": "(psychology) a state of mental or emotional strain or suspense",
+			"pos": "noun"
+		},
+		{
+			"definition": "special emphasis attached to something",
+			"pos": "noun"
+		},
+		{
+			"definition": "difficulty that causes worry or emotional tension",
+			"pos": "noun"
+		},
+		{
+			"definition": "(physics) force that produces strain on a physical body",
+			"pos": "noun"
+		},
+		{
+			"definition": "to stress, single out as important",
+			"pos": "verb"
+		},
+		{
+			"definition": "put stress on",
+			"pos": "verb"
+		},
+		{
+			"definition": "test the limits of",
+			"pos": "verb"
+		}
+	]
+}

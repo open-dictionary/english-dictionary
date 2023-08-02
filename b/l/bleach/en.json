@@ -1,0 +1,25 @@
+{
+	"word": "bleach",
+	"definitions": [
+		{
+			"definition": "the whiteness that results from removing the color from something",
+			"pos": "noun"
+		},
+		{
+			"definition": "an agent that makes things white or colorless",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of whitening something by bleaching it (exposing it to sunlight or using a chemical bleaching agent)",
+			"pos": "noun"
+		},
+		{
+			"definition": "remove color from",
+			"pos": "verb"
+		},
+		{
+			"definition": "make whiter or lighter",
+			"pos": "verb"
+		}
+	]
+}

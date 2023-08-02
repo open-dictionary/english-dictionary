@@ -1,0 +1,33 @@
+{
+	"word": "transition",
+	"definitions": [
+		{
+			"definition": "the act of passing from one state or place to the next",
+			"pos": "noun"
+		},
+		{
+			"definition": "an event that results in a transformation",
+			"pos": "noun"
+		},
+		{
+			"definition": "a change from one place or state or subject or stage to another",
+			"pos": "noun"
+		},
+		{
+			"definition": "a musical passage moving from one key to another",
+			"pos": "noun"
+		},
+		{
+			"definition": "a passage that connects a topic to one that follows",
+			"pos": "noun"
+		},
+		{
+			"definition": "cause to convert or undergo a transition",
+			"pos": "verb"
+		},
+		{
+			"definition": "make or undergo a transition (from one state or system to another)",
+			"pos": "verb"
+		}
+	]
+}

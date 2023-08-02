@@ -1,0 +1,21 @@
+{
+	"word": "sampling",
+	"definitions": [
+		{
+			"definition": "(statistics) the selection of a suitable sample for study",
+			"pos": "noun"
+		},
+		{
+			"definition": "items selected at random from a population and used to test hypotheses about the population",
+			"pos": "noun"
+		},
+		{
+			"definition": "measurement at regular intervals of the amplitude of a varying waveform (in order to convert it to digital form)",
+			"pos": "noun"
+		},
+		{
+			"definition": "take a sample of",
+			"pos": "verb"
+		}
+	]
+}

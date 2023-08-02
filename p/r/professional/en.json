@@ -1,0 +1,37 @@
+{
+	"word": "professional",
+	"definitions": [
+		{
+			"definition": "a person engaged in one of the learned professions",
+			"pos": "noun"
+		},
+		{
+			"definition": "an athlete who plays for pay",
+			"pos": "noun"
+		},
+		{
+			"definition": "an authority qualified to teach apprentices",
+			"pos": "noun"
+		},
+		{
+			"definition": "engaged in a profession or engaging in as a profession or means of livelihood",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to or suitable as a profession",
+			"pos": "adjective"
+		},
+		{
+			"definition": "characteristic of or befitting a profession or one engaged in a profession",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to a profession",
+			"pos": "adjective"
+		},
+		{
+			"definition": "engaged in by members of a profession",
+			"pos": "adjective"
+		}
+	]
+}

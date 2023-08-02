@@ -1,0 +1,29 @@
+{
+	"word": "hiss",
+	"definitions": [
+		{
+			"definition": "a fricative sound (especially as an expression of disapproval)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cry or noise made to express displeasure or contempt",
+			"pos": "noun"
+		},
+		{
+			"definition": "make a sharp hissing sound, as if to show disapproval",
+			"pos": "verb"
+		},
+		{
+			"definition": "move with a whooshing sound",
+			"pos": "verb"
+		},
+		{
+			"definition": "express or utter with a hiss",
+			"pos": "verb"
+		},
+		{
+			"definition": "show displeasure, as after a performance or speech",
+			"pos": "verb"
+		}
+	]
+}

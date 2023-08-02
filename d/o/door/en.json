@@ -1,0 +1,25 @@
+{
+	"word": "door",
+	"definitions": [
+		{
+			"definition": "a swinging or sliding barrier that will close the entrance to a room or building or vehicle",
+			"pos": "noun"
+		},
+		{
+			"definition": "the entrance (the space in a wall) through which you enter or leave a room or building",
+			"pos": "noun"
+		},
+		{
+			"definition": "anything providing a means of access (or escape)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a structure where people live or work (usually ordered along a street or road)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a room that is entered via a door",
+			"pos": "noun"
+		}
+	]
+}

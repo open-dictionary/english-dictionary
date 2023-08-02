@@ -1,0 +1,21 @@
+{
+	"word": "excavation",
+	"definitions": [
+		{
+			"definition": "the act of digging",
+			"pos": "noun"
+		},
+		{
+			"definition": "the site of an archeological exploration",
+			"pos": "noun"
+		},
+		{
+			"definition": "a hole in the ground made by excavating",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of extracting ores or coal etc from the earth",
+			"pos": "noun"
+		}
+	]
+}

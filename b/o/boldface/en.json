@@ -1,0 +1,13 @@
+{
+	"word": "boldface",
+	"definitions": [
+		{
+			"definition": "a typeface with thick heavy lines",
+			"pos": "noun"
+		},
+		{
+			"definition": "print in boldface",
+			"pos": "verb"
+		}
+	]
+}

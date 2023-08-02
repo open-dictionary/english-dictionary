@@ -1,0 +1,25 @@
+{
+	"word": "fort",
+	"definitions": [
+		{
+			"definition": "a fortified military post where troops are stationed",
+			"pos": "noun"
+		},
+		{
+			"definition": "a fortified defensive structure",
+			"pos": "noun"
+		},
+		{
+			"definition": "gather in, or as if in, a fort, as for protection or defense",
+			"pos": "verb"
+		},
+		{
+			"definition": "enclose by or as if by a fortification",
+			"pos": "verb"
+		},
+		{
+			"definition": "station (troops) in a fort",
+			"pos": "verb"
+		}
+	]
+}

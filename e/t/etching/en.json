@@ -1,0 +1,37 @@
+{
+	"word": "etching",
+	"definitions": [
+		{
+			"definition": "an impression made from an etched plate",
+			"pos": "noun"
+		},
+		{
+			"definition": "an etched plate made with the use of acid",
+			"pos": "noun"
+		},
+		{
+			"definition": "making engraved or etched plates and printing designs from them",
+			"pos": "noun"
+		},
+		{
+			"definition": "make an etching of",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to stand out or be clearly defined or visible",
+			"pos": "verb"
+		},
+		{
+			"definition": "carve or cut into a block used for printing or print from such a block",
+			"pos": "verb"
+		},
+		{
+			"definition": "carve or cut a design or letters into",
+			"pos": "verb"
+		},
+		{
+			"definition": "selectively dissolve the surface of (a semiconductor or printed circuit) with a solvent, laser, or stream of electrons",
+			"pos": "verb"
+		}
+	]
+}

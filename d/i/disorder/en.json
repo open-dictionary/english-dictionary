@@ -1,0 +1,25 @@
+{
+	"word": "disorder",
+	"definitions": [
+		{
+			"definition": "a physical condition in which there is a disturbance of normal functioning",
+			"pos": "noun"
+		},
+		{
+			"definition": "a condition in which things are not in their expected places",
+			"pos": "noun"
+		},
+		{
+			"definition": "a disturbance of the peace or of public order",
+			"pos": "noun"
+		},
+		{
+			"definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+			"pos": "verb"
+		},
+		{
+			"definition": "bring disorder to",
+			"pos": "verb"
+		}
+	]
+}

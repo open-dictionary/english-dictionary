@@ -1,0 +1,25 @@
+{
+	"word": "laminate",
+	"definitions": [
+		{
+			"definition": "a sheet of material made by bonding two or more sheets or layers",
+			"pos": "noun"
+		},
+		{
+			"definition": "create laminate by bonding sheets of material with a bonding material",
+			"pos": "verb"
+		},
+		{
+			"definition": "press or beat (metals) into thin sheets",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover with a thin sheet of non-fabric material",
+			"pos": "verb"
+		},
+		{
+			"definition": "split (wood) into thin sheets",
+			"pos": "verb"
+		}
+	]
+}

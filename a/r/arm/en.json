@@ -1,0 +1,37 @@
+{
+	"word": "arm",
+	"definitions": [
+		{
+			"definition": "a human limb",
+			"pos": "noun"
+		},
+		{
+			"definition": "any projection that is thought to resemble a human arm",
+			"pos": "noun"
+		},
+		{
+			"definition": "any instrument or instrumentality used in fighting or hunting",
+			"pos": "noun"
+		},
+		{
+			"definition": "the part of an armchair or sofa that supports the elbow and forearm of a seated person",
+			"pos": "noun"
+		},
+		{
+			"definition": "a division of some larger or more complex organization",
+			"pos": "noun"
+		},
+		{
+			"definition": "the part of a garment that is attached at the armhole and that provides a cloth covering for the arm",
+			"pos": "noun"
+		},
+		{
+			"definition": "prepare oneself for a military confrontation",
+			"pos": "verb"
+		},
+		{
+			"definition": "supply with arms",
+			"pos": "verb"
+		}
+	]
+}

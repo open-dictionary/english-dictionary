@@ -1,0 +1,53 @@
+{
+	"word": "action",
+	"definitions": [
+		{
+			"definition": "something done (usually as opposed to something said)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the state of being active",
+			"pos": "noun"
+		},
+		{
+			"definition": "a military engagement",
+			"pos": "noun"
+		},
+		{
+			"definition": "a process existing in or produced by nature (rather than by the intent of human beings)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the series of events that form a plot",
+			"pos": "noun"
+		},
+		{
+			"definition": "the trait of being active and energetic and forceful",
+			"pos": "noun"
+		},
+		{
+			"definition": "the operating part that transmits power to a mechanism",
+			"pos": "noun"
+		},
+		{
+			"definition": "a judicial proceeding brought by one party against another",
+			"pos": "noun"
+		},
+		{
+			"definition": "an act by a government body or supranational organization",
+			"pos": "noun"
+		},
+		{
+			"definition": "the most important or interesting work or activity in a specific area or field",
+			"pos": "noun"
+		},
+		{
+			"definition": "institute legal proceedings against",
+			"pos": "verb"
+		},
+		{
+			"definition": "put in effect",
+			"pos": "verb"
+		}
+	]
+}

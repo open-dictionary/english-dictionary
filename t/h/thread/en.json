@@ -1,0 +1,41 @@
+{
+	"word": "thread",
+	"definitions": [
+		{
+			"definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving",
+			"pos": "noun"
+		},
+		{
+			"definition": "any long object resembling a thin line",
+			"pos": "noun"
+		},
+		{
+			"definition": "the connections that link the various parts of an event or argument together",
+			"pos": "noun"
+		},
+		{
+			"definition": "the raised helical rib going around a screw",
+			"pos": "noun"
+		},
+		{
+			"definition": "to move or cause to move in a sinuous, spiral, or circular course",
+			"pos": "verb"
+		},
+		{
+			"definition": "pass a thread through",
+			"pos": "verb"
+		},
+		{
+			"definition": "remove facial hair by tying a fine string around it and pulling at the string",
+			"pos": "verb"
+		},
+		{
+			"definition": "pass through or into",
+			"pos": "verb"
+		},
+		{
+			"definition": "thread on or as if on a string",
+			"pos": "verb"
+		}
+	]
+}

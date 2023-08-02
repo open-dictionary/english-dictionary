@@ -1,0 +1,29 @@
+{
+	"word": "distortion",
+	"definitions": [
+		{
+			"definition": "a change for the worse",
+			"pos": "noun"
+		},
+		{
+			"definition": "a shape resulting from distortion",
+			"pos": "noun"
+		},
+		{
+			"definition": "an optical phenomenon resulting from the failure of a lens or mirror to produce a good image",
+			"pos": "noun"
+		},
+		{
+			"definition": "a change (usually undesired) in the waveform of an acoustic or analog electrical signal",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of distorting something so it seems to mean something it was not intended to mean",
+			"pos": "noun"
+		},
+		{
+			"definition": "the mistake of misrepresenting the facts",
+			"pos": "noun"
+		}
+	]
+}

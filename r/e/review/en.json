@@ -1,0 +1,65 @@
+{
+	"word": "review",
+	"definitions": [
+		{
+			"definition": "a new appraisal or evaluation",
+			"pos": "noun"
+		},
+		{
+			"definition": "an essay or article that gives a critical evaluation (as of a book or play)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a subsequent examination of a patient for the purpose of monitoring earlier treatment",
+			"pos": "noun"
+		},
+		{
+			"definition": "(accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data",
+			"pos": "noun"
+		},
+		{
+			"definition": "a variety show with topical sketches and songs and dancing and comedians",
+			"pos": "noun"
+		},
+		{
+			"definition": "a periodical that publishes critical essays on current affairs or literature or art",
+			"pos": "noun"
+		},
+		{
+			"definition": "a summary at the end that repeats the substance of a longer discussion",
+			"pos": "noun"
+		},
+		{
+			"definition": "(law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
+			"pos": "noun"
+		},
+		{
+			"definition": "practice intended to polish performance or refresh the memory",
+			"pos": "noun"
+		},
+		{
+			"definition": "a formal or official examination",
+			"pos": "noun"
+		},
+		{
+			"definition": "look at again",
+			"pos": "verb"
+		},
+		{
+			"definition": "appraise critically",
+			"pos": "verb"
+		},
+		{
+			"definition": "hold a review (of troops)",
+			"pos": "verb"
+		},
+		{
+			"definition": "refresh one's memory",
+			"pos": "verb"
+		},
+		{
+			"definition": "look back upon (a period of time, sequence of events)",
+			"pos": "verb"
+		}
+	]
+}

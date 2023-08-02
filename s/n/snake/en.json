@@ -1,0 +1,41 @@
+{
+	"word": "snake",
+	"definitions": [
+		{
+			"definition": "limbless scaly elongate reptile",
+			"pos": "noun"
+		},
+		{
+			"definition": "a deceitful or treacherous person",
+			"pos": "noun"
+		},
+		{
+			"definition": "a tributary of the Columbia River that rises in Wyoming and flows westward",
+			"pos": "noun"
+		},
+		{
+			"definition": "a long faint constellation in the southern hemisphere near the equator stretching between Virgo and Cancer",
+			"pos": "noun"
+		},
+		{
+			"definition": "something long, thin, and flexible that resembles a snake",
+			"pos": "noun"
+		},
+		{
+			"definition": "a long flexible steel coil for dislodging stoppages in curved pipes",
+			"pos": "noun"
+		},
+		{
+			"definition": "move smoothly and sinuously, like a snake",
+			"pos": "verb"
+		},
+		{
+			"definition": "form a snake-like pattern",
+			"pos": "verb"
+		},
+		{
+			"definition": "move along a winding path",
+			"pos": "verb"
+		}
+	]
+}

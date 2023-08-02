@@ -1,0 +1,25 @@
+{
+	"word": "fuel",
+	"definitions": [
+		{
+			"definition": "a substance that can be consumed to produce energy",
+			"pos": "noun"
+		},
+		{
+			"definition": "provide with a combustible substance that provides energy",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide with fuel",
+			"pos": "verb"
+		},
+		{
+			"definition": "take in fuel, as of a ship",
+			"pos": "verb"
+		},
+		{
+			"definition": "stimulate",
+			"pos": "verb"
+		}
+	]
+}

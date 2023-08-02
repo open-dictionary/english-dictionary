@@ -1,0 +1,25 @@
+{
+	"word": "indenture",
+	"definitions": [
+		{
+			"definition": "a concave cut into a surface or edge (as in a coastline)",
+			"pos": "noun"
+		},
+		{
+			"definition": "formal agreement between the issuer of bonds and the bondholders as to terms of the debt",
+			"pos": "noun"
+		},
+		{
+			"definition": "a contract binding one party into the service of another for a specified term",
+			"pos": "noun"
+		},
+		{
+			"definition": "the space left between the margin and the start of an indented line",
+			"pos": "noun"
+		},
+		{
+			"definition": "bind by or as if by indentures, as of an apprentice or servant",
+			"pos": "verb"
+		}
+	]
+}

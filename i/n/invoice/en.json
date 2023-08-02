@@ -1,0 +1,13 @@
+{
+	"word": "invoice",
+	"definitions": [
+		{
+			"definition": "an itemized statement of money owed for goods shipped or services rendered",
+			"pos": "noun"
+		},
+		{
+			"definition": "send an bill to",
+			"pos": "verb"
+		}
+	]
+}

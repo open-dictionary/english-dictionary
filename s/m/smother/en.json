@@ -1,0 +1,33 @@
+{
+	"word": "smother",
+	"definitions": [
+		{
+			"definition": "a confused multitude of things",
+			"pos": "noun"
+		},
+		{
+			"definition": "a stifling cloud of smoke",
+			"pos": "noun"
+		},
+		{
+			"definition": "envelop completely",
+			"pos": "verb"
+		},
+		{
+			"definition": "deprive of oxygen and prevent from breathing",
+			"pos": "verb"
+		},
+		{
+			"definition": "suppress in order to conceal or hide",
+			"pos": "verb"
+		},
+		{
+			"definition": "form an impenetrable cover over",
+			"pos": "verb"
+		},
+		{
+			"definition": "deprive of the oxygen necessary for combustion",
+			"pos": "verb"
+		}
+	]
+}

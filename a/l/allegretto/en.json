@@ -1,0 +1,21 @@
+{
+	"word": "allegretto",
+	"definitions": [
+		{
+			"definition": "a quicker tempo than andante but not as fast as allegro",
+			"pos": "noun"
+		},
+		{
+			"definition": "a musical composition or musical passage to be performed at a somewhat quicker tempo than andante but not as fast as allegro",
+			"pos": "noun"
+		},
+		{
+			"definition": "(of tempo) faster than allegro",
+			"pos": "adjective"
+		},
+		{
+			"definition": "in a moderately quick tempo",
+			"pos": "adverb"
+		}
+	]
+}

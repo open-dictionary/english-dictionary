@@ -1,0 +1,29 @@
+{
+	"word": "secular",
+	"definitions": [
+		{
+			"definition": "someone who is not a clergyman or a professional person",
+			"pos": "noun"
+		},
+		{
+			"definition": "of or relating to the doctrine that rejects religion and religious considerations",
+			"pos": "adjective"
+		},
+		{
+			"definition": "characteristic of or devoted to the temporal world as opposed to the spiritual world",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not concerned with or devoted to religion",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to clergy not bound by monastic vows",
+			"pos": "adjective"
+		},
+		{
+			"definition": "characteristic of those who are not members of the clergy",
+			"pos": "adjective"
+		}
+	]
+}

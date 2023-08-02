@@ -1,0 +1,37 @@
+{
+	"word": "rim",
+	"definitions": [
+		{
+			"definition": "the shape of a raised edge of a more or less circular object",
+			"pos": "noun"
+		},
+		{
+			"definition": "(basketball) the hoop from which the net is suspended",
+			"pos": "noun"
+		},
+		{
+			"definition": "the outer part of a wheel to which the tire is attached",
+			"pos": "noun"
+		},
+		{
+			"definition": "a projection used for strength or for attaching to another object",
+			"pos": "noun"
+		},
+		{
+			"definition": "the top edge of a vessel or other container",
+			"pos": "noun"
+		},
+		{
+			"definition": "run around the rim of",
+			"pos": "verb"
+		},
+		{
+			"definition": "furnish with a rim",
+			"pos": "verb"
+		},
+		{
+			"definition": "roll around the rim of",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"word": "stooge",
+	"definitions": [
+		{
+			"definition": "a person of unquestioning obedience",
+			"pos": "noun"
+		},
+		{
+			"definition": "a victim of ridicule or pranks",
+			"pos": "noun"
+		},
+		{
+			"definition": "cruise in slow or routine flights",
+			"pos": "verb"
+		},
+		{
+			"definition": "act as the stooge",
+			"pos": "verb"
+		},
+		{
+			"definition": "act as a stooge, in a compliant or subordinate manner",
+			"pos": "verb"
+		}
+	]
+}

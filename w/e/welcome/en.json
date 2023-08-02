@@ -1,0 +1,29 @@
+{
+	"word": "welcome",
+	"definitions": [
+		{
+			"definition": "the state of being welcome",
+			"pos": "noun"
+		},
+		{
+			"definition": "a greeting or reception",
+			"pos": "noun"
+		},
+		{
+			"definition": "accept gladly",
+			"pos": "verb"
+		},
+		{
+			"definition": "bid welcome to",
+			"pos": "verb"
+		},
+		{
+			"definition": "receive someone, as into one's house",
+			"pos": "verb"
+		},
+		{
+			"definition": "giving pleasure or satisfaction or received with pleasure or freely granted",
+			"pos": "adjective"
+		}
+	]
+}

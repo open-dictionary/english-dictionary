@@ -1,0 +1,25 @@
+{
+	"word": "length",
+	"definitions": [
+		{
+			"definition": "the linear extent in space from one end to the other",
+			"pos": "noun"
+		},
+		{
+			"definition": "continuance in time",
+			"pos": "noun"
+		},
+		{
+			"definition": "the property of being the extent of something from beginning to end",
+			"pos": "noun"
+		},
+		{
+			"definition": "size of the gap between two places",
+			"pos": "noun"
+		},
+		{
+			"definition": "a section of something that is long and narrow",
+			"pos": "noun"
+		}
+	]
+}

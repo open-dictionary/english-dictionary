@@ -1,0 +1,41 @@
+{
+	"word": "strand",
+	"definitions": [
+		{
+			"definition": "a pattern forming a unity within a larger structural whole",
+			"pos": "noun"
+		},
+		{
+			"definition": "line consisting of a complex of fibers or filaments that are twisted together to form a thread or a rope or a cable",
+			"pos": "noun"
+		},
+		{
+			"definition": "a necklace made by stringing objects together",
+			"pos": "noun"
+		},
+		{
+			"definition": "a very slender natural or synthetic fiber",
+			"pos": "noun"
+		},
+		{
+			"definition": "a poetic term for a shore (as the area periodically covered and uncovered by the tides)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a street in west central London famous for its theaters and hotels",
+			"pos": "noun"
+		},
+		{
+			"definition": "leave stranded or isolated with little hope of rescue",
+			"pos": "verb"
+		},
+		{
+			"definition": "drive (a vessel) ashore",
+			"pos": "verb"
+		},
+		{
+			"definition": "bring to the ground",
+			"pos": "verb"
+		}
+	]
+}

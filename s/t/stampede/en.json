@@ -1,0 +1,29 @@
+{
+	"word": "stampede",
+	"definitions": [
+		{
+			"definition": "a headlong rush of people on a common impulse",
+			"pos": "noun"
+		},
+		{
+			"definition": "a wild headlong rush of frightened animals (horses or cattle)",
+			"pos": "noun"
+		},
+		{
+			"definition": "cause to run in panic",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause a group or mass of people to act on an impulse or hurriedly and impulsively",
+			"pos": "verb"
+		},
+		{
+			"definition": "act, usually en masse, hurriedly or on an impulse",
+			"pos": "verb"
+		},
+		{
+			"definition": "run away in a stampede",
+			"pos": "verb"
+		}
+	]
+}

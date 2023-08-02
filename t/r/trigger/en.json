@@ -1,0 +1,25 @@
+{
+	"word": "trigger",
+	"definitions": [
+		{
+			"definition": "lever that activates the firing mechanism of a gun",
+			"pos": "noun"
+		},
+		{
+			"definition": "a device that activates or releases or causes something to happen",
+			"pos": "noun"
+		},
+		{
+			"definition": "an act that sets in motion some course of events",
+			"pos": "noun"
+		},
+		{
+			"definition": "put in motion or move to act",
+			"pos": "verb"
+		},
+		{
+			"definition": "release or pull the trigger on",
+			"pos": "verb"
+		}
+	]
+}

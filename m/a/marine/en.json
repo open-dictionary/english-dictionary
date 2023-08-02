@@ -1,0 +1,33 @@
+{
+	"word": "marine",
+	"definitions": [
+		{
+			"definition": "a member of the United States Marine Corps",
+			"pos": "noun"
+		},
+		{
+			"definition": "a soldier who serves both on shipboard and on land",
+			"pos": "noun"
+		},
+		{
+			"definition": "of or relating to the sea",
+			"pos": "adjective"
+		},
+		{
+			"definition": "relating to or involving ships or shipping or navigation or seamen",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to military personnel who serve both on land and at sea (specifically the U.S. Marine Corps)",
+			"pos": "adjective"
+		},
+		{
+			"definition": "relating to or characteristic of or occurring on or in the sea",
+			"pos": "adjective"
+		},
+		{
+			"definition": "native to or inhabiting the sea",
+			"pos": "adjective"
+		}
+	]
+}

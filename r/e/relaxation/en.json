@@ -1,0 +1,33 @@
+{
+	"word": "relaxation",
+	"definitions": [
+		{
+			"definition": "(physiology) the gradual lengthening of inactive muscle or muscle fibers",
+			"pos": "noun"
+		},
+		{
+			"definition": "(physics) the exponential return of a system to equilibrium after a disturbance",
+			"pos": "noun"
+		},
+		{
+			"definition": "a feeling of refreshing tranquility and an absence of tension or worry",
+			"pos": "noun"
+		},
+		{
+			"definition": "an occurrence of control or strength weakening",
+			"pos": "noun"
+		},
+		{
+			"definition": "freedom from activity (work or strain or responsibility)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a method of solving simultaneous equations by guessing a solution and then reducing the errors that result by successive approximations until all the errors are less than some specified amount",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of making less strict",
+			"pos": "noun"
+		}
+	]
+}

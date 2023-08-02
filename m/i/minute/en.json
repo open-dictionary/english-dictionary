@@ -1,0 +1,37 @@
+{
+	"word": "minute",
+	"definitions": [
+		{
+			"definition": "a unit of time equal to 60 seconds or 1/60th of an hour",
+			"pos": "noun"
+		},
+		{
+			"definition": "an indefinitely short time",
+			"pos": "noun"
+		},
+		{
+			"definition": "a particular point in time",
+			"pos": "noun"
+		},
+		{
+			"definition": "a unit of angular distance equal to a 60th of a degree",
+			"pos": "noun"
+		},
+		{
+			"definition": "a short note",
+			"pos": "noun"
+		},
+		{
+			"definition": "distance measured by the time taken to cover it",
+			"pos": "noun"
+		},
+		{
+			"definition": "infinitely or immeasurably small",
+			"pos": "adjective"
+		},
+		{
+			"definition": "characterized by painstaking care and detailed examination",
+			"pos": "adjective"
+		}
+	]
+}

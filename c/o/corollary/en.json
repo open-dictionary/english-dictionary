@@ -1,0 +1,13 @@
+{
+	"word": "corollary",
+	"definitions": [
+		{
+			"definition": "a practical consequence that follows naturally",
+			"pos": "noun"
+		},
+		{
+			"definition": "(logic) an inference that follows directly from the proof of another proposition",
+			"pos": "noun"
+		}
+	]
+}

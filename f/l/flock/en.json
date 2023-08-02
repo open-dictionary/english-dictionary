@@ -1,0 +1,33 @@
+{
+	"word": "flock",
+	"definitions": [
+		{
+			"definition": "a church congregation guided by a pastor",
+			"pos": "noun"
+		},
+		{
+			"definition": "a group of birds",
+			"pos": "noun"
+		},
+		{
+			"definition": "(often followed by `of') a large number or amount or extent",
+			"pos": "noun"
+		},
+		{
+			"definition": "an orderly crowd",
+			"pos": "noun"
+		},
+		{
+			"definition": "a group of sheep or goats",
+			"pos": "noun"
+		},
+		{
+			"definition": "move as a crowd or in a group",
+			"pos": "verb"
+		},
+		{
+			"definition": "come together as in a cluster or flock",
+			"pos": "verb"
+		}
+	]
+}

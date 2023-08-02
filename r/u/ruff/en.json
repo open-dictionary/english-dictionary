@@ -1,0 +1,25 @@
+{
+	"word": "ruff",
+	"definitions": [
+		{
+			"definition": "an external body part consisting of feathers or hair about the neck of a bird or other animal",
+			"pos": "noun"
+		},
+		{
+			"definition": "a high tight collar",
+			"pos": "noun"
+		},
+		{
+			"definition": "common Eurasian sandpiper",
+			"pos": "noun"
+		},
+		{
+			"definition": "(card games) the act of taking a trick with a trump when unable to follow suit",
+			"pos": "noun"
+		},
+		{
+			"definition": "play a trump",
+			"pos": "verb"
+		}
+	]
+}

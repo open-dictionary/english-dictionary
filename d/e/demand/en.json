@@ -1,0 +1,49 @@
+{
+	"word": "demand",
+	"definitions": [
+		{
+			"definition": "an urgent or peremptory request",
+			"pos": "noun"
+		},
+		{
+			"definition": "the ability and desire to purchase goods and services",
+			"pos": "noun"
+		},
+		{
+			"definition": "required activity",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of demanding",
+			"pos": "noun"
+		},
+		{
+			"definition": "a condition requiring relief",
+			"pos": "noun"
+		},
+		{
+			"definition": "request urgently and forcefully",
+			"pos": "verb"
+		},
+		{
+			"definition": "require as useful, just, or proper",
+			"pos": "verb"
+		},
+		{
+			"definition": "claim as due or just",
+			"pos": "verb"
+		},
+		{
+			"definition": "lay legal claim to",
+			"pos": "verb"
+		},
+		{
+			"definition": "summon to court",
+			"pos": "verb"
+		},
+		{
+			"definition": "ask to be informed of",
+			"pos": "verb"
+		}
+	]
+}

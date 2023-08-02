@@ -1,0 +1,49 @@
+{
+	"word": "guide",
+	"definitions": [
+		{
+			"definition": "someone employed to conduct others",
+			"pos": "noun"
+		},
+		{
+			"definition": "someone who shows the way by leading or advising",
+			"pos": "noun"
+		},
+		{
+			"definition": "something that offers basic information or instruction",
+			"pos": "noun"
+		},
+		{
+			"definition": "a model or standard for making comparisons",
+			"pos": "noun"
+		},
+		{
+			"definition": "someone who can find paths through unexplored territory",
+			"pos": "noun"
+		},
+		{
+			"definition": "a structure or marking that serves to direct the motion or positioning of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "direct the course",
+			"pos": "verb"
+		},
+		{
+			"definition": "take somebody somewhere",
+			"pos": "verb"
+		},
+		{
+			"definition": "be a guiding or motivating force or drive",
+			"pos": "verb"
+		},
+		{
+			"definition": "use as a guide",
+			"pos": "verb"
+		},
+		{
+			"definition": "pass over, across, or through",
+			"pos": "verb"
+		}
+	]
+}

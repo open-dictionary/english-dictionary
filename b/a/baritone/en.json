@@ -1,0 +1,21 @@
+{
+	"word": "baritone",
+	"definitions": [
+		{
+			"definition": "a male singer",
+			"pos": "noun"
+		},
+		{
+			"definition": "the second lowest adult male singing voice",
+			"pos": "noun"
+		},
+		{
+			"definition": "the second lowest brass wind instrument",
+			"pos": "noun"
+		},
+		{
+			"definition": "lower in range than tenor and higher than bass",
+			"pos": "adjective"
+		}
+	]
+}

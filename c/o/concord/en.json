@@ -1,0 +1,45 @@
+{
+	"word": "concord",
+	"definitions": [
+		{
+			"definition": "capital of the state of New Hampshire",
+			"pos": "noun"
+		},
+		{
+			"definition": "a harmonious state of things in general and of their properties (as of colors and sounds)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the determination of grammatical inflection on the basis of word relations",
+			"pos": "noun"
+		},
+		{
+			"definition": "town in eastern Massachusetts near Boston where the first battle of the American Revolution was fought",
+			"pos": "noun"
+		},
+		{
+			"definition": "agreement of opinions",
+			"pos": "noun"
+		},
+		{
+			"definition": "the first battle of the American Revolution (April 19, 1775)",
+			"pos": "noun"
+		},
+		{
+			"definition": "go together",
+			"pos": "verb"
+		},
+		{
+			"definition": "arrange by concord or agreement",
+			"pos": "verb"
+		},
+		{
+			"definition": "arrange the words of a text so as to create a concordance",
+			"pos": "verb"
+		},
+		{
+			"definition": "be in accord",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"word": "scheme",
+	"definitions": [
+		{
+			"definition": "an elaborate and systematic plan of action",
+			"pos": "noun"
+		},
+		{
+			"definition": "a statement that evades the question by cleverness or trickery",
+			"pos": "noun"
+		},
+		{
+			"definition": "a group of independent but interrelated elements comprising a unified whole",
+			"pos": "noun"
+		},
+		{
+			"definition": "an internal representation of the world",
+			"pos": "noun"
+		},
+		{
+			"definition": "a schematic or preliminary plan",
+			"pos": "noun"
+		},
+		{
+			"definition": "form intrigues (for) in an underhand manner",
+			"pos": "verb"
+		},
+		{
+			"definition": "devise a system or form a scheme for",
+			"pos": "verb"
+		}
+	]
+}

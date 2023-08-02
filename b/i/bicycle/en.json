@@ -1,0 +1,13 @@
+{
+	"word": "bicycle",
+	"definitions": [
+		{
+			"definition": "a wheeled vehicle that has two wheels and is moved by foot pedals",
+			"pos": "noun"
+		},
+		{
+			"definition": "ride a bicycle",
+			"pos": "verb"
+		}
+	]
+}

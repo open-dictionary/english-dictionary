@@ -1,0 +1,45 @@
+{
+	"word": "waver",
+	"definitions": [
+		{
+			"definition": "someone who communicates by waving",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of pausing uncertainly",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of moving back and forth",
+			"pos": "noun"
+		},
+		{
+			"definition": "pause or hold back in uncertainty or unwillingness",
+			"pos": "verb"
+		},
+		{
+			"definition": "be unsure or weak",
+			"pos": "verb"
+		},
+		{
+			"definition": "move hesitatingly, as if about to give way",
+			"pos": "verb"
+		},
+		{
+			"definition": "move or sway in a rising and falling or wavelike pattern",
+			"pos": "verb"
+		},
+		{
+			"definition": "move back and forth very rapidly",
+			"pos": "verb"
+		},
+		{
+			"definition": "sway from side to side",
+			"pos": "verb"
+		},
+		{
+			"definition": "give off unsteady sounds, alternating in amplitude or frequency",
+			"pos": "verb"
+		}
+	]
+}

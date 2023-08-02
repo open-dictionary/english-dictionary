@@ -1,0 +1,21 @@
+{
+	"word": "audio",
+	"definitions": [
+		{
+			"definition": "the audible part of a transmitted signal",
+			"pos": "noun"
+		},
+		{
+			"definition": "an audible acoustic wave frequency",
+			"pos": "noun"
+		},
+		{
+			"definition": "a recording of acoustic signals",
+			"pos": "noun"
+		},
+		{
+			"definition": "the sound elements of television",
+			"pos": "noun"
+		}
+	]
+}

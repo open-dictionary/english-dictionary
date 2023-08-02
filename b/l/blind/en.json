@@ -1,0 +1,45 @@
+{
+	"word": "blind",
+	"definitions": [
+		{
+			"definition": "people who have severe visual impairments, considered as a group",
+			"pos": "noun"
+		},
+		{
+			"definition": "a hiding place sometimes used by hunters (especially duck hunters)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a protective covering that keeps things out or hinders sight",
+			"pos": "noun"
+		},
+		{
+			"definition": "something intended to misrepresent the true nature of an activity",
+			"pos": "noun"
+		},
+		{
+			"definition": "render unable to see",
+			"pos": "verb"
+		},
+		{
+			"definition": "make blind by putting the eyes out",
+			"pos": "verb"
+		},
+		{
+			"definition": "make dim by comparison or conceal",
+			"pos": "verb"
+		},
+		{
+			"definition": "unable to see",
+			"pos": "adjective"
+		},
+		{
+			"definition": "unable or unwilling to perceive or understand",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not based on reason or evidence",
+			"pos": "adjective"
+		}
+	]
+}

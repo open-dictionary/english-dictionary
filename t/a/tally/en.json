@@ -1,0 +1,33 @@
+{
+	"word": "tally",
+	"definitions": [
+		{
+			"definition": "a score in baseball made by a runner touching all four bases safely",
+			"pos": "noun"
+		},
+		{
+			"definition": "a bill for an amount due",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of counting",
+			"pos": "noun"
+		},
+		{
+			"definition": "be compatible, similar or consistent",
+			"pos": "verb"
+		},
+		{
+			"definition": "gain points in a game",
+			"pos": "verb"
+		},
+		{
+			"definition": "keep score, as in games",
+			"pos": "verb"
+		},
+		{
+			"definition": "determine the sum of",
+			"pos": "verb"
+		}
+	]
+}

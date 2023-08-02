@@ -1,0 +1,29 @@
+{
+	"word": "rotate",
+	"definitions": [
+		{
+			"definition": "turn on or around an axis or a center",
+			"pos": "verb"
+		},
+		{
+			"definition": "exchange on a regular basis",
+			"pos": "verb"
+		},
+		{
+			"definition": "perform a job or duty on a rotating basis",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to turn on an axis or center",
+			"pos": "verb"
+		},
+		{
+			"definition": "turn outward",
+			"pos": "verb"
+		},
+		{
+			"definition": "plant or grow in a fixed cyclic order of succession",
+			"pos": "verb"
+		}
+	]
+}

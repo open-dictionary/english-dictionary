@@ -1,0 +1,17 @@
+{
+	"word": "projectile",
+	"definitions": [
+		{
+			"definition": "a weapon that is forcibly thrown or projected at a targets but is not self-propelled",
+			"pos": "noun"
+		},
+		{
+			"definition": "any vehicle self-propelled by a rocket engine",
+			"pos": "noun"
+		},
+		{
+			"definition": "impelling or impelled forward",
+			"pos": "adjective"
+		}
+	]
+}

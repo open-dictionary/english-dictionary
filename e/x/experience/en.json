@@ -1,0 +1,37 @@
+{
+	"word": "experience",
+	"definitions": [
+		{
+			"definition": "the accumulation of knowledge or skill that results from direct participation in events or activities",
+			"pos": "noun"
+		},
+		{
+			"definition": "the content of direct observation or participation in an event",
+			"pos": "noun"
+		},
+		{
+			"definition": "an event as apprehended",
+			"pos": "noun"
+		},
+		{
+			"definition": "undergo or live through a difficult experience",
+			"pos": "verb"
+		},
+		{
+			"definition": "have firsthand knowledge of states, situations, emotions, or sensations",
+			"pos": "verb"
+		},
+		{
+			"definition": "go through (mental or physical states or experiences)",
+			"pos": "verb"
+		},
+		{
+			"definition": "undergo an emotional sensation or be in a particular state of mind",
+			"pos": "verb"
+		},
+		{
+			"definition": "undergo",
+			"pos": "verb"
+		}
+	]
+}

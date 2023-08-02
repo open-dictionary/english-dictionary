@@ -1,0 +1,25 @@
+{
+	"word": "sledge",
+	"definitions": [
+		{
+			"definition": "a vehicle mounted on runners and pulled by horses or dogs",
+			"pos": "noun"
+		},
+		{
+			"definition": "a heavy long-handled hammer used to drive stakes or wedges",
+			"pos": "noun"
+		},
+		{
+			"definition": "transport in a sleigh",
+			"pos": "verb"
+		},
+		{
+			"definition": "ride in or travel with a sledge",
+			"pos": "verb"
+		},
+		{
+			"definition": "beat with a sledgehammer",
+			"pos": "verb"
+		}
+	]
+}

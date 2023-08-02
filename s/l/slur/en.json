@@ -1,0 +1,33 @@
+{
+	"word": "slur",
+	"definitions": [
+		{
+			"definition": "(music) a curved line spanning notes that are to be played legato",
+			"pos": "noun"
+		},
+		{
+			"definition": "a disparaging remark",
+			"pos": "noun"
+		},
+		{
+			"definition": "a blemish made by dirt",
+			"pos": "noun"
+		},
+		{
+			"definition": "play smoothly or legato",
+			"pos": "verb"
+		},
+		{
+			"definition": "speak disparagingly of",
+			"pos": "verb"
+		},
+		{
+			"definition": "utter indistinctly",
+			"pos": "verb"
+		},
+		{
+			"definition": "become vague or indistinct",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "pressure",
+	"definitions": [
+		{
+			"definition": "the force applied to a unit area of surface",
+			"pos": "noun"
+		},
+		{
+			"definition": "a force that compels",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of pressing",
+			"pos": "noun"
+		},
+		{
+			"definition": "the state of demanding notice or attention",
+			"pos": "noun"
+		},
+		{
+			"definition": "the somatic sensation that results from applying force to an area of skin",
+			"pos": "noun"
+		},
+		{
+			"definition": "an oppressive condition of physical or mental or social or economic distress",
+			"pos": "noun"
+		},
+		{
+			"definition": "the pressure exerted by the atmosphere",
+			"pos": "noun"
+		},
+		{
+			"definition": "to cause to do through pressure or necessity, by physical, moral or intellectual means",
+			"pos": "verb"
+		},
+		{
+			"definition": "exert pressure on someone through threats",
+			"pos": "verb"
+		}
+	]
+}

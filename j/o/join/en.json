@@ -1,0 +1,33 @@
+{
+	"word": "join",
+	"definitions": [
+		{
+			"definition": "the shape or manner in which things come together and a connection is made",
+			"pos": "noun"
+		},
+		{
+			"definition": "a set containing all and only the members of two or more given sets",
+			"pos": "noun"
+		},
+		{
+			"definition": "become part of",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to become joined or linked",
+			"pos": "verb"
+		},
+		{
+			"definition": "come into the company of",
+			"pos": "verb"
+		},
+		{
+			"definition": "make contact or come together",
+			"pos": "verb"
+		},
+		{
+			"definition": "be or become joined or united or linked",
+			"pos": "verb"
+		}
+	]
+}

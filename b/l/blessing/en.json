@@ -1,0 +1,41 @@
+{
+	"word": "blessing",
+	"definitions": [
+		{
+			"definition": "the formal act of approving",
+			"pos": "noun"
+		},
+		{
+			"definition": "a desirable state",
+			"pos": "noun"
+		},
+		{
+			"definition": "a short prayer of thanks before a meal",
+			"pos": "noun"
+		},
+		{
+			"definition": "a ceremonial prayer invoking divine protection",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of praying for divine protection",
+			"pos": "noun"
+		},
+		{
+			"definition": "give a benediction to",
+			"pos": "verb"
+		},
+		{
+			"definition": "confer prosperity or happiness on",
+			"pos": "verb"
+		},
+		{
+			"definition": "make the sign of the cross over someone in order to call on God for protection",
+			"pos": "verb"
+		},
+		{
+			"definition": "render holy by means of religious rites",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"word": "menu",
+	"definitions": [
+		{
+			"definition": "a list of dishes available at a restaurant",
+			"pos": "noun"
+		},
+		{
+			"definition": "the dishes making up a meal",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a list of options available to a computer user",
+			"pos": "noun"
+		},
+		{
+			"definition": "an agenda of things to do",
+			"pos": "noun"
+		}
+	]
+}

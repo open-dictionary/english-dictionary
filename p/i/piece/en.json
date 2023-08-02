@@ -1,0 +1,77 @@
+{
+	"word": "piece",
+	"definitions": [
+		{
+			"definition": "a separate part of a whole",
+			"pos": "noun"
+		},
+		{
+			"definition": "an item that is an instance of some type",
+			"pos": "noun"
+		},
+		{
+			"definition": "a portion of a natural object",
+			"pos": "noun"
+		},
+		{
+			"definition": "a musical work that has been created",
+			"pos": "noun"
+		},
+		{
+			"definition": "an instance of some kind",
+			"pos": "noun"
+		},
+		{
+			"definition": "an artistic or literary composition",
+			"pos": "noun"
+		},
+		{
+			"definition": "a portable gun",
+			"pos": "noun"
+		},
+		{
+			"definition": "a serving that has been cut from a larger portion",
+			"pos": "noun"
+		},
+		{
+			"definition": "a distance",
+			"pos": "noun"
+		},
+		{
+			"definition": "a work of art of some artistic value",
+			"pos": "noun"
+		},
+		{
+			"definition": "a period of indeterminate length (usually short) marked by some action or condition",
+			"pos": "noun"
+		},
+		{
+			"definition": "a share of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "game equipment consisting of an object used in playing certain board games",
+			"pos": "noun"
+		},
+		{
+			"definition": "to join or unite the pieces of",
+			"pos": "verb"
+		},
+		{
+			"definition": "create by putting components or members together",
+			"pos": "verb"
+		},
+		{
+			"definition": "join during spinning",
+			"pos": "verb"
+		},
+		{
+			"definition": "eat intermittently",
+			"pos": "verb"
+		},
+		{
+			"definition": "repair by adding pieces",
+			"pos": "verb"
+		}
+	]
+}

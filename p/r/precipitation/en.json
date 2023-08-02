@@ -1,0 +1,29 @@
+{
+	"word": "precipitation",
+	"definitions": [
+		{
+			"definition": "the quantity of water falling to earth at a specific place within a specified period of time",
+			"pos": "noun"
+		},
+		{
+			"definition": "the process of forming a chemical precipitate",
+			"pos": "noun"
+		},
+		{
+			"definition": "the falling to earth of any form of water (rain or snow or hail or sleet or mist)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of casting down or falling headlong from a height",
+			"pos": "noun"
+		},
+		{
+			"definition": "an unexpected acceleration or hastening",
+			"pos": "noun"
+		},
+		{
+			"definition": "overly eager speed (and possible carelessness)",
+			"pos": "noun"
+		}
+	]
+}

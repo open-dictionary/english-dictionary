@@ -1,0 +1,37 @@
+{
+	"word": "grave",
+	"definitions": [
+		{
+			"definition": "death of a person",
+			"pos": "noun"
+		},
+		{
+			"definition": "a place for the burial of a corpse (especially beneath the ground and marked by a tombstone)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a mark (`) placed above a vowel to indicate pronunciation",
+			"pos": "noun"
+		},
+		{
+			"definition": "shape (a material like stone or wood) by whittling away at it",
+			"pos": "verb"
+		},
+		{
+			"definition": "carve, cut, or etch into a material or surface",
+			"pos": "verb"
+		},
+		{
+			"definition": "dignified and somber in manner or character and committed to keeping promises",
+			"pos": "adjective"
+		},
+		{
+			"definition": "causing fear or anxiety by threatening great harm",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of great gravity or crucial import",
+			"pos": "adjective"
+		}
+	]
+}

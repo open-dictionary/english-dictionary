@@ -1,0 +1,37 @@
+{
+	"word": "launch",
+	"definitions": [
+		{
+			"definition": "a motorboat with an open deck or a half deck",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of propelling with force",
+			"pos": "noun"
+		},
+		{
+			"definition": "set up or found",
+			"pos": "verb"
+		},
+		{
+			"definition": "propel with force",
+			"pos": "verb"
+		},
+		{
+			"definition": "launch for the first time",
+			"pos": "verb"
+		},
+		{
+			"definition": "begin with vigor",
+			"pos": "verb"
+		},
+		{
+			"definition": "get going",
+			"pos": "verb"
+		},
+		{
+			"definition": "smoothen the surface of",
+			"pos": "verb"
+		}
+	]
+}

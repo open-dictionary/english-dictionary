@@ -1,0 +1,33 @@
+{
+	"word": "accommodate",
+	"definitions": [
+		{
+			"definition": "be agreeable or acceptable to",
+			"pos": "verb"
+		},
+		{
+			"definition": "make fit for, or change to suit a new purpose",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide with something desired or needed",
+			"pos": "verb"
+		},
+		{
+			"definition": "have room for",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide housing for",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide a service or favor for someone",
+			"pos": "verb"
+		},
+		{
+			"definition": "make (one thing) compatible with (another)",
+			"pos": "verb"
+		}
+	]
+}

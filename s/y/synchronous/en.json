@@ -1,0 +1,13 @@
+{
+	"word": "synchronous",
+	"definitions": [
+		{
+			"definition": "occurring or existing at the same time or having the same period or phase",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(digital communication) pertaining to a transmission technique that requires a common clock signal (a timing reference) between the communicating devices in order to coordinate their transmissions",
+			"pos": "adjective"
+		}
+	]
+}

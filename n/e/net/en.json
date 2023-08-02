@@ -1,0 +1,53 @@
+{
+	"word": "net",
+	"definitions": [
+		{
+			"definition": "a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange",
+			"pos": "noun"
+		},
+		{
+			"definition": "a trap made of netting to catch fish or birds or insects",
+			"pos": "noun"
+		},
+		{
+			"definition": "the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a goal lined with netting (as in soccer or hockey)",
+			"pos": "noun"
+		},
+		{
+			"definition": "game equipment consisting of a strip of netting dividing the playing area in tennis or badminton",
+			"pos": "noun"
+		},
+		{
+			"definition": "an open fabric of string or rope or wire woven together at regular intervals",
+			"pos": "noun"
+		},
+		{
+			"definition": "make as a net profit",
+			"pos": "verb"
+		},
+		{
+			"definition": "yield as a net profit",
+			"pos": "verb"
+		},
+		{
+			"definition": "construct or form a web, as if by weaving",
+			"pos": "verb"
+		},
+		{
+			"definition": "catch with a net",
+			"pos": "verb"
+		},
+		{
+			"definition": "remaining after all deductions",
+			"pos": "adjective"
+		},
+		{
+			"definition": "conclusive in a process or progression",
+			"pos": "adjective"
+		}
+	]
+}

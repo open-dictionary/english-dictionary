@@ -1,0 +1,37 @@
+{
+	"word": "classical",
+	"definitions": [
+		{
+			"definition": "traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste",
+			"pos": "noun"
+		},
+		{
+			"definition": "of or relating to the first significant period of a civilization, culture, area of study, etc.",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to the study of the literary works of ancient Greece and Rome",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to the languages used by ancient standard authors",
+			"pos": "adjective"
+		},
+		{
+			"definition": "well-known and long-established in form or style",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(physics) relating to or based on concepts that preceded the theories of relativity and quantum mechanics",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to music in the European tradition, such as symphonies and operas",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or pertaining to or characteristic of the ancient Greeks and Romans, especially their art, literature, or culture",
+			"pos": "adjective"
+		}
+	]
+}

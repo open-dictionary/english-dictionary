@@ -1,0 +1,21 @@
+{
+	"word": "paragraph",
+	"definitions": [
+		{
+			"definition": "one of several distinct subdivisions of a text intended to separate ideas",
+			"pos": "noun"
+		},
+		{
+			"definition": "divide into paragraphs, as of text",
+			"pos": "verb"
+		},
+		{
+			"definition": "write about in a paragraph",
+			"pos": "verb"
+		},
+		{
+			"definition": "write paragraphs",
+			"pos": "verb"
+		}
+	]
+}

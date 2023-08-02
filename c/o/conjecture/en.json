@@ -1,0 +1,21 @@
+{
+	"word": "conjecture",
+	"definitions": [
+		{
+			"definition": "a hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a message expressing an opinion based on incomplete evidence",
+			"pos": "noun"
+		},
+		{
+			"definition": "reasoning that involves the formation of conclusions from incomplete evidence",
+			"pos": "noun"
+		},
+		{
+			"definition": "to believe especially on uncertain or tentative grounds",
+			"pos": "verb"
+		}
+	]
+}

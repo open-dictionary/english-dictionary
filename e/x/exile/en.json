@@ -1,0 +1,21 @@
+{
+	"word": "exile",
+	"definitions": [
+		{
+			"definition": "a person who is voluntarily absent from home or country",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person who is expelled from home or country by authority",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of expelling a person from their native land",
+			"pos": "noun"
+		},
+		{
+			"definition": "expel from a country",
+			"pos": "verb"
+		}
+	]
+}

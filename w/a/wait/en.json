@@ -1,0 +1,29 @@
+{
+	"word": "wait",
+	"definitions": [
+		{
+			"definition": "time during which some action is awaited",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of waiting (remaining inactive in one place while expecting something)",
+			"pos": "noun"
+		},
+		{
+			"definition": "stay in one place and anticipate or expect something",
+			"pos": "verb"
+		},
+		{
+			"definition": "wait before acting",
+			"pos": "verb"
+		},
+		{
+			"definition": "look forward to the probable occurrence of",
+			"pos": "verb"
+		},
+		{
+			"definition": "serve as a waiter or waitress in a restaurant",
+			"pos": "verb"
+		}
+	]
+}

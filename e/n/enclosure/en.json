@@ -1,0 +1,21 @@
+{
+	"word": "enclosure",
+	"definitions": [
+		{
+			"definition": "a structure consisting of an area that has been enclosed for some purpose",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of enclosing something inside something else",
+			"pos": "noun"
+		},
+		{
+			"definition": "a naturally enclosed space",
+			"pos": "noun"
+		},
+		{
+			"definition": "something (usually a supporting document) that is enclosed in an envelope with a covering letter",
+			"pos": "noun"
+		}
+	]
+}

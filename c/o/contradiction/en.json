@@ -1,0 +1,17 @@
+{
+	"word": "contradiction",
+	"definitions": [
+		{
+			"definition": "opposition between two conflicting forces or ideas",
+			"pos": "noun"
+		},
+		{
+			"definition": "(logic) a statement that is necessarily false",
+			"pos": "noun"
+		},
+		{
+			"definition": "the speech act of contradicting someone",
+			"pos": "noun"
+		}
+	]
+}

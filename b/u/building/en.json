@@ -1,0 +1,61 @@
+{
+	"word": "building",
+	"definitions": [
+		{
+			"definition": "a structure that has a roof and walls and stands more or less permanently in one place",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of constructing something",
+			"pos": "noun"
+		},
+		{
+			"definition": "the commercial activity involved in repairing old structures or constructing new ones",
+			"pos": "noun"
+		},
+		{
+			"definition": "the occupants of a building",
+			"pos": "noun"
+		},
+		{
+			"definition": "make by combining materials and parts",
+			"pos": "verb"
+		},
+		{
+			"definition": "form or accumulate steadily",
+			"pos": "verb"
+		},
+		{
+			"definition": "build or establish something abstract",
+			"pos": "verb"
+		},
+		{
+			"definition": "improve the cleansing action of",
+			"pos": "verb"
+		},
+		{
+			"definition": "order, supervise, or finance the construction of",
+			"pos": "verb"
+		},
+		{
+			"definition": "give form to, according to a plan",
+			"pos": "verb"
+		},
+		{
+			"definition": "be engaged in building",
+			"pos": "verb"
+		},
+		{
+			"definition": "found or ground",
+			"pos": "verb"
+		},
+		{
+			"definition": "bolster or strengthen",
+			"pos": "verb"
+		},
+		{
+			"definition": "develop and grow",
+			"pos": "verb"
+		}
+	]
+}

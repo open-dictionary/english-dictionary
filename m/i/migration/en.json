@@ -1,0 +1,21 @@
+{
+	"word": "migration",
+	"definitions": [
+		{
+			"definition": "the movement of persons from one country or locality to another",
+			"pos": "noun"
+		},
+		{
+			"definition": "a group of people migrating together (especially in some given time period)",
+			"pos": "noun"
+		},
+		{
+			"definition": "(chemistry) the nonrandom movement of an atom or radical from one place to another within a molecule",
+			"pos": "noun"
+		},
+		{
+			"definition": "the periodic passage of groups of animals (especially birds or fishes) from one region to another for feeding or breeding",
+			"pos": "noun"
+		}
+	]
+}

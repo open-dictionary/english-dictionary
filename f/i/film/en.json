@@ -1,0 +1,33 @@
+{
+	"word": "film",
+	"definitions": [
+		{
+			"definition": "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+			"pos": "noun"
+		},
+		{
+			"definition": "a medium that disseminates moving pictures",
+			"pos": "noun"
+		},
+		{
+			"definition": "photographic material consisting of a base of celluloid covered with a photographic emulsion",
+			"pos": "noun"
+		},
+		{
+			"definition": "a thin coating or layer",
+			"pos": "noun"
+		},
+		{
+			"definition": "a thin sheet of (usually plastic and usually transparent) material used to wrap or cover things",
+			"pos": "noun"
+		},
+		{
+			"definition": "make a film or photograph of something",
+			"pos": "verb"
+		},
+		{
+			"definition": "record in film",
+			"pos": "verb"
+		}
+	]
+}

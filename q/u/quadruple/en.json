@@ -1,0 +1,25 @@
+{
+	"word": "quadruple",
+	"definitions": [
+		{
+			"definition": "a set of four similar things considered as a unit",
+			"pos": "noun"
+		},
+		{
+			"definition": "a quantity that is four times as great as another",
+			"pos": "noun"
+		},
+		{
+			"definition": "increase fourfold",
+			"pos": "verb"
+		},
+		{
+			"definition": "having four units or components",
+			"pos": "adjective"
+		},
+		{
+			"definition": "four times as great or many",
+			"pos": "adjective"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"word": "talk",
+	"definitions": [
+		{
+			"definition": "an exchange of ideas via conversation",
+			"pos": "noun"
+		},
+		{
+			"definition": "discussion",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of giving a talk to an audience",
+			"pos": "noun"
+		},
+		{
+			"definition": "a speech that is open to the public",
+			"pos": "noun"
+		},
+		{
+			"definition": "idle gossip or rumor",
+			"pos": "noun"
+		},
+		{
+			"definition": "exchange thoughts",
+			"pos": "verb"
+		},
+		{
+			"definition": "express in speech",
+			"pos": "verb"
+		},
+		{
+			"definition": "use language",
+			"pos": "verb"
+		},
+		{
+			"definition": "reveal information",
+			"pos": "verb"
+		},
+		{
+			"definition": "divulge confidential information or secrets",
+			"pos": "verb"
+		},
+		{
+			"definition": "deliver a lecture or talk",
+			"pos": "verb"
+		}
+	]
+}

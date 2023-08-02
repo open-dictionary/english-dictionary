@@ -1,0 +1,25 @@
+{
+	"word": "buckle",
+	"definitions": [
+		{
+			"definition": "fastener that fastens together two ends of a belt or strap",
+			"pos": "noun"
+		},
+		{
+			"definition": "a shape distorted by twisting or folding",
+			"pos": "noun"
+		},
+		{
+			"definition": "fasten with a buckle or buckles",
+			"pos": "verb"
+		},
+		{
+			"definition": "fold or collapse",
+			"pos": "verb"
+		},
+		{
+			"definition": "bend out of shape, as under pressure or from heat",
+			"pos": "verb"
+		}
+	]
+}

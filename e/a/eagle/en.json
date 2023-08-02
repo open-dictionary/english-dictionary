@@ -1,0 +1,29 @@
+{
+	"word": "eagle",
+	"definitions": [
+		{
+			"definition": "any of various large keen-sighted diurnal birds of prey noted for their broad wings and strong soaring flight",
+			"pos": "noun"
+		},
+		{
+			"definition": "(golf) a score of two strokes under par on a hole",
+			"pos": "noun"
+		},
+		{
+			"definition": "a former gold coin in the United States worth 10 dollars",
+			"pos": "noun"
+		},
+		{
+			"definition": "an emblem representing power",
+			"pos": "noun"
+		},
+		{
+			"definition": "shoot two strokes under par",
+			"pos": "verb"
+		},
+		{
+			"definition": "shoot in two strokes under par",
+			"pos": "verb"
+		}
+	]
+}

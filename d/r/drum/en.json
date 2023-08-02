@@ -1,0 +1,41 @@
+{
+	"word": "drum",
+	"definitions": [
+		{
+			"definition": "a musical percussion instrument",
+			"pos": "noun"
+		},
+		{
+			"definition": "the sound of a drum",
+			"pos": "noun"
+		},
+		{
+			"definition": "a bulging cylindrical shape",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cylindrical metal container used for shipping or storage of liquids",
+			"pos": "noun"
+		},
+		{
+			"definition": "a hollow cast iron cylinder attached to the wheel that forms part of the brakes",
+			"pos": "noun"
+		},
+		{
+			"definition": "small to medium-sized bottom-dwelling food and game fishes of shallow coastal and fresh waters that make a drumming noise",
+			"pos": "noun"
+		},
+		{
+			"definition": "make a rhythmic sound",
+			"pos": "verb"
+		},
+		{
+			"definition": "play a percussion instrument",
+			"pos": "verb"
+		},
+		{
+			"definition": "study intensively, as before an exam",
+			"pos": "verb"
+		}
+	]
+}

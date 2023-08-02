@@ -1,0 +1,21 @@
+{
+	"word": "scrabble",
+	"definitions": [
+		{
+			"definition": "an aimless drawing",
+			"pos": "noun"
+		},
+		{
+			"definition": "a board game in which words are formed from letters in patterns similar to a crossword puzzle",
+			"pos": "noun"
+		},
+		{
+			"definition": "feel searchingly",
+			"pos": "verb"
+		},
+		{
+			"definition": "write down quickly without much attention to detail",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"word": "scattering",
+	"definitions": [
+		{
+			"definition": "a small number (of something) dispersed haphazardly",
+			"pos": "noun"
+		},
+		{
+			"definition": "the physical process in which particles are deflected haphazardly as a result of collisions",
+			"pos": "noun"
+		},
+		{
+			"definition": "a light shower that falls in some locations and not others nearby",
+			"pos": "noun"
+		},
+		{
+			"definition": "spreading widely or driving off",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of scattering",
+			"pos": "noun"
+		},
+		{
+			"definition": "to cause to separate and go in different directions",
+			"pos": "verb"
+		},
+		{
+			"definition": "move away from each other",
+			"pos": "verb"
+		},
+		{
+			"definition": "distribute loosely",
+			"pos": "verb"
+		},
+		{
+			"definition": "sow by scattering",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to separate",
+			"pos": "verb"
+		},
+		{
+			"definition": "strew or distribute over an area",
+			"pos": "verb"
+		}
+	]
+}

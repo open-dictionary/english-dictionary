@@ -1,0 +1,33 @@
+{
+	"word": "northeast",
+	"definitions": [
+		{
+			"definition": "the compass point midway between north and east",
+			"pos": "noun"
+		},
+		{
+			"definition": "the northeastern region of the United States",
+			"pos": "noun"
+		},
+		{
+			"definition": "the direction corresponding to the northeastward compass point",
+			"pos": "noun"
+		},
+		{
+			"definition": "a location in the northeastern part of a country, region, or city",
+			"pos": "noun"
+		},
+		{
+			"definition": "situated in or oriented toward the northeast",
+			"pos": "adjective"
+		},
+		{
+			"definition": "coming from the northeast",
+			"pos": "adjective"
+		},
+		{
+			"definition": "to, toward, or in the northeast",
+			"pos": "adverb"
+		}
+	]
+}

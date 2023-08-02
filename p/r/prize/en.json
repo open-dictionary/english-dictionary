@@ -1,0 +1,33 @@
+{
+	"word": "prize",
+	"definitions": [
+		{
+			"definition": "something given for victory or superiority in a contest or competition or for winning a lottery",
+			"pos": "noun"
+		},
+		{
+			"definition": "goods or money obtained illegally",
+			"pos": "noun"
+		},
+		{
+			"definition": "something given as a token of victory",
+			"pos": "noun"
+		},
+		{
+			"definition": "hold dear",
+			"pos": "verb"
+		},
+		{
+			"definition": "to move or force, especially in an effort to get something open",
+			"pos": "verb"
+		},
+		{
+			"definition": "regard highly",
+			"pos": "verb"
+		},
+		{
+			"definition": "of superior grade",
+			"pos": "adjective"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"word": "vest",
+	"definitions": [
+		{
+			"definition": "a man's sleeveless garment worn underneath a coat",
+			"pos": "noun"
+		},
+		{
+			"definition": "a collarless men's undergarment for the upper part of the body",
+			"pos": "noun"
+		},
+		{
+			"definition": "provide with power and authority",
+			"pos": "verb"
+		},
+		{
+			"definition": "place (authority, property, or rights) in the control of a person or group of persons",
+			"pos": "verb"
+		},
+		{
+			"definition": "become legally vested",
+			"pos": "verb"
+		},
+		{
+			"definition": "clothe oneself in ecclesiastical garments",
+			"pos": "verb"
+		},
+		{
+			"definition": "clothe formally",
+			"pos": "verb"
+		}
+	]
+}

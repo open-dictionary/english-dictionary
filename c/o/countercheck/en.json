@@ -1,0 +1,21 @@
+{
+	"word": "countercheck",
+	"definitions": [
+		{
+			"definition": "a check that restrains another check",
+			"pos": "noun"
+		},
+		{
+			"definition": "something that checks the correctness of a previous check",
+			"pos": "noun"
+		},
+		{
+			"definition": "oppose or check by a counteraction",
+			"pos": "verb"
+		},
+		{
+			"definition": "check a second time",
+			"pos": "verb"
+		}
+	]
+}

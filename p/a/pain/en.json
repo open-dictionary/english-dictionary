@@ -1,0 +1,33 @@
+{
+	"word": "pain",
+	"definitions": [
+		{
+			"definition": "a symptom of some physical hurt or disorder",
+			"pos": "noun"
+		},
+		{
+			"definition": "emotional distress",
+			"pos": "noun"
+		},
+		{
+			"definition": "a somatic sensation of acute discomfort",
+			"pos": "noun"
+		},
+		{
+			"definition": "a bothersome annoying person",
+			"pos": "noun"
+		},
+		{
+			"definition": "something or someone that causes trouble",
+			"pos": "noun"
+		},
+		{
+			"definition": "cause bodily suffering to and make sick or indisposed",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause emotional anguish or make miserable",
+			"pos": "verb"
+		}
+	]
+}

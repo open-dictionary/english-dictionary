@@ -1,0 +1,45 @@
+{
+	"word": "stem",
+	"definitions": [
+		{
+			"definition": "(linguistics) the form of a word after all affixes are removed",
+			"pos": "noun"
+		},
+		{
+			"definition": "a slender or elongated structure that supports a plant or fungus or a plant part or plant organ",
+			"pos": "noun"
+		},
+		{
+			"definition": "cylinder forming a long narrow part of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "the tube of a tobacco pipe",
+			"pos": "noun"
+		},
+		{
+			"definition": "front part of a vessel or aircraft",
+			"pos": "noun"
+		},
+		{
+			"definition": "a turn made in skiing",
+			"pos": "noun"
+		},
+		{
+			"definition": "grow out of, have roots in, originate in",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to point inward",
+			"pos": "verb"
+		},
+		{
+			"definition": "stop the flow of a liquid",
+			"pos": "verb"
+		},
+		{
+			"definition": "remove the stem from",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"word": "winding",
+	"definitions": [
+		{
+			"definition": "the act of winding or twisting",
+			"pos": "noun"
+		},
+		{
+			"definition": "to move or cause to move in a sinuous, spiral, or circular course",
+			"pos": "verb"
+		},
+		{
+			"definition": "extend in curves and turns",
+			"pos": "verb"
+		},
+		{
+			"definition": "arrange or or coil around",
+			"pos": "verb"
+		},
+		{
+			"definition": "catch the scent of",
+			"pos": "verb"
+		},
+		{
+			"definition": "coil the spring of (some mechanical device) by turning a stem",
+			"pos": "verb"
+		},
+		{
+			"definition": "form into a wreath",
+			"pos": "verb"
+		},
+		{
+			"definition": "raise or haul up with or as if with mechanical help",
+			"pos": "verb"
+		},
+		{
+			"definition": "marked by repeated turns and bends",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of a path e.g.",
+			"pos": "adjective"
+		}
+	]
+}

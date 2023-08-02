@@ -1,0 +1,57 @@
+{
+	"word": "patch",
+	"definitions": [
+		{
+			"definition": "a small contrasting part of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small area of ground covered by specific vegetation",
+			"pos": "noun"
+		},
+		{
+			"definition": "a piece of cloth used as decoration or to mend or cover a hole",
+			"pos": "noun"
+		},
+		{
+			"definition": "a period of indeterminate length (usually short) marked by some action or condition",
+			"pos": "noun"
+		},
+		{
+			"definition": "a short set of commands to correct a bug in a computer program",
+			"pos": "noun"
+		},
+		{
+			"definition": "a connection intended to be used for a limited time",
+			"pos": "noun"
+		},
+		{
+			"definition": "sewing that repairs a worn or torn hole (especially in a garment)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a protective cloth covering for an injured eye",
+			"pos": "noun"
+		},
+		{
+			"definition": "a piece of soft material that covers and protects an injured part of the body",
+			"pos": "noun"
+		},
+		{
+			"definition": "to join or unite the pieces of",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide with a patch",
+			"pos": "verb"
+		},
+		{
+			"definition": "mend by putting a patch on",
+			"pos": "verb"
+		},
+		{
+			"definition": "repair by adding pieces",
+			"pos": "verb"
+		}
+	]
+}

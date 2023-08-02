@@ -1,0 +1,17 @@
+{
+	"word": "semaphore",
+	"definitions": [
+		{
+			"definition": "an apparatus for visual signaling with lights or mechanically moving arms",
+			"pos": "noun"
+		},
+		{
+			"definition": "send signals by or as if by semaphore",
+			"pos": "verb"
+		},
+		{
+			"definition": "convey by semaphore, of information",
+			"pos": "verb"
+		}
+	]
+}

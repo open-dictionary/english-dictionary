@@ -1,0 +1,21 @@
+{
+	"word": "expense",
+	"definitions": [
+		{
+			"definition": "amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a detriment or sacrifice",
+			"pos": "noun"
+		},
+		{
+			"definition": "money spent to perform work and usually reimbursed by an employer",
+			"pos": "noun"
+		},
+		{
+			"definition": "reduce the estimated value of something",
+			"pos": "verb"
+		}
+	]
+}

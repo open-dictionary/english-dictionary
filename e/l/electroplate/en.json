@@ -1,0 +1,13 @@
+{
+	"word": "electroplate",
+	"definitions": [
+		{
+			"definition": "any artifact that has been plated with a thin coat of metal by electrolysis",
+			"pos": "noun"
+		},
+		{
+			"definition": "coat with metal by electrolysis",
+			"pos": "verb"
+		}
+	]
+}

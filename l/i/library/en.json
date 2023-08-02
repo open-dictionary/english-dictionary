@@ -1,0 +1,25 @@
+{
+	"word": "library",
+	"definitions": [
+		{
+			"definition": "a room where books are kept",
+			"pos": "noun"
+		},
+		{
+			"definition": "a collection of literary documents or records kept for reference or borrowing",
+			"pos": "noun"
+		},
+		{
+			"definition": "a depository built to contain books and other materials for reading and study",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+			"pos": "noun"
+		},
+		{
+			"definition": "a building that houses a collection of books and other materials",
+			"pos": "noun"
+		}
+	]
+}

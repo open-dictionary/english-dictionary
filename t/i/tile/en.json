@@ -1,0 +1,21 @@
+{
+	"word": "tile",
+	"definitions": [
+		{
+			"definition": "a flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces",
+			"pos": "noun"
+		},
+		{
+			"definition": "a thin flat slab of fired clay used for roofing",
+			"pos": "noun"
+		},
+		{
+			"definition": "game equipment consisting of a flat thin piece marked with characters and used in board games like Mah-Jong, Scrabble, etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "cover with tiles",
+			"pos": "verb"
+		}
+	]
+}

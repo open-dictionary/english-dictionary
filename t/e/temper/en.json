@@ -1,0 +1,41 @@
+{
+	"word": "temper",
+	"definitions": [
+		{
+			"definition": "a sudden outburst of anger",
+			"pos": "noun"
+		},
+		{
+			"definition": "a characteristic (habitual or relatively temporary) state of feeling",
+			"pos": "noun"
+		},
+		{
+			"definition": "a disposition to exhibit uncontrolled anger",
+			"pos": "noun"
+		},
+		{
+			"definition": "the elasticity and hardness of a metal object",
+			"pos": "noun"
+		},
+		{
+			"definition": "bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling",
+			"pos": "verb"
+		},
+		{
+			"definition": "harden by reheating and cooling in oil",
+			"pos": "verb"
+		},
+		{
+			"definition": "adjust the pitch (of pianos)",
+			"pos": "verb"
+		},
+		{
+			"definition": "make more temperate, acceptable, or suitable by adding something else",
+			"pos": "verb"
+		},
+		{
+			"definition": "change by restraining or moderating",
+			"pos": "verb"
+		}
+	]
+}

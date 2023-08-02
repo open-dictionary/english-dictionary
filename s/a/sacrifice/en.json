@@ -1,0 +1,41 @@
+{
+	"word": "sacrifice",
+	"definitions": [
+		{
+			"definition": "the act of losing or surrendering something as a penalty for a mistake or fault or failure to perform etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "personnel that are sacrificed (e.g., surrendered or lost in order to gain an objective)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a loss entailed by giving up or selling something at less than its value",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of killing (an animal or person) in order to propitiate a deity",
+			"pos": "noun"
+		},
+		{
+			"definition": "(baseball) an out that advances the base runners",
+			"pos": "noun"
+		},
+		{
+			"definition": "endure the loss of",
+			"pos": "verb"
+		},
+		{
+			"definition": "kill or destroy",
+			"pos": "verb"
+		},
+		{
+			"definition": "sell at a loss",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a sacrifice of",
+			"pos": "verb"
+		}
+	]
+}

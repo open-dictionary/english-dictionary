@@ -1,0 +1,65 @@
+{
+	"word": "loop",
+	"definitions": [
+		{
+			"definition": "fastener consisting of a metal ring for lining a small hole to permit the attachment of cords or lines",
+			"pos": "noun"
+		},
+		{
+			"definition": "anything with a round or oval shape (formed by a curve that is closed and does not intersect itself)",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a single execution of a set of instructions that are to be repeated",
+			"pos": "noun"
+		},
+		{
+			"definition": "an inner circle of advisors (especially under President Reagan)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the basic pattern of the human fingerprint",
+			"pos": "noun"
+		},
+		{
+			"definition": "a computer program that performs a series of instructions repeatedly until some specified condition is satisfied",
+			"pos": "noun"
+		},
+		{
+			"definition": "the topology of a network whose components are serially connected in such a way that the last component is connected to the first component",
+			"pos": "noun"
+		},
+		{
+			"definition": "an intrauterine device in the shape of a loop",
+			"pos": "noun"
+		},
+		{
+			"definition": "a complete electrical circuit around which current flows or a signal circulates",
+			"pos": "noun"
+		},
+		{
+			"definition": "a flight maneuver",
+			"pos": "noun"
+		},
+		{
+			"definition": "move in loops",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a loop in",
+			"pos": "verb"
+		},
+		{
+			"definition": "fly loops, perform a loop",
+			"pos": "verb"
+		},
+		{
+			"definition": "wind around something in coils or loops",
+			"pos": "verb"
+		},
+		{
+			"definition": "fasten or join with a loop",
+			"pos": "verb"
+		}
+	]
+}

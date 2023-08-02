@@ -1,0 +1,41 @@
+{
+	"word": "clouding",
+	"definitions": [
+		{
+			"definition": "the process whereby water particles become visible in the sky",
+			"pos": "noun"
+		},
+		{
+			"definition": "make overcast or cloudy",
+			"pos": "verb"
+		},
+		{
+			"definition": "make less visible or unclear",
+			"pos": "verb"
+		},
+		{
+			"definition": "billow up in the form of a cloud",
+			"pos": "verb"
+		},
+		{
+			"definition": "make gloomy or depressed",
+			"pos": "verb"
+		},
+		{
+			"definition": "place under suspicion or cast doubt upon",
+			"pos": "verb"
+		},
+		{
+			"definition": "make less clear",
+			"pos": "verb"
+		},
+		{
+			"definition": "colour with streaks or blotches of different shades",
+			"pos": "verb"
+		},
+		{
+			"definition": "make milky or dull",
+			"pos": "verb"
+		}
+	]
+}

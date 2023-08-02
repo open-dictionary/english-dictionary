@@ -1,0 +1,25 @@
+{
+	"word": "overload",
+	"definitions": [
+		{
+			"definition": "an electrical load that exceeds the available electrical power",
+			"pos": "noun"
+		},
+		{
+			"definition": "an excessive burden",
+			"pos": "noun"
+		},
+		{
+			"definition": "become overloaded",
+			"pos": "verb"
+		},
+		{
+			"definition": "fill to excess so that function is impaired",
+			"pos": "verb"
+		},
+		{
+			"definition": "place too much a load on",
+			"pos": "verb"
+		}
+	]
+}

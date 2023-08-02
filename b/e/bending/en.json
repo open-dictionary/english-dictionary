@@ -1,0 +1,41 @@
+{
+	"word": "bending",
+	"definitions": [
+		{
+			"definition": "movement that causes the formation of a curve",
+			"pos": "noun"
+		},
+		{
+			"definition": "the property of being bent or deflected",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of bending something",
+			"pos": "noun"
+		},
+		{
+			"definition": "form a curve",
+			"pos": "verb"
+		},
+		{
+			"definition": "change direction",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause (a plastic object) to assume a crooked or angular form",
+			"pos": "verb"
+		},
+		{
+			"definition": "bend one's back forward from the waist on down",
+			"pos": "verb"
+		},
+		{
+			"definition": "turn from a straight course, fixed direction, or line of interest",
+			"pos": "verb"
+		},
+		{
+			"definition": "bend a joint",
+			"pos": "verb"
+		}
+	]
+}

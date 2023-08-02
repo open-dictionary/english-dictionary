@@ -1,0 +1,21 @@
+{
+	"word": "sabre",
+	"definitions": [
+		{
+			"definition": "a fencing sword with a v-shaped blade and a slightly curved handle",
+			"pos": "noun"
+		},
+		{
+			"definition": "a stout sword with a curved blade and thick back",
+			"pos": "noun"
+		},
+		{
+			"definition": "cut or injure with a saber",
+			"pos": "verb"
+		},
+		{
+			"definition": "kill with a saber",
+			"pos": "verb"
+		}
+	]
+}

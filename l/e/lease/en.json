@@ -1,0 +1,33 @@
+{
+	"word": "lease",
+	"definitions": [
+		{
+			"definition": "property that is leased or rented out or let",
+			"pos": "noun"
+		},
+		{
+			"definition": "a contract granting use or occupation of property during a specified time for a specified payment",
+			"pos": "noun"
+		},
+		{
+			"definition": "the period of time during which a contract conveying property to a person is in effect",
+			"pos": "noun"
+		},
+		{
+			"definition": "let for money",
+			"pos": "verb"
+		},
+		{
+			"definition": "hold under a lease or rental agreement",
+			"pos": "verb"
+		},
+		{
+			"definition": "grant use or occupation of under a term of contract",
+			"pos": "verb"
+		},
+		{
+			"definition": "engage for service under a term of contract",
+			"pos": "verb"
+		}
+	]
+}

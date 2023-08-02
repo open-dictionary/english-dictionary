@@ -1,0 +1,41 @@
+{
+	"word": "favour",
+	"definitions": [
+		{
+			"definition": "a feeling of favorable regard",
+			"pos": "noun"
+		},
+		{
+			"definition": "an inclination to approve",
+			"pos": "noun"
+		},
+		{
+			"definition": "an advantage to the benefit of someone or something",
+			"pos": "noun"
+		},
+		{
+			"definition": "souvenir consisting of a small gift given to a guest at a party",
+			"pos": "noun"
+		},
+		{
+			"definition": "an act of gracious kindness",
+			"pos": "noun"
+		},
+		{
+			"definition": "treat gently or carefully",
+			"pos": "verb"
+		},
+		{
+			"definition": "bestow a privilege upon",
+			"pos": "verb"
+		},
+		{
+			"definition": "promote over another",
+			"pos": "verb"
+		},
+		{
+			"definition": "consider as the favorite",
+			"pos": "verb"
+		}
+	]
+}

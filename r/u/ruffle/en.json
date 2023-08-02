@@ -1,0 +1,53 @@
+{
+	"word": "ruffle",
+	"definitions": [
+		{
+			"definition": "a strip of pleated material used as a decoration or a trim",
+			"pos": "noun"
+		},
+		{
+			"definition": "a high tight collar",
+			"pos": "noun"
+		},
+		{
+			"definition": "a noisy fight",
+			"pos": "noun"
+		},
+		{
+			"definition": "stir up (water) so as to form ripples",
+			"pos": "verb"
+		},
+		{
+			"definition": "trouble or vex",
+			"pos": "verb"
+		},
+		{
+			"definition": "to walk with a lofty proud gait, often in an attempt to impress others",
+			"pos": "verb"
+		},
+		{
+			"definition": "discompose",
+			"pos": "verb"
+		},
+		{
+			"definition": "twitch or flutter",
+			"pos": "verb"
+		},
+		{
+			"definition": "mix so as to make a random order or arrangement",
+			"pos": "verb"
+		},
+		{
+			"definition": "erect or fluff up",
+			"pos": "verb"
+		},
+		{
+			"definition": "disturb the smoothness of",
+			"pos": "verb"
+		},
+		{
+			"definition": "pleat or gather into a ruffle",
+			"pos": "verb"
+		}
+	]
+}

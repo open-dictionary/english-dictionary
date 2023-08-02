@@ -1,0 +1,37 @@
+{
+	"word": "captain",
+	"definitions": [
+		{
+			"definition": "an officer holding a rank below a major but above a lieutenant",
+			"pos": "noun"
+		},
+		{
+			"definition": "the naval officer in command of a military ship",
+			"pos": "noun"
+		},
+		{
+			"definition": "a policeman in charge of a precinct",
+			"pos": "noun"
+		},
+		{
+			"definition": "an officer who is licensed to command a merchant ship",
+			"pos": "noun"
+		},
+		{
+			"definition": "the leader of a group of people",
+			"pos": "noun"
+		},
+		{
+			"definition": "the pilot in charge of an airship",
+			"pos": "noun"
+		},
+		{
+			"definition": "a dining-room attendant who is in charge of the waiters and the seating of customers",
+			"pos": "noun"
+		},
+		{
+			"definition": "be the captain of a sports team",
+			"pos": "verb"
+		}
+	]
+}

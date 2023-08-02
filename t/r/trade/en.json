@@ -1,0 +1,53 @@
+{
+	"word": "trade",
+	"definitions": [
+		{
+			"definition": "the commercial exchange (buying and selling on domestic or international markets) of goods and services",
+			"pos": "noun"
+		},
+		{
+			"definition": "the skilled practice of a practical occupation",
+			"pos": "noun"
+		},
+		{
+			"definition": "the business given to a commercial establishment by its customers",
+			"pos": "noun"
+		},
+		{
+			"definition": "a particular instance of buying or selling",
+			"pos": "noun"
+		},
+		{
+			"definition": "people who perform a particular kind of skilled work",
+			"pos": "noun"
+		},
+		{
+			"definition": "steady winds blowing from east to west above and below the equator",
+			"pos": "noun"
+		},
+		{
+			"definition": "an equal exchange",
+			"pos": "noun"
+		},
+		{
+			"definition": "engage in the trade of",
+			"pos": "verb"
+		},
+		{
+			"definition": "turn in as payment or part payment for a purchase",
+			"pos": "verb"
+		},
+		{
+			"definition": "be traded at a certain price or under certain conditions",
+			"pos": "verb"
+		},
+		{
+			"definition": "exchange or give (something) in exchange for",
+			"pos": "verb"
+		},
+		{
+			"definition": "do business",
+			"pos": "verb"
+		}
+	]
+}

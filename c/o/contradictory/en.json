@@ -1,0 +1,25 @@
+{
+	"word": "contradictory",
+	"definitions": [
+		{
+			"definition": "two propositions are contradictories if both cannot be true (or both cannot be false) at the same time",
+			"pos": "noun"
+		},
+		{
+			"definition": "of words or propositions so related that both cannot be true and both cannot be false",
+			"pos": "adjective"
+		},
+		{
+			"definition": "that confounds or contradicts or confuses",
+			"pos": "adjective"
+		},
+		{
+			"definition": "in disagreement",
+			"pos": "adjective"
+		},
+		{
+			"definition": "unable for both to exist or be true at the same time",
+			"pos": "adjective"
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"word": "bowl",
+	"definitions": [
+		{
+			"definition": "a round vessel that is open at the top",
+			"pos": "noun"
+		},
+		{
+			"definition": "a concave shape with an open top",
+			"pos": "noun"
+		},
+		{
+			"definition": "a dish that is round and open at the top for serving foods",
+			"pos": "noun"
+		},
+		{
+			"definition": "the quantity contained in a bowl",
+			"pos": "noun"
+		},
+		{
+			"definition": "a large structure for open-air sports or entertainments",
+			"pos": "noun"
+		},
+		{
+			"definition": "a large ball with finger holes used in the sport of bowling",
+			"pos": "noun"
+		},
+		{
+			"definition": "a wooden ball (with flattened sides so that it rolls on a curved course) used in the game of lawn bowling",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small round container that is open at the top for holding tobacco",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of rolling something (as the ball in bowling)",
+			"pos": "noun"
+		},
+		{
+			"definition": "roll (a ball)",
+			"pos": "verb"
+		},
+		{
+			"definition": "hurl a cricket ball from one end of the pitch towards the batsman at the other end",
+			"pos": "verb"
+		},
+		{
+			"definition": "engage in the sport of bowling",
+			"pos": "verb"
+		}
+	]
+}

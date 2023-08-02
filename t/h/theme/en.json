@@ -1,0 +1,29 @@
+{
+	"word": "theme",
+	"definitions": [
+		{
+			"definition": "the subject matter of a conversation or discussion",
+			"pos": "noun"
+		},
+		{
+			"definition": "a unifying idea that is a recurrent element in literary or artistic work",
+			"pos": "noun"
+		},
+		{
+			"definition": "(music) melodic subject of a musical composition",
+			"pos": "noun"
+		},
+		{
+			"definition": "an essay (especially one written as an assignment)",
+			"pos": "noun"
+		},
+		{
+			"definition": "(linguistics) the form of a word after all affixes are removed",
+			"pos": "noun"
+		},
+		{
+			"definition": "provide with a particular theme or motive",
+			"pos": "verb"
+		}
+	]
+}

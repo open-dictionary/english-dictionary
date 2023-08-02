@@ -1,0 +1,25 @@
+{
+	"word": "sluice",
+	"definitions": [
+		{
+			"definition": "conduit that carries a rapid flow of water controlled by a sluicegate",
+			"pos": "noun"
+		},
+		{
+			"definition": "pour as if from a sluice",
+			"pos": "verb"
+		},
+		{
+			"definition": "irrigate with water from a sluice",
+			"pos": "verb"
+		},
+		{
+			"definition": "transport in or send down a sluice",
+			"pos": "verb"
+		},
+		{
+			"definition": "draw through a sluice",
+			"pos": "verb"
+		}
+	]
+}

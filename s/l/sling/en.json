@@ -1,0 +1,41 @@
+{
+	"word": "sling",
+	"definitions": [
+		{
+			"definition": "a highball with liquor and water with sugar and lemon or lime juice",
+			"pos": "noun"
+		},
+		{
+			"definition": "a plaything consisting of a Y-shaped stick with elastic between the arms",
+			"pos": "noun"
+		},
+		{
+			"definition": "a shoe that has a strap that wraps around the heel",
+			"pos": "noun"
+		},
+		{
+			"definition": "a simple weapon consisting of a looped strap in which a projectile is whirled and then released",
+			"pos": "noun"
+		},
+		{
+			"definition": "bandage to support an injured forearm",
+			"pos": "noun"
+		},
+		{
+			"definition": "hurl as if with a sling",
+			"pos": "verb"
+		},
+		{
+			"definition": "hang loosely or freely",
+			"pos": "verb"
+		},
+		{
+			"definition": "move with a sling",
+			"pos": "verb"
+		},
+		{
+			"definition": "hold or carry in a sling",
+			"pos": "verb"
+		}
+	]
+}

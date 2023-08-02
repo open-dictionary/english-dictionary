@@ -1,0 +1,73 @@
+{
+	"word": "job",
+	"definitions": [
+		{
+			"definition": "the principal activity in your life that you do to earn money",
+			"pos": "noun"
+		},
+		{
+			"definition": "a specific piece of work required to be done as a duty or for a specific fee",
+			"pos": "noun"
+		},
+		{
+			"definition": "a workplace",
+			"pos": "noun"
+		},
+		{
+			"definition": "an object worked on",
+			"pos": "noun"
+		},
+		{
+			"definition": "the responsibility to do something",
+			"pos": "noun"
+		},
+		{
+			"definition": "the performance of a piece of work",
+			"pos": "noun"
+		},
+		{
+			"definition": "a damaging piece of work",
+			"pos": "noun"
+		},
+		{
+			"definition": "a state of difficulty that needs to be resolved",
+			"pos": "noun"
+		},
+		{
+			"definition": "a Jewish hero in the Old Testament who maintained his faith in God in spite of afflictions that tested him",
+			"pos": "noun"
+		},
+		{
+			"definition": "any long-suffering person who withstands affliction without despairing",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a program application that may consist of several steps but is a single logical unit",
+			"pos": "noun"
+		},
+		{
+			"definition": "a book in the Old Testament containing Job's pleas to God about his afflictions and God's reply",
+			"pos": "noun"
+		},
+		{
+			"definition": "a crime (especially a robbery)",
+			"pos": "noun"
+		},
+		{
+			"definition": "profit privately from public office and official business",
+			"pos": "verb"
+		},
+		{
+			"definition": "arranged for contracted work to be done by others",
+			"pos": "verb"
+		},
+		{
+			"definition": "work occasionally",
+			"pos": "verb"
+		},
+		{
+			"definition": "invest at a risk",
+			"pos": "verb"
+		}
+	]
+}

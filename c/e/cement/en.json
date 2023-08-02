@@ -1,0 +1,37 @@
+{
+	"word": "cement",
+	"definitions": [
+		{
+			"definition": "concrete pavement is sometimes referred to as cement",
+			"pos": "noun"
+		},
+		{
+			"definition": "a building material that is a powder made of a mixture of calcined limestone and clay",
+			"pos": "noun"
+		},
+		{
+			"definition": "something that hardens to act as adhesive material",
+			"pos": "noun"
+		},
+		{
+			"definition": "any of various materials used by dentists to fill cavities in teeth",
+			"pos": "noun"
+		},
+		{
+			"definition": "a specialized bony substance covering the root of a tooth",
+			"pos": "noun"
+		},
+		{
+			"definition": "make fast as if with cement",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover or coat with cement",
+			"pos": "verb"
+		},
+		{
+			"definition": "bind or join with or as if with cement",
+			"pos": "verb"
+		}
+	]
+}

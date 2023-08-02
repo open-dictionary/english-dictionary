@@ -1,0 +1,37 @@
+{
+	"word": "reward",
+	"definitions": [
+		{
+			"definition": "a recompense for worthy acts or retribution for wrongdoing",
+			"pos": "noun"
+		},
+		{
+			"definition": "payment made in return for a service rendered",
+			"pos": "noun"
+		},
+		{
+			"definition": "an act performed to strengthen approved behavior",
+			"pos": "noun"
+		},
+		{
+			"definition": "the offer of money for helping to find a criminal or for returning lost property",
+			"pos": "noun"
+		},
+		{
+			"definition": "benefit resulting from some event or action",
+			"pos": "noun"
+		},
+		{
+			"definition": "bestow honor or rewards upon",
+			"pos": "verb"
+		},
+		{
+			"definition": "strengthen and support with rewards",
+			"pos": "verb"
+		},
+		{
+			"definition": "act or give recompense in recognition of someone's behavior or actions",
+			"pos": "verb"
+		}
+	]
+}

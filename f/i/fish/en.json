@@ -1,0 +1,29 @@
+{
+	"word": "fish",
+	"definitions": [
+		{
+			"definition": "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills",
+			"pos": "noun"
+		},
+		{
+			"definition": "the flesh of fish used as food",
+			"pos": "noun"
+		},
+		{
+			"definition": "(astrology) a person who is born while the sun is in Pisces",
+			"pos": "noun"
+		},
+		{
+			"definition": "the twelfth sign of the zodiac",
+			"pos": "noun"
+		},
+		{
+			"definition": "seek indirectly",
+			"pos": "verb"
+		},
+		{
+			"definition": "catch or try to catch fish or shellfish",
+			"pos": "verb"
+		}
+	]
+}

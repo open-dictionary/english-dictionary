@@ -1,0 +1,41 @@
+{
+	"word": "gag",
+	"definitions": [
+		{
+			"definition": "a humorous anecdote or remark intended to provoke laughter",
+			"pos": "noun"
+		},
+		{
+			"definition": "restraint put into a person's mouth to prevent speaking or shouting",
+			"pos": "noun"
+		},
+		{
+			"definition": "prevent from speaking out",
+			"pos": "verb"
+		},
+		{
+			"definition": "be too tight",
+			"pos": "verb"
+		},
+		{
+			"definition": "tie a gag around someone's mouth in order to silence them",
+			"pos": "verb"
+		},
+		{
+			"definition": "make jokes or quips",
+			"pos": "verb"
+		},
+		{
+			"definition": "struggle for breath",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to retch or choke",
+			"pos": "verb"
+		},
+		{
+			"definition": "make an unsuccessful effort to vomit",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "scan",
+	"definitions": [
+		{
+			"definition": "the act of scanning",
+			"pos": "noun"
+		},
+		{
+			"definition": "an image produced by scanning",
+			"pos": "noun"
+		},
+		{
+			"definition": "examine minutely or intensely",
+			"pos": "verb"
+		},
+		{
+			"definition": "examine hastily",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a wide, sweeping search of",
+			"pos": "verb"
+		},
+		{
+			"definition": "conform to a metrical pattern",
+			"pos": "verb"
+		},
+		{
+			"definition": "move a light beam over",
+			"pos": "verb"
+		},
+		{
+			"definition": "read metrically",
+			"pos": "verb"
+		},
+		{
+			"definition": "obtain data from magnetic tapes or other digital sources",
+			"pos": "verb"
+		}
+	]
+}

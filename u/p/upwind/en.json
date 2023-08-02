@@ -1,0 +1,17 @@
+{
+	"word": "upwind",
+	"definitions": [
+		{
+			"definition": "towards the side exposed to wind",
+			"pos": "adjective"
+		},
+		{
+			"definition": "away from the wind",
+			"pos": "adverb"
+		},
+		{
+			"definition": "in the direction opposite to the direction the wind is blowing",
+			"pos": "adverb"
+		}
+	]
+}

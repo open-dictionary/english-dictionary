@@ -1,0 +1,33 @@
+{
+	"word": "series",
+	"definitions": [
+		{
+			"definition": "similar things placed in order or happening one after another",
+			"pos": "noun"
+		},
+		{
+			"definition": "a serialized set of programs",
+			"pos": "noun"
+		},
+		{
+			"definition": "a periodical that appears at scheduled times",
+			"pos": "noun"
+		},
+		{
+			"definition": "(sports) several contests played successively by the same teams",
+			"pos": "noun"
+		},
+		{
+			"definition": "(electronics) connection of components in such a manner that current flows first through one and then through the other",
+			"pos": "noun"
+		},
+		{
+			"definition": "a group of postage stamps having a common theme or a group of coins or currency selected as a group for study or collection",
+			"pos": "noun"
+		},
+		{
+			"definition": "(mathematics) the sum of a finite or infinite sequence of expressions",
+			"pos": "noun"
+		}
+	]
+}

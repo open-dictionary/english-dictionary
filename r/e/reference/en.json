@@ -1,0 +1,49 @@
+{
+	"word": "reference",
+	"definitions": [
+		{
+			"definition": "a remark that calls attention to something or someone",
+			"pos": "noun"
+		},
+		{
+			"definition": "a short note recognizing a source of information or of a quoted passage",
+			"pos": "noun"
+		},
+		{
+			"definition": "an indicator that orients you generally",
+			"pos": "noun"
+		},
+		{
+			"definition": "a book to which you can refer for authoritative facts",
+			"pos": "noun"
+		},
+		{
+			"definition": "a formal recommendation by a former employer to a potential future employer describing the person's qualifications and dependability",
+			"pos": "noun"
+		},
+		{
+			"definition": "the most direct or specific meaning of a word or expression",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of referring or consulting",
+			"pos": "noun"
+		},
+		{
+			"definition": "a publication (or a passage from a publication) that is referred to",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) the code that identifies where a piece of information is stored",
+			"pos": "noun"
+		},
+		{
+			"definition": "the relation between a word or phrase and the object or idea it refers to",
+			"pos": "noun"
+		},
+		{
+			"definition": "refer to",
+			"pos": "verb"
+		}
+	]
+}

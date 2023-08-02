@@ -1,0 +1,21 @@
+{
+	"word": "postmortem",
+	"definitions": [
+		{
+			"definition": "discussion of an event after it has occurred",
+			"pos": "noun"
+		},
+		{
+			"definition": "an examination and dissection of a dead body to determine cause of death or the changes produced by disease",
+			"pos": "noun"
+		},
+		{
+			"definition": "occurring or done after death",
+			"pos": "adjective"
+		},
+		{
+			"definition": "after death or after an event",
+			"pos": "adjective"
+		}
+	]
+}

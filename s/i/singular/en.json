@@ -1,0 +1,33 @@
+{
+	"word": "singular",
+	"definitions": [
+		{
+			"definition": "the form of a word that is used to denote a singleton",
+			"pos": "noun"
+		},
+		{
+			"definition": "unusual or striking",
+			"pos": "adjective"
+		},
+		{
+			"definition": "beyond or deviating from the usual or expected",
+			"pos": "adjective"
+		},
+		{
+			"definition": "being a single and separate person or thing",
+			"pos": "adjective"
+		},
+		{
+			"definition": "composed of one member, set, or kind",
+			"pos": "adjective"
+		},
+		{
+			"definition": "grammatical number category referring to a single item or unit",
+			"pos": "adjective"
+		},
+		{
+			"definition": "the single one of its kind",
+			"pos": "adjective"
+		}
+	]
+}

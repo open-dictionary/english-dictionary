@@ -1,0 +1,37 @@
+{
+	"word": "assign",
+	"definitions": [
+		{
+			"definition": "give an assignment to (a person) to a post, or assign a task to (a person)",
+			"pos": "verb"
+		},
+		{
+			"definition": "give out",
+			"pos": "verb"
+		},
+		{
+			"definition": "attribute or credit to",
+			"pos": "verb"
+		},
+		{
+			"definition": "select something or someone for a specific purpose",
+			"pos": "verb"
+		},
+		{
+			"definition": "attribute or give",
+			"pos": "verb"
+		},
+		{
+			"definition": "make undue claims to having",
+			"pos": "verb"
+		},
+		{
+			"definition": "transfer one's right to",
+			"pos": "verb"
+		},
+		{
+			"definition": "decide as to where something belongs in a scheme",
+			"pos": "verb"
+		}
+	]
+}

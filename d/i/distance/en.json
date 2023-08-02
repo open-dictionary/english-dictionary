@@ -1,0 +1,37 @@
+{
+	"word": "distance",
+	"definitions": [
+		{
+			"definition": "the property created by the space between two objects or points",
+			"pos": "noun"
+		},
+		{
+			"definition": "a distant region",
+			"pos": "noun"
+		},
+		{
+			"definition": "size of the gap between two places",
+			"pos": "noun"
+		},
+		{
+			"definition": "indifference by personal withdrawal",
+			"pos": "noun"
+		},
+		{
+			"definition": "the interval between two times",
+			"pos": "noun"
+		},
+		{
+			"definition": "a remote point in time",
+			"pos": "noun"
+		},
+		{
+			"definition": "keep at a distance",
+			"pos": "verb"
+		},
+		{
+			"definition": "go far ahead of",
+			"pos": "verb"
+		}
+	]
+}

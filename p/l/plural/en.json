@@ -1,0 +1,17 @@
+{
+	"word": "plural",
+	"definitions": [
+		{
+			"definition": "the form of a word that is used to denote more than one",
+			"pos": "noun"
+		},
+		{
+			"definition": "composed of more than one member, set, or kind",
+			"pos": "adjective"
+		},
+		{
+			"definition": "grammatical number category referring to two or more items or units",
+			"pos": "adjective"
+		}
+	]
+}

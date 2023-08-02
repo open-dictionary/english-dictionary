@@ -1,0 +1,25 @@
+{
+	"word": "limp",
+	"definitions": [
+		{
+			"definition": "the uneven manner of walking that results from an injured leg",
+			"pos": "noun"
+		},
+		{
+			"definition": "walk impeded by some physical limitation or injury",
+			"pos": "verb"
+		},
+		{
+			"definition": "proceed slowly or with difficulty",
+			"pos": "verb"
+		},
+		{
+			"definition": "without energy or will",
+			"pos": "adjective"
+		},
+		{
+			"definition": "lacking or having lost rigidity",
+			"pos": "adjective"
+		}
+	]
+}

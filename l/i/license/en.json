@@ -1,0 +1,25 @@
+{
+	"word": "license",
+	"definitions": [
+		{
+			"definition": "a legal document giving official permission to do something",
+			"pos": "noun"
+		},
+		{
+			"definition": "freedom to deviate deliberately from normally applicable rules or practices (especially in behavior or speech)",
+			"pos": "noun"
+		},
+		{
+			"definition": "excessive freedom",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of giving a formal (usually written) authorization",
+			"pos": "noun"
+		},
+		{
+			"definition": "authorize officially",
+			"pos": "verb"
+		}
+	]
+}

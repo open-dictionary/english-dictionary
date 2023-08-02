@@ -1,0 +1,37 @@
+{
+	"word": "term",
+	"definitions": [
+		{
+			"definition": "a word or expression used for some particular thing",
+			"pos": "noun"
+		},
+		{
+			"definition": "a limited period of time",
+			"pos": "noun"
+		},
+		{
+			"definition": "(usually plural) a statement of what is required as part of an agreement",
+			"pos": "noun"
+		},
+		{
+			"definition": "any distinct quantity contained in a polynomial",
+			"pos": "noun"
+		},
+		{
+			"definition": "one of the substantive phrases in a logical proposition",
+			"pos": "noun"
+		},
+		{
+			"definition": "the end of gestation or point at which birth is imminent",
+			"pos": "noun"
+		},
+		{
+			"definition": "(architecture) a statue or a human bust or an animal carved out of the top of a square pillar",
+			"pos": "noun"
+		},
+		{
+			"definition": "name formally or designate with a term",
+			"pos": "verb"
+		}
+	]
+}

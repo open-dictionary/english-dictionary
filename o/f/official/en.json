@@ -1,0 +1,33 @@
+{
+	"word": "official",
+	"definitions": [
+		{
+			"definition": "a worker who holds or is invested with an office",
+			"pos": "noun"
+		},
+		{
+			"definition": "someone who administers the rules of a game or sport",
+			"pos": "noun"
+		},
+		{
+			"definition": "having official authority or sanction",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to an office",
+			"pos": "adjective"
+		},
+		{
+			"definition": "verified officially",
+			"pos": "adjective"
+		},
+		{
+			"definition": "conforming to set usage, procedure, or discipline",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of a church) given official status as a national or state institution",
+			"pos": "adjective"
+		}
+	]
+}

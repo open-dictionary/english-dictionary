@@ -1,0 +1,33 @@
+{
+	"word": "exhaust",
+	"definitions": [
+		{
+			"definition": "gases ejected from an engine as waste products",
+			"pos": "noun"
+		},
+		{
+			"definition": "system consisting of the parts of an engine through which burned gases or steam are discharged",
+			"pos": "noun"
+		},
+		{
+			"definition": "wear out completely",
+			"pos": "verb"
+		},
+		{
+			"definition": "use up (resources or materials)",
+			"pos": "verb"
+		},
+		{
+			"definition": "deplete",
+			"pos": "verb"
+		},
+		{
+			"definition": "use up the whole supply of",
+			"pos": "verb"
+		},
+		{
+			"definition": "eliminate (a substance)",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "near",
+	"definitions": [
+		{
+			"definition": "move towards",
+			"pos": "verb"
+		},
+		{
+			"definition": "not far distant in time or space or degree or circumstances",
+			"pos": "adjective"
+		},
+		{
+			"definition": "being on the left side",
+			"pos": "adjective"
+		},
+		{
+			"definition": "closely resembling the genuine article",
+			"pos": "adjective"
+		},
+		{
+			"definition": "giving or spending with reluctance",
+			"pos": "adjective"
+		},
+		{
+			"definition": "with or in a close or intimate relationship",
+			"pos": "adjective"
+		},
+		{
+			"definition": "very close in resemblance",
+			"pos": "adjective"
+		},
+		{
+			"definition": "near in time or place or relationship",
+			"pos": "adverb"
+		},
+		{
+			"definition": "(of actions or states) slightly short of or not quite accomplished",
+			"pos": "adverb"
+		}
+	]
+}

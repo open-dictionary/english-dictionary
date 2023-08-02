@@ -1,0 +1,21 @@
+{
+	"word": "probate",
+	"definitions": [
+		{
+			"definition": "a judicial certificate saying that a will is genuine and conferring on the executors the power to administer the estate",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of proving that an instrument purporting to be a will was signed and executed in accord with legal requirements",
+			"pos": "noun"
+		},
+		{
+			"definition": "put a convicted person on probation by suspending his sentence",
+			"pos": "verb"
+		},
+		{
+			"definition": "establish the legal validity of (wills and other documents)",
+			"pos": "verb"
+		}
+	]
+}

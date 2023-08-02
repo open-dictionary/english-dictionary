@@ -1,0 +1,33 @@
+{
+	"word": "cod",
+	"definitions": [
+		{
+			"definition": "the vessel that contains the seeds of a plant (not the seeds themselves)",
+			"pos": "noun"
+		},
+		{
+			"definition": "lean white flesh of important North Atlantic food fish",
+			"pos": "noun"
+		},
+		{
+			"definition": "major food fish of Arctic and cold-temperate waters",
+			"pos": "noun"
+		},
+		{
+			"definition": "fool or hoax",
+			"pos": "verb"
+		},
+		{
+			"definition": "harass with persistent criticism or carping",
+			"pos": "verb"
+		},
+		{
+			"definition": "payable by the recipient on delivery",
+			"pos": "adjective"
+		},
+		{
+			"definition": "collecting the charges upon delivery",
+			"pos": "adverb"
+		}
+	]
+}

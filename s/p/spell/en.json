@@ -1,0 +1,45 @@
+{
+	"word": "spell",
+	"definitions": [
+		{
+			"definition": "a psychological state induced by (or as if induced by) a magical incantation",
+			"pos": "noun"
+		},
+		{
+			"definition": "a time period for working (after which you will be relieved by someone else)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a period of indeterminate length (usually short) marked by some action or condition",
+			"pos": "noun"
+		},
+		{
+			"definition": "a verbal formula believed to have magical force",
+			"pos": "noun"
+		},
+		{
+			"definition": "orally recite the letters of or give the spelling of",
+			"pos": "verb"
+		},
+		{
+			"definition": "indicate or signify",
+			"pos": "verb"
+		},
+		{
+			"definition": "write or name the letters that comprise the conventionally accepted form of (a word or part of a word)",
+			"pos": "verb"
+		},
+		{
+			"definition": "relieve (someone) from work by taking a turn",
+			"pos": "verb"
+		},
+		{
+			"definition": "place under a spell",
+			"pos": "verb"
+		},
+		{
+			"definition": "take turns working",
+			"pos": "verb"
+		}
+	]
+}

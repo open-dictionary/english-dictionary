@@ -1,0 +1,49 @@
+{
+	"word": "rear",
+	"definitions": [
+		{
+			"definition": "the back of a military formation or procession",
+			"pos": "noun"
+		},
+		{
+			"definition": "the side of an object that is opposite its front",
+			"pos": "noun"
+		},
+		{
+			"definition": "the part of something that is furthest from the normal viewer",
+			"pos": "noun"
+		},
+		{
+			"definition": "the fleshy part of the human body that you sit on",
+			"pos": "noun"
+		},
+		{
+			"definition": "the side that goes last or is not normally seen",
+			"pos": "noun"
+		},
+		{
+			"definition": "stand up on the hind legs, of quadrupeds",
+			"pos": "verb"
+		},
+		{
+			"definition": "look after a child until it is an adult",
+			"pos": "verb"
+		},
+		{
+			"definition": "rise up",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to rise up",
+			"pos": "verb"
+		},
+		{
+			"definition": "construct, build, or erect",
+			"pos": "verb"
+		},
+		{
+			"definition": "located in or toward the back or rear",
+			"pos": "adjective"
+		}
+	]
+}

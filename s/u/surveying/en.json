@@ -1,0 +1,33 @@
+{
+	"word": "surveying",
+	"definitions": [
+		{
+			"definition": "the practice of measuring angles and distances on the ground so that they can be accurately plotted on a map",
+			"pos": "noun"
+		},
+		{
+			"definition": "consider in a comprehensive way",
+			"pos": "verb"
+		},
+		{
+			"definition": "look over carefully or inspect",
+			"pos": "verb"
+		},
+		{
+			"definition": "keep under surveillance",
+			"pos": "verb"
+		},
+		{
+			"definition": "hold a review (of troops)",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a survey of",
+			"pos": "verb"
+		},
+		{
+			"definition": "plot a map of (land)",
+			"pos": "verb"
+		}
+	]
+}

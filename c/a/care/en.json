@@ -1,0 +1,49 @@
+{
+	"word": "care",
+	"definitions": [
+		{
+			"definition": "the work of providing treatment for or attending to someone or something",
+			"pos": "noun"
+		},
+		{
+			"definition": "judiciousness in avoiding harm or danger",
+			"pos": "noun"
+		},
+		{
+			"definition": "an anxious feeling",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cause for feeling concern",
+			"pos": "noun"
+		},
+		{
+			"definition": "attention and management implying responsibility for safety",
+			"pos": "noun"
+		},
+		{
+			"definition": "activity involved in maintaining something in good working order",
+			"pos": "noun"
+		},
+		{
+			"definition": "feel concern or interest",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide care for",
+			"pos": "verb"
+		},
+		{
+			"definition": "prefer or wish to do something",
+			"pos": "verb"
+		},
+		{
+			"definition": "be in charge of, act on, or dispose of",
+			"pos": "verb"
+		},
+		{
+			"definition": "be concerned with",
+			"pos": "verb"
+		}
+	]
+}

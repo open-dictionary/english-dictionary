@@ -1,0 +1,33 @@
+{
+	"word": "community",
+	"definitions": [
+		{
+			"definition": "a group of people living in a particular local area",
+			"pos": "noun"
+		},
+		{
+			"definition": "a group of people having a religion, ethnic, profession, or other particular characteristic in common",
+			"pos": "noun"
+		},
+		{
+			"definition": "common ownership",
+			"pos": "noun"
+		},
+		{
+			"definition": "a group of nations having common interests",
+			"pos": "noun"
+		},
+		{
+			"definition": "agreement as to goals",
+			"pos": "noun"
+		},
+		{
+			"definition": "a district where people live",
+			"pos": "noun"
+		},
+		{
+			"definition": "(ecology) a group of interdependent organisms inhabiting the same region and interacting with each other",
+			"pos": "noun"
+		}
+	]
+}

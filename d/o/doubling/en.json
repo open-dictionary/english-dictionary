@@ -1,0 +1,37 @@
+{
+	"word": "doubling",
+	"definitions": [
+		{
+			"definition": "increase by a factor of two",
+			"pos": "noun"
+		},
+		{
+			"definition": "raising the stakes in a card game by a factor of 2",
+			"pos": "noun"
+		},
+		{
+			"definition": "increase twofold",
+			"pos": "verb"
+		},
+		{
+			"definition": "hit a two-base hit",
+			"pos": "verb"
+		},
+		{
+			"definition": "bend over or curl up, usually with laughter or pain",
+			"pos": "verb"
+		},
+		{
+			"definition": "do double duty",
+			"pos": "verb"
+		},
+		{
+			"definition": "bridge: make a demand for (a card or suit)",
+			"pos": "verb"
+		},
+		{
+			"definition": "make or do or perform again",
+			"pos": "verb"
+		}
+	]
+}

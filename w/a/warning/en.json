@@ -1,0 +1,37 @@
+{
+	"word": "warning",
+	"definitions": [
+		{
+			"definition": "a message informing of danger",
+			"pos": "noun"
+		},
+		{
+			"definition": "cautionary advice about something imminent (especially imminent danger or other unpleasantness)",
+			"pos": "noun"
+		},
+		{
+			"definition": "notification of something, usually in advance",
+			"pos": "noun"
+		},
+		{
+			"definition": "notify of danger, potential harm, or risk",
+			"pos": "verb"
+		},
+		{
+			"definition": "advise or counsel in terms of someone's behavior",
+			"pos": "verb"
+		},
+		{
+			"definition": "ask to go away",
+			"pos": "verb"
+		},
+		{
+			"definition": "notify, usually in advance",
+			"pos": "verb"
+		},
+		{
+			"definition": "serving to warn",
+			"pos": "adjective"
+		}
+	]
+}

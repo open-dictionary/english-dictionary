@@ -1,0 +1,29 @@
+{
+	"word": "veil",
+	"definitions": [
+		{
+			"definition": "a garment that covers the head and face",
+			"pos": "noun"
+		},
+		{
+			"definition": "a membranous covering attached to the immature fruiting body of certain mushrooms",
+			"pos": "noun"
+		},
+		{
+			"definition": "the inner membrane of embryos in higher vertebrates (especially when covering the head at birth)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a vestment worn by a priest at High Mass in the Roman Catholic Church",
+			"pos": "noun"
+		},
+		{
+			"definition": "to obscure, or conceal with or as if with a veil",
+			"pos": "verb"
+		},
+		{
+			"definition": "make undecipherable or imperceptible by obscuring or concealing",
+			"pos": "verb"
+		}
+	]
+}

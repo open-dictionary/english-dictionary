@@ -1,0 +1,21 @@
+{
+	"word": "thud",
+	"definitions": [
+		{
+			"definition": "a heavy dull sound (as made by impact of heavy objects)",
+			"pos": "noun"
+		},
+		{
+			"definition": "make a dull sound",
+			"pos": "verb"
+		},
+		{
+			"definition": "strike with a dull sound",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a noise typical of an engine lacking lubricants",
+			"pos": "verb"
+		}
+	]
+}

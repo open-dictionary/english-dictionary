@@ -1,0 +1,33 @@
+{
+	"word": "plan",
+	"definitions": [
+		{
+			"definition": "a series of steps to be carried out or goals to be accomplished",
+			"pos": "noun"
+		},
+		{
+			"definition": "an arrangement scheme",
+			"pos": "noun"
+		},
+		{
+			"definition": "scale drawing of a structure",
+			"pos": "noun"
+		},
+		{
+			"definition": "have the will and intention to carry out some action",
+			"pos": "verb"
+		},
+		{
+			"definition": "make plans for something",
+			"pos": "verb"
+		},
+		{
+			"definition": "make or work out a plan for",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a design of",
+			"pos": "verb"
+		}
+	]
+}

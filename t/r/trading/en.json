@@ -1,0 +1,29 @@
+{
+	"word": "trading",
+	"definitions": [
+		{
+			"definition": "buying or selling securities or commodities",
+			"pos": "noun"
+		},
+		{
+			"definition": "engage in the trade of",
+			"pos": "verb"
+		},
+		{
+			"definition": "turn in as payment or part payment for a purchase",
+			"pos": "verb"
+		},
+		{
+			"definition": "be traded at a certain price or under certain conditions",
+			"pos": "verb"
+		},
+		{
+			"definition": "exchange or give (something) in exchange for",
+			"pos": "verb"
+		},
+		{
+			"definition": "do business",
+			"pos": "verb"
+		}
+	]
+}

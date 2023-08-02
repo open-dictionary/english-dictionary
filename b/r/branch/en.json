@@ -1,0 +1,37 @@
+{
+	"word": "branch",
+	"definitions": [
+		{
+			"definition": "a division of some larger or more complex organization",
+			"pos": "noun"
+		},
+		{
+			"definition": "a division of a stem, or secondary stem arising from the main stem of a plant",
+			"pos": "noun"
+		},
+		{
+			"definition": "a part of a forked or branching shape",
+			"pos": "noun"
+		},
+		{
+			"definition": "a natural consequence of development",
+			"pos": "noun"
+		},
+		{
+			"definition": "a stream or river connected to a larger one",
+			"pos": "noun"
+		},
+		{
+			"definition": "any projection that is thought to resemble a human arm",
+			"pos": "noun"
+		},
+		{
+			"definition": "grow and send out branches or branch-like structures",
+			"pos": "verb"
+		},
+		{
+			"definition": "divide into two or more branches so as to form a fork",
+			"pos": "verb"
+		}
+	]
+}

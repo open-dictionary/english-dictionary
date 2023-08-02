@@ -1,0 +1,21 @@
+{
+	"word": "cache",
+	"definitions": [
+		{
+			"definition": "a hidden storage space (for money or provisions or weapons)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a secret store of valuables or money",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) RAM memory that is set aside as a specialized buffer storage that is continually updated",
+			"pos": "noun"
+		},
+		{
+			"definition": "save up as for future use",
+			"pos": "verb"
+		}
+	]
+}

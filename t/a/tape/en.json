@@ -1,0 +1,37 @@
+{
+	"word": "tape",
+	"definitions": [
+		{
+			"definition": "a long thin piece of cloth or paper as used for binding or fastening",
+			"pos": "noun"
+		},
+		{
+			"definition": "a recording made on magnetic tape",
+			"pos": "noun"
+		},
+		{
+			"definition": "the finishing line for a foot race",
+			"pos": "noun"
+		},
+		{
+			"definition": "measuring instrument consisting of a narrow strip (cloth or metal) marked in inches or centimeters and used for measuring lengths",
+			"pos": "noun"
+		},
+		{
+			"definition": "memory device consisting of a long thin plastic strip coated with iron oxide",
+			"pos": "noun"
+		},
+		{
+			"definition": "fasten or attach with tape",
+			"pos": "verb"
+		},
+		{
+			"definition": "record on videotape",
+			"pos": "verb"
+		},
+		{
+			"definition": "register electronically",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"word": "promenade",
+	"definitions": [
+		{
+			"definition": "a formal ball held for a school class toward the end of the academic year",
+			"pos": "noun"
+		},
+		{
+			"definition": "a public area set aside as a pedestrian walk",
+			"pos": "noun"
+		},
+		{
+			"definition": "a square dance figure",
+			"pos": "noun"
+		},
+		{
+			"definition": "a march of all the guests at the opening of a formal dance",
+			"pos": "noun"
+		},
+		{
+			"definition": "a leisurely walk (usually in some public place)",
+			"pos": "noun"
+		},
+		{
+			"definition": "march in a procession",
+			"pos": "verb"
+		},
+		{
+			"definition": "take a leisurely walk",
+			"pos": "verb"
+		}
+	]
+}

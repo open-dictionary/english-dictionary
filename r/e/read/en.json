@@ -1,0 +1,53 @@
+{
+	"word": "read",
+	"definitions": [
+		{
+			"definition": "something that is read",
+			"pos": "noun"
+		},
+		{
+			"definition": "interpret something that is written or printed",
+			"pos": "verb"
+		},
+		{
+			"definition": "have or contain a certain wording or form",
+			"pos": "verb"
+		},
+		{
+			"definition": "look at, interpret, and say out loud something that is written or printed",
+			"pos": "verb"
+		},
+		{
+			"definition": "obtain data from magnetic tapes or other digital sources",
+			"pos": "verb"
+		},
+		{
+			"definition": "interpret the significance of, as of palms, tea leaves, intestines, the sky",
+			"pos": "verb"
+		},
+		{
+			"definition": "interpret something in a certain way",
+			"pos": "verb"
+		},
+		{
+			"definition": "be a student of a certain subject",
+			"pos": "verb"
+		},
+		{
+			"definition": "indicate a certain reading",
+			"pos": "verb"
+		},
+		{
+			"definition": "audition for a stage role by reading parts of a role",
+			"pos": "verb"
+		},
+		{
+			"definition": "to hear and understand",
+			"pos": "verb"
+		},
+		{
+			"definition": "make sense of a language",
+			"pos": "verb"
+		}
+	]
+}

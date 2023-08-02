@@ -1,0 +1,33 @@
+{
+	"word": "solo",
+	"definitions": [
+		{
+			"definition": "any activity that is performed alone without assistance",
+			"pos": "noun"
+		},
+		{
+			"definition": "a musical composition for one voice or instrument (with or without accompaniment)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a flight in which the aircraft pilot is unaccompanied",
+			"pos": "noun"
+		},
+		{
+			"definition": "fly alone, without a co-pilot or passengers",
+			"pos": "verb"
+		},
+		{
+			"definition": "perform a piece written for a single instrument",
+			"pos": "verb"
+		},
+		{
+			"definition": "composed or performed by a single voice or instrument",
+			"pos": "adjective"
+		},
+		{
+			"definition": "without anybody else or anything else",
+			"pos": "adverb"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"word": "erase",
+	"definitions": [
+		{
+			"definition": "remove from memory or existence",
+			"pos": "verb"
+		},
+		{
+			"definition": "remove by or as if by rubbing or erasing",
+			"pos": "verb"
+		},
+		{
+			"definition": "wipe out digitally or magnetically recorded information",
+			"pos": "verb"
+		}
+	]
+}

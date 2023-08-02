@@ -1,0 +1,41 @@
+{
+	"word": "coil",
+	"definitions": [
+		{
+			"definition": "a structure consisting of something wound in a continuous series of loops",
+			"pos": "noun"
+		},
+		{
+			"definition": "a round shape formed by a series of concentric circles (as formed by leaves or flower petals)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a transformer that supplies high voltage to spark plugs in a gasoline engine",
+			"pos": "noun"
+		},
+		{
+			"definition": "a contraceptive device placed inside a woman's womb",
+			"pos": "noun"
+		},
+		{
+			"definition": "tubing that is wound in a spiral",
+			"pos": "noun"
+		},
+		{
+			"definition": "reactor consisting of a spiral of insulated wire that introduces inductance into a circuit",
+			"pos": "noun"
+		},
+		{
+			"definition": "to wind or move in a spiral course",
+			"pos": "verb"
+		},
+		{
+			"definition": "make without a potter's wheel",
+			"pos": "verb"
+		},
+		{
+			"definition": "wind around something in coils or loops",
+			"pos": "verb"
+		}
+	]
+}

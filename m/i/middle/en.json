@@ -1,0 +1,41 @@
+{
+	"word": "middle",
+	"definitions": [
+		{
+			"definition": "an area that is approximately central within some larger region",
+			"pos": "noun"
+		},
+		{
+			"definition": "an intermediate part or section",
+			"pos": "noun"
+		},
+		{
+			"definition": "the middle area of the human torso (usually in front)",
+			"pos": "noun"
+		},
+		{
+			"definition": "time between the beginning and the end of a temporal period",
+			"pos": "noun"
+		},
+		{
+			"definition": "put in the middle",
+			"pos": "verb"
+		},
+		{
+			"definition": "being neither at the beginning nor at the end in a series",
+			"pos": "adjective"
+		},
+		{
+			"definition": "equally distant from the extremes",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of a stage in the development of a language or literature between earlier and later stages",
+			"pos": "adjective"
+		},
+		{
+			"definition": "between an earlier and a later period of time",
+			"pos": "adjective"
+		}
+	]
+}

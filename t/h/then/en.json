@@ -1,0 +1,25 @@
+{
+	"word": "then",
+	"definitions": [
+		{
+			"definition": "that time",
+			"pos": "noun"
+		},
+		{
+			"definition": "at a specific prior time",
+			"pos": "adjective"
+		},
+		{
+			"definition": "subsequently or soon afterward (often used as sentence connectors)",
+			"pos": "adverb"
+		},
+		{
+			"definition": "in that case or as a consequence",
+			"pos": "adverb"
+		},
+		{
+			"definition": "at that time",
+			"pos": "adverb"
+		}
+	]
+}

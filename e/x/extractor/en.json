@@ -1,0 +1,17 @@
+{
+	"word": "extractor",
+	"definitions": [
+		{
+			"definition": "an instrument for extracting tight-fitting components",
+			"pos": "noun"
+		},
+		{
+			"definition": "an apparatus that uses centrifugal force to separate particles from a suspension",
+			"pos": "noun"
+		},
+		{
+			"definition": "a mechanism in a firearm that pulls an empty shell case out of the chamber and passes it to the ejector",
+			"pos": "noun"
+		}
+	]
+}

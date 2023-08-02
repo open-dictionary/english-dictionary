@@ -1,0 +1,17 @@
+{
+	"word": "component",
+	"definitions": [
+		{
+			"definition": "an abstract part of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "something determined in relation to something that includes it",
+			"pos": "noun"
+		},
+		{
+			"definition": "an artifact that is one of the individual parts of which a composite entity is made up",
+			"pos": "noun"
+		}
+	]
+}

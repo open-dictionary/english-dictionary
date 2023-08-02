@@ -1,0 +1,17 @@
+{
+	"word": "regulator",
+	"definitions": [
+		{
+			"definition": "any of various controls or devices for regulating or controlling fluid flow, pressure, temperature, etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "an official responsible for control and supervision of a particular activity or area of public interest",
+			"pos": "noun"
+		},
+		{
+			"definition": "a control that maintains a steady speed in a machine (as by controlling the supply of fuel)",
+			"pos": "noun"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"word": "boxing",
+	"definitions": [
+		{
+			"definition": "fighting with the fists",
+			"pos": "noun"
+		},
+		{
+			"definition": "the enclosure of something in a package or box",
+			"pos": "noun"
+		},
+		{
+			"definition": "put into a box",
+			"pos": "verb"
+		},
+		{
+			"definition": "hit with the fist",
+			"pos": "verb"
+		},
+		{
+			"definition": "engage in a boxing match",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"word": "torture",
+	"definitions": [
+		{
+			"definition": "extreme mental distress",
+			"pos": "noun"
+		},
+		{
+			"definition": "unbearable physical pain",
+			"pos": "noun"
+		},
+		{
+			"definition": "intense feelings of suffering",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of distorting something so it seems to mean something it was not intended to mean",
+			"pos": "noun"
+		},
+		{
+			"definition": "the deliberate, systematic, or wanton infliction of physical or mental suffering by one or more persons in an attempt to force another person to yield information or to make a confession or for any other reason",
+			"pos": "noun"
+		},
+		{
+			"definition": "torment emotionally or mentally",
+			"pos": "verb"
+		},
+		{
+			"definition": "subject to torture",
+			"pos": "verb"
+		}
+	]
+}

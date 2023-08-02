@@ -1,0 +1,21 @@
+{
+	"word": "regression",
+	"definitions": [
+		{
+			"definition": "an abnormal state in which development has stopped prematurely",
+			"pos": "noun"
+		},
+		{
+			"definition": "(psychiatry) a defense mechanism in which you flee from reality by assuming a more infantile state",
+			"pos": "noun"
+		},
+		{
+			"definition": "the relation between selected values of x and observed values of y (from which the most probable value of y can be predicted for any value of x)",
+			"pos": "noun"
+		},
+		{
+			"definition": "returning to a former state",
+			"pos": "noun"
+		}
+	]
+}

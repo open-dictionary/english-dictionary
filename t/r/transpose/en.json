@@ -1,0 +1,37 @@
+{
+	"word": "transpose",
+	"definitions": [
+		{
+			"definition": "a matrix formed by interchanging the rows and columns of a given matrix",
+			"pos": "noun"
+		},
+		{
+			"definition": "change the order or arrangement of",
+			"pos": "verb"
+		},
+		{
+			"definition": "transfer from one place or period to another",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to change places",
+			"pos": "verb"
+		},
+		{
+			"definition": "transfer a quantity from one side of an equation to the other side reversing its sign, in order to maintain equality",
+			"pos": "verb"
+		},
+		{
+			"definition": "put (a piece of music) into another key",
+			"pos": "verb"
+		},
+		{
+			"definition": "exchange positions without a change in value",
+			"pos": "verb"
+		},
+		{
+			"definition": "change key",
+			"pos": "verb"
+		}
+	]
+}

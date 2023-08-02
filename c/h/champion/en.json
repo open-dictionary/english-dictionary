@@ -1,0 +1,29 @@
+{
+	"word": "champion",
+	"definitions": [
+		{
+			"definition": "someone who has won first place in a competition",
+			"pos": "noun"
+		},
+		{
+			"definition": "someone who fights for a cause",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person who backs a politician or a team etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "someone who is dazzlingly skilled in any field",
+			"pos": "noun"
+		},
+		{
+			"definition": "protect or fight for as a champion",
+			"pos": "verb"
+		},
+		{
+			"definition": "holding first place in a contest",
+			"pos": "adjective"
+		}
+	]
+}

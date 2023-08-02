@@ -1,0 +1,25 @@
+{
+	"word": "pigment",
+	"definitions": [
+		{
+			"definition": "dry coloring material (especially a powder to be mixed with a liquid to produce paint, etc.)",
+			"pos": "noun"
+		},
+		{
+			"definition": "any substance whose presence in plant or animal tissues produces a characteristic color",
+			"pos": "noun"
+		},
+		{
+			"definition": "a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid)",
+			"pos": "noun"
+		},
+		{
+			"definition": "acquire pigment",
+			"pos": "verb"
+		},
+		{
+			"definition": "color or dye with a pigment",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"word": "sanction",
+	"definitions": [
+		{
+			"definition": "formal and explicit approval",
+			"pos": "noun"
+		},
+		{
+			"definition": "a mechanism of social control for enforcing a society's standards",
+			"pos": "noun"
+		},
+		{
+			"definition": "official permission or approval",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of final authorization",
+			"pos": "noun"
+		},
+		{
+			"definition": "give sanction to",
+			"pos": "verb"
+		},
+		{
+			"definition": "give authority or permission to",
+			"pos": "verb"
+		},
+		{
+			"definition": "give religious sanction to, such as through on oath",
+			"pos": "verb"
+		}
+	]
+}

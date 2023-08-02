@@ -1,0 +1,61 @@
+{
+	"word": "corner",
+	"definitions": [
+		{
+			"definition": "a place off to the side of an area",
+			"pos": "noun"
+		},
+		{
+			"definition": "the point where two lines meet or intersect",
+			"pos": "noun"
+		},
+		{
+			"definition": "an interior angle formed by two meeting walls",
+			"pos": "noun"
+		},
+		{
+			"definition": "the intersection of two streets",
+			"pos": "noun"
+		},
+		{
+			"definition": "the point where three areas or surfaces meet or intersect",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small concavity",
+			"pos": "noun"
+		},
+		{
+			"definition": "a temporary monopoly on a kind of commercial trade",
+			"pos": "noun"
+		},
+		{
+			"definition": "a predicament from which a skillful or graceful escape is impossible",
+			"pos": "noun"
+		},
+		{
+			"definition": "a projecting part where two sides or edges meet",
+			"pos": "noun"
+		},
+		{
+			"definition": "a remote area",
+			"pos": "noun"
+		},
+		{
+			"definition": "(architecture) solid exterior angle of a building",
+			"pos": "noun"
+		},
+		{
+			"definition": "gain control over",
+			"pos": "verb"
+		},
+		{
+			"definition": "force a person or an animal into a position from which he cannot escape",
+			"pos": "verb"
+		},
+		{
+			"definition": "turn a corner",
+			"pos": "verb"
+		}
+	]
+}

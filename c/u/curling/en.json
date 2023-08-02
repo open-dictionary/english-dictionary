@@ -1,0 +1,33 @@
+{
+	"word": "curling",
+	"definitions": [
+		{
+			"definition": "a game played on ice in which heavy stones with handles are slid toward a target",
+			"pos": "noun"
+		},
+		{
+			"definition": "form a curl, curve, or kink",
+			"pos": "verb"
+		},
+		{
+			"definition": "shape one's body into a curl",
+			"pos": "verb"
+		},
+		{
+			"definition": "wind around something in coils or loops",
+			"pos": "verb"
+		},
+		{
+			"definition": "twist or roll into coils or ringlets",
+			"pos": "verb"
+		},
+		{
+			"definition": "play the Scottish game of curling",
+			"pos": "verb"
+		},
+		{
+			"definition": "(of hair) making curls or having been made to curl",
+			"pos": "adjective"
+		}
+	]
+}

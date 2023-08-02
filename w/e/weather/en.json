@@ -1,0 +1,29 @@
+{
+	"word": "weather",
+	"definitions": [
+		{
+			"definition": "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation",
+			"pos": "noun"
+		},
+		{
+			"definition": "face and withstand with courage",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to slope",
+			"pos": "verb"
+		},
+		{
+			"definition": "sail to the windward of",
+			"pos": "verb"
+		},
+		{
+			"definition": "change under the action or influence of the weather",
+			"pos": "verb"
+		},
+		{
+			"definition": "towards the side exposed to wind",
+			"pos": "adjective"
+		}
+	]
+}

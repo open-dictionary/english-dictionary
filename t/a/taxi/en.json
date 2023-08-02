@@ -1,0 +1,17 @@
+{
+	"word": "taxi",
+	"definitions": [
+		{
+			"definition": "a car driven by a person whose job is to take passengers where they want to go in exchange for money",
+			"pos": "noun"
+		},
+		{
+			"definition": "travel slowly",
+			"pos": "verb"
+		},
+		{
+			"definition": "ride in a taxicab",
+			"pos": "verb"
+		}
+	]
+}

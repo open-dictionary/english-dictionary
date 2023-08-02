@@ -1,0 +1,25 @@
+{
+	"word": "jockey",
+	"definitions": [
+		{
+			"definition": "someone employed to ride horses in horse races",
+			"pos": "noun"
+		},
+		{
+			"definition": "an operator of some vehicle or machine or apparatus",
+			"pos": "noun"
+		},
+		{
+			"definition": "defeat someone through trickery or deceit",
+			"pos": "verb"
+		},
+		{
+			"definition": "compete (for an advantage or a position)",
+			"pos": "verb"
+		},
+		{
+			"definition": "ride a racehorse as a professional jockey",
+			"pos": "verb"
+		}
+	]
+}

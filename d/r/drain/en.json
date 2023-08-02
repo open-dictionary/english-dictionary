@@ -1,0 +1,37 @@
+{
+	"word": "drain",
+	"definitions": [
+		{
+			"definition": "emptying something accomplished by allowing liquid to run out of it",
+			"pos": "noun"
+		},
+		{
+			"definition": "tube inserted into a body cavity (as during surgery) to remove unwanted material",
+			"pos": "noun"
+		},
+		{
+			"definition": "a pipe through which liquid is carried away",
+			"pos": "noun"
+		},
+		{
+			"definition": "a gradual depletion of energy or resources",
+			"pos": "noun"
+		},
+		{
+			"definition": "flow off gradually",
+			"pos": "verb"
+		},
+		{
+			"definition": "deplete of resources",
+			"pos": "verb"
+		},
+		{
+			"definition": "empty of liquid",
+			"pos": "verb"
+		},
+		{
+			"definition": "make weak",
+			"pos": "verb"
+		}
+	]
+}

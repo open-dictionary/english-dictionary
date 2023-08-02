@@ -1,0 +1,37 @@
+{
+	"word": "spark",
+	"definitions": [
+		{
+			"definition": "a momentary flash of light",
+			"pos": "noun"
+		},
+		{
+			"definition": "merriment expressed by a brightness or gleam or animation of countenance",
+			"pos": "noun"
+		},
+		{
+			"definition": "electrical conduction through a gas in an applied electric field",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small but noticeable trace of some quality that might become stronger",
+			"pos": "noun"
+		},
+		{
+			"definition": "Scottish writer of satirical novels (born in 1918)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small fragment of a burning substance thrown out by burning material or by friction",
+			"pos": "noun"
+		},
+		{
+			"definition": "put in motion or move to act",
+			"pos": "verb"
+		},
+		{
+			"definition": "emit or produce sparks",
+			"pos": "verb"
+		}
+	]
+}

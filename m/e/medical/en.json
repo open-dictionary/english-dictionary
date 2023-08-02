@@ -1,0 +1,21 @@
+{
+	"word": "medical",
+	"definitions": [
+		{
+			"definition": "a thorough physical examination",
+			"pos": "noun"
+		},
+		{
+			"definition": "relating to the study or practice of medicine",
+			"pos": "adjective"
+		},
+		{
+			"definition": "requiring or amenable to treatment by medicine especially as opposed to surgery",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or belonging to Aesculapius or the healing art",
+			"pos": "adjective"
+		}
+	]
+}

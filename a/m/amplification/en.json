@@ -1,0 +1,17 @@
+{
+	"word": "amplification",
+	"definitions": [
+		{
+			"definition": "addition of extra material or illustration or clarifying detail",
+			"pos": "noun"
+		},
+		{
+			"definition": "the amount of increase in signal power or voltage or current expressed as the ratio of output to input",
+			"pos": "noun"
+		},
+		{
+			"definition": "(electronics) the act of increasing voltage or power or current",
+			"pos": "noun"
+		}
+	]
+}

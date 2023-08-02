@@ -1,0 +1,37 @@
+{
+	"word": "third",
+	"definitions": [
+		{
+			"definition": "one of three equal parts of a divisible whole",
+			"pos": "noun"
+		},
+		{
+			"definition": "the fielding position of the player on a baseball team who is stationed near the third of the bases in the infield (counting counterclockwise from home plate)",
+			"pos": "noun"
+		},
+		{
+			"definition": "following the second position in an ordering or series",
+			"pos": "noun"
+		},
+		{
+			"definition": "the musical interval between one note and another three notes away from it",
+			"pos": "noun"
+		},
+		{
+			"definition": "the third from the lowest forward ratio gear in the gear box of a motor vehicle",
+			"pos": "noun"
+		},
+		{
+			"definition": "the base that must be touched third by a base runner in baseball",
+			"pos": "noun"
+		},
+		{
+			"definition": "coming next after the second and just before the fourth in position",
+			"pos": "adjective"
+		},
+		{
+			"definition": "in the third place",
+			"pos": "adverb"
+		}
+	]
+}

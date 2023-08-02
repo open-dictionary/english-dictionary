@@ -1,0 +1,29 @@
+{
+	"word": "signal",
+	"definitions": [
+		{
+			"definition": "any nonverbal action or gesture that encodes a message",
+			"pos": "noun"
+		},
+		{
+			"definition": "any incitement to action",
+			"pos": "noun"
+		},
+		{
+			"definition": "an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes",
+			"pos": "noun"
+		},
+		{
+			"definition": "communicate silently and non-verbally by signals or signs",
+			"pos": "verb"
+		},
+		{
+			"definition": "be a signal for or a symptom of",
+			"pos": "verb"
+		},
+		{
+			"definition": "notably out of the ordinary",
+			"pos": "adjective"
+		}
+	]
+}

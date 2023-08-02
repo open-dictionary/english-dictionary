@@ -1,0 +1,25 @@
+{
+	"word": "chicken",
+	"definitions": [
+		{
+			"definition": "the flesh of a chicken used for food",
+			"pos": "noun"
+		},
+		{
+			"definition": "a domestic fowl bred for flesh or eggs",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person who lacks confidence, is irresolute and wishy-washy",
+			"pos": "noun"
+		},
+		{
+			"definition": "a foolhardy competition",
+			"pos": "noun"
+		},
+		{
+			"definition": "easily frightened",
+			"pos": "adjective"
+		}
+	]
+}

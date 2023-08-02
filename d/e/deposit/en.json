@@ -1,0 +1,53 @@
+{
+	"word": "deposit",
+	"definitions": [
+		{
+			"definition": "the phenomenon of sediment or gravel accumulating",
+			"pos": "noun"
+		},
+		{
+			"definition": "matter that has been deposited by some natural process",
+			"pos": "noun"
+		},
+		{
+			"definition": "the natural process of laying down a deposit of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "money deposited in a bank or some similar institution",
+			"pos": "noun"
+		},
+		{
+			"definition": "a partial payment made at the time of purchase",
+			"pos": "noun"
+		},
+		{
+			"definition": "money given as security for an article acquired for temporary use",
+			"pos": "noun"
+		},
+		{
+			"definition": "a payment given as a guarantee that an obligation will be met",
+			"pos": "noun"
+		},
+		{
+			"definition": "a facility where things can be deposited for storage or safekeeping",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of putting something somewhere",
+			"pos": "noun"
+		},
+		{
+			"definition": "put, fix, force, or implant",
+			"pos": "verb"
+		},
+		{
+			"definition": "put into a bank account",
+			"pos": "verb"
+		},
+		{
+			"definition": "put (something somewhere) firmly",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"word": "rust",
+	"definitions": [
+		{
+			"definition": "a red or brown oxide coating on iron or steel caused by the action of oxygen and moisture",
+			"pos": "noun"
+		},
+		{
+			"definition": "a plant disease that produces a reddish-brown discoloration of leaves and stems",
+			"pos": "noun"
+		},
+		{
+			"definition": "the formation of reddish-brown ferric oxides on iron by low-temperature oxidation in the presence of water",
+			"pos": "noun"
+		},
+		{
+			"definition": "any of various fungi causing rust disease in plants",
+			"pos": "noun"
+		},
+		{
+			"definition": "become destroyed by water, air, or a corrosive such as an acid",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to deteriorate due to the action of water, air, or an acid",
+			"pos": "verb"
+		},
+		{
+			"definition": "become coated with oxide",
+			"pos": "verb"
+		},
+		{
+			"definition": "of the brown color of rust",
+			"pos": "adjective"
+		}
+	]
+}

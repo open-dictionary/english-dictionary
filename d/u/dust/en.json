@@ -1,0 +1,33 @@
+{
+	"word": "dust",
+	"definitions": [
+		{
+			"definition": "fine powdery material such as dry earth or pollen that can be blown about in the air",
+			"pos": "noun"
+		},
+		{
+			"definition": "the remains of something that has been destroyed or broken up",
+			"pos": "noun"
+		},
+		{
+			"definition": "free microscopic particles of solid material",
+			"pos": "noun"
+		},
+		{
+			"definition": "remove the dust from",
+			"pos": "verb"
+		},
+		{
+			"definition": "rub the dust over a surface so as to blur the outlines of a shape",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover with a light dusting of a substance",
+			"pos": "verb"
+		},
+		{
+			"definition": "distribute loosely",
+			"pos": "verb"
+		}
+	]
+}

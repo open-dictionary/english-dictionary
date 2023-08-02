@@ -1,0 +1,33 @@
+{
+	"word": "sequence",
+	"definitions": [
+		{
+			"definition": "serial arrangement in which things follow in logical order or a recurrent pattern",
+			"pos": "noun"
+		},
+		{
+			"definition": "a following of one thing after another in time",
+			"pos": "noun"
+		},
+		{
+			"definition": "film consisting of a succession of related shots that develop a given subject in a movie",
+			"pos": "noun"
+		},
+		{
+			"definition": "the action of following in order",
+			"pos": "noun"
+		},
+		{
+			"definition": "several repetitions of a melodic phrase in different keys",
+			"pos": "noun"
+		},
+		{
+			"definition": "arrange in a sequence",
+			"pos": "verb"
+		},
+		{
+			"definition": "determine the order of constituents in",
+			"pos": "verb"
+		}
+	]
+}

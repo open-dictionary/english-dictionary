@@ -1,0 +1,17 @@
+{
+	"word": "sonnet",
+	"definitions": [
+		{
+			"definition": "a verse form consisting of 14 lines with a fixed rhyme scheme",
+			"pos": "noun"
+		},
+		{
+			"definition": "praise in a sonnet",
+			"pos": "verb"
+		},
+		{
+			"definition": "compose a sonnet",
+			"pos": "verb"
+		}
+	]
+}

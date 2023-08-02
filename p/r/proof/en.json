@@ -1,0 +1,53 @@
+{
+	"word": "proof",
+	"definitions": [
+		{
+			"definition": "any factual evidence that helps to establish the truth of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a formal series of statements showing that if one thing is true something else necessarily follows from it",
+			"pos": "noun"
+		},
+		{
+			"definition": "a measure of alcoholic strength expressed as an integer twice the percentage of alcohol present (by volume)",
+			"pos": "noun"
+		},
+		{
+			"definition": "(printing) an impression made to check for errors",
+			"pos": "noun"
+		},
+		{
+			"definition": "a trial photographic print from a negative",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of validating",
+			"pos": "noun"
+		},
+		{
+			"definition": "make or take a proof of, such as a photographic negative, an etching, or typeset",
+			"pos": "verb"
+		},
+		{
+			"definition": "knead to reach proper lightness",
+			"pos": "verb"
+		},
+		{
+			"definition": "read for errors",
+			"pos": "verb"
+		},
+		{
+			"definition": "activate by mixing with water and sometimes sugar or milk",
+			"pos": "verb"
+		},
+		{
+			"definition": "make resistant (to harm)",
+			"pos": "verb"
+		},
+		{
+			"definition": "(used in combination or as a suffix) able to withstand",
+			"pos": "adjective"
+		}
+	]
+}

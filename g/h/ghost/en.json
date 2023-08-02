@@ -1,0 +1,33 @@
+{
+	"word": "ghost",
+	"definitions": [
+		{
+			"definition": "a mental representation of some haunting experience",
+			"pos": "noun"
+		},
+		{
+			"definition": "a writer who gives the credit of authorship to someone else",
+			"pos": "noun"
+		},
+		{
+			"definition": "the visible disembodied soul of a dead person",
+			"pos": "noun"
+		},
+		{
+			"definition": "a suggestion of some quality",
+			"pos": "noun"
+		},
+		{
+			"definition": "move like a ghost",
+			"pos": "verb"
+		},
+		{
+			"definition": "haunt like a ghost",
+			"pos": "verb"
+		},
+		{
+			"definition": "write for someone else",
+			"pos": "verb"
+		}
+	]
+}

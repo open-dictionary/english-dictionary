@@ -1,0 +1,29 @@
+{
+	"word": "zone",
+	"definitions": [
+		{
+			"definition": "a locally circumscribed place characterized by some distinctive features",
+			"pos": "noun"
+		},
+		{
+			"definition": "any of the regions of the surface of the Earth loosely divided according to latitude or longitude",
+			"pos": "noun"
+		},
+		{
+			"definition": "an area or region distinguished from adjacent parts by a distinctive feature or characteristic",
+			"pos": "noun"
+		},
+		{
+			"definition": "(anatomy) any encircling or beltlike structure",
+			"pos": "noun"
+		},
+		{
+			"definition": "regulate housing in",
+			"pos": "verb"
+		},
+		{
+			"definition": "separate or apportion into sections",
+			"pos": "verb"
+		}
+	]
+}

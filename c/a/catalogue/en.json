@@ -1,0 +1,21 @@
+{
+	"word": "catalogue",
+	"definitions": [
+		{
+			"definition": "a complete list of things",
+			"pos": "noun"
+		},
+		{
+			"definition": "a book or pamphlet containing an enumeration of things",
+			"pos": "noun"
+		},
+		{
+			"definition": "make an itemized list or catalog of",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a catalogue, compile a catalogue",
+			"pos": "verb"
+		}
+	]
+}

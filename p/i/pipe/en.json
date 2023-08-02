@@ -1,0 +1,41 @@
+{
+	"word": "pipe",
+	"definitions": [
+		{
+			"definition": "a tube with a small bowl at one end",
+			"pos": "noun"
+		},
+		{
+			"definition": "a long tube made of metal or plastic that is used to carry water or oil or gas etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "a hollow cylindrical shape",
+			"pos": "noun"
+		},
+		{
+			"definition": "a tubular wind instrument",
+			"pos": "noun"
+		},
+		{
+			"definition": "the flues and stops on a pipe organ",
+			"pos": "noun"
+		},
+		{
+			"definition": "utter a shrill cry",
+			"pos": "verb"
+		},
+		{
+			"definition": "transport by pipeline",
+			"pos": "verb"
+		},
+		{
+			"definition": "play on a pipe",
+			"pos": "verb"
+		},
+		{
+			"definition": "trim with piping",
+			"pos": "verb"
+		}
+	]
+}

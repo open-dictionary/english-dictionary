@@ -1,0 +1,33 @@
+{
+	"word": "hero",
+	"definitions": [
+		{
+			"definition": "a man distinguished by exceptional courage and nobility and strength",
+			"pos": "noun"
+		},
+		{
+			"definition": "the principal character in a play or movie or novel or poem",
+			"pos": "noun"
+		},
+		{
+			"definition": "someone who fights for a cause",
+			"pos": "noun"
+		},
+		{
+			"definition": "Greek mathematician and inventor who devised a way to determine the area of a triangle and who described various mechanical devices (first century)",
+			"pos": "noun"
+		},
+		{
+			"definition": "(classical mythology) a being of great strength and courage celebrated for bold exploits",
+			"pos": "noun"
+		},
+		{
+			"definition": "(Greek mythology) priestess of Aphrodite who killed herself when her lover Leander drowned while trying to swim the Hellespont to see her",
+			"pos": "noun"
+		},
+		{
+			"definition": "a large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments)",
+			"pos": "noun"
+		}
+	]
+}

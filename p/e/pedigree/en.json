@@ -1,0 +1,21 @@
+{
+	"word": "pedigree",
+	"definitions": [
+		{
+			"definition": "the descendants of one individual",
+			"pos": "noun"
+		},
+		{
+			"definition": "line of descent of a purebred animal",
+			"pos": "noun"
+		},
+		{
+			"definition": "ancestry of a purebred animal",
+			"pos": "noun"
+		},
+		{
+			"definition": "having a list of ancestors as proof of being a purebred animal",
+			"pos": "adjective"
+		}
+	]
+}

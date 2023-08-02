@@ -1,0 +1,53 @@
+{
+	"word": "shadow",
+	"definitions": [
+		{
+			"definition": "shade within clear boundaries",
+			"pos": "noun"
+		},
+		{
+			"definition": "an unilluminated area",
+			"pos": "noun"
+		},
+		{
+			"definition": "something existing in perception only",
+			"pos": "noun"
+		},
+		{
+			"definition": "a premonition of something adverse",
+			"pos": "noun"
+		},
+		{
+			"definition": "an indication that something has been present",
+			"pos": "noun"
+		},
+		{
+			"definition": "refuge from danger or observation",
+			"pos": "noun"
+		},
+		{
+			"definition": "a dominating and pervasive presence",
+			"pos": "noun"
+		},
+		{
+			"definition": "a spy employed to follow someone and report their movements",
+			"pos": "noun"
+		},
+		{
+			"definition": "an inseparable companion",
+			"pos": "noun"
+		},
+		{
+			"definition": "follow, usually without the person's knowledge",
+			"pos": "verb"
+		},
+		{
+			"definition": "cast a shadow over",
+			"pos": "verb"
+		},
+		{
+			"definition": "make appear small by comparison",
+			"pos": "verb"
+		}
+	]
+}

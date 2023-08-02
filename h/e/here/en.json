@@ -1,0 +1,33 @@
+{
+	"word": "here",
+	"definitions": [
+		{
+			"definition": "the present location",
+			"pos": "noun"
+		},
+		{
+			"definition": "queen of the Olympian gods in ancient Greek mythology",
+			"pos": "noun"
+		},
+		{
+			"definition": "being here now",
+			"pos": "adjective"
+		},
+		{
+			"definition": "in or at this place",
+			"pos": "adverb"
+		},
+		{
+			"definition": "in this circumstance or respect or on this point or detail",
+			"pos": "adverb"
+		},
+		{
+			"definition": "to this place (especially toward the speaker)",
+			"pos": "adverb"
+		},
+		{
+			"definition": "at this time",
+			"pos": "adverb"
+		}
+	]
+}

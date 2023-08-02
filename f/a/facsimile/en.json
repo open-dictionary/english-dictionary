@@ -1,0 +1,17 @@
+{
+	"word": "facsimile",
+	"definitions": [
+		{
+			"definition": "an exact copy or reproduction",
+			"pos": "noun"
+		},
+		{
+			"definition": "duplicator that transmits the copy by wire or radio",
+			"pos": "noun"
+		},
+		{
+			"definition": "send something via a facsimile machine",
+			"pos": "verb"
+		}
+	]
+}

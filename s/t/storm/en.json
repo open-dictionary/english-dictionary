@@ -1,0 +1,37 @@
+{
+	"word": "storm",
+	"definitions": [
+		{
+			"definition": "a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning",
+			"pos": "noun"
+		},
+		{
+			"definition": "a violent commotion or disturbance",
+			"pos": "noun"
+		},
+		{
+			"definition": "a direct and violent assault on a stronghold",
+			"pos": "noun"
+		},
+		{
+			"definition": "behave violently, as if in state of a great anger",
+			"pos": "verb"
+		},
+		{
+			"definition": "take by force",
+			"pos": "verb"
+		},
+		{
+			"definition": "rain, hail, or snow hard and be very windy, often with thunder or lightning",
+			"pos": "verb"
+		},
+		{
+			"definition": "blow hard",
+			"pos": "verb"
+		},
+		{
+			"definition": "attack by storm",
+			"pos": "verb"
+		}
+	]
+}

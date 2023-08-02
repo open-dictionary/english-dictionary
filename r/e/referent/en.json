@@ -1,0 +1,21 @@
+{
+	"word": "referent",
+	"definitions": [
+		{
+			"definition": "something referred to",
+			"pos": "noun"
+		},
+		{
+			"definition": "the first term in a proposition",
+			"pos": "noun"
+		},
+		{
+			"definition": "something that refers",
+			"pos": "noun"
+		},
+		{
+			"definition": "having reference",
+			"pos": "adjective"
+		}
+	]
+}

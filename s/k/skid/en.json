@@ -1,0 +1,33 @@
+{
+	"word": "skid",
+	"definitions": [
+		{
+			"definition": "one of a pair of planks used to make a track for rolling or sliding objects",
+			"pos": "noun"
+		},
+		{
+			"definition": "a restraint provided when the brake linings are moved hydraulically against the brake drum to retard the wheel's rotation",
+			"pos": "noun"
+		},
+		{
+			"definition": "an unexpected slide",
+			"pos": "noun"
+		},
+		{
+			"definition": "slide without control",
+			"pos": "verb"
+		},
+		{
+			"definition": "elevate onto skids",
+			"pos": "verb"
+		},
+		{
+			"definition": "apply a brake or skid to",
+			"pos": "verb"
+		},
+		{
+			"definition": "move obliquely or sideways, usually in an uncontrolled manner",
+			"pos": "verb"
+		}
+	]
+}

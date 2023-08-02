@@ -1,0 +1,21 @@
+{
+	"word": "robe",
+	"definitions": [
+		{
+			"definition": "any loose flowing garment",
+			"pos": "noun"
+		},
+		{
+			"definition": "outerwear consisting of a long flowing garment used for official or ceremonial occasions",
+			"pos": "noun"
+		},
+		{
+			"definition": "clothe formally",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover as if with clothing",
+			"pos": "verb"
+		}
+	]
+}

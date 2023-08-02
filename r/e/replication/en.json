@@ -1,0 +1,33 @@
+{
+	"word": "replication",
+	"definitions": [
+		{
+			"definition": "the act of making copies",
+			"pos": "noun"
+		},
+		{
+			"definition": "(genetics) the process whereby DNA makes a copy of itself before cell division",
+			"pos": "noun"
+		},
+		{
+			"definition": "a quick reply to a question or remark (especially a witty or critical one)",
+			"pos": "noun"
+		},
+		{
+			"definition": "(law) a pleading made by a plaintiff in reply to the defendant's plea or answer",
+			"pos": "noun"
+		},
+		{
+			"definition": "the repetition of a sound resulting from reflection of the sound waves",
+			"pos": "noun"
+		},
+		{
+			"definition": "copy that is not the original",
+			"pos": "noun"
+		},
+		{
+			"definition": "the repetition of an experiment in order to test the validity of its conclusion",
+			"pos": "noun"
+		}
+	]
+}

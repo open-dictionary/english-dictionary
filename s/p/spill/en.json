@@ -1,0 +1,45 @@
+{
+	"word": "spill",
+	"definitions": [
+		{
+			"definition": "liquid that is spilled",
+			"pos": "noun"
+		},
+		{
+			"definition": "a channel that carries excess water over or around a dam or other obstruction",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of allowing a fluid to escape",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sudden drop from an upright position",
+			"pos": "noun"
+		},
+		{
+			"definition": "cause or allow (a liquid substance) to run or flow from a container",
+			"pos": "verb"
+		},
+		{
+			"definition": "flow, run or fall out and become lost",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause or allow (a solid substance) to flow or run out or over",
+			"pos": "verb"
+		},
+		{
+			"definition": "pour out in drops or small quantities or as if in drops or small quantities",
+			"pos": "verb"
+		},
+		{
+			"definition": "reveal information",
+			"pos": "verb"
+		},
+		{
+			"definition": "reduce the pressure of wind on (a sail)",
+			"pos": "verb"
+		}
+	]
+}

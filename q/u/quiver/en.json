@@ -1,0 +1,33 @@
+{
+	"word": "quiver",
+	"definitions": [
+		{
+			"definition": "an almost pleasurable sensation of fright",
+			"pos": "noun"
+		},
+		{
+			"definition": "a shaky motion",
+			"pos": "noun"
+		},
+		{
+			"definition": "case for holding arrows",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of vibrating",
+			"pos": "noun"
+		},
+		{
+			"definition": "shake with fast, tremulous movements",
+			"pos": "verb"
+		},
+		{
+			"definition": "move back and forth very rapidly",
+			"pos": "verb"
+		},
+		{
+			"definition": "move with or as if with a regular alternating motion",
+			"pos": "verb"
+		}
+	]
+}

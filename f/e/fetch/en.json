@@ -1,0 +1,21 @@
+{
+	"word": "fetch",
+	"definitions": [
+		{
+			"definition": "the action of fetching",
+			"pos": "noun"
+		},
+		{
+			"definition": "go or come after and bring or take back",
+			"pos": "verb"
+		},
+		{
+			"definition": "be sold for a certain price",
+			"pos": "verb"
+		},
+		{
+			"definition": "take away or remove",
+			"pos": "verb"
+		}
+	]
+}

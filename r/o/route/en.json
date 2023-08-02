@@ -1,0 +1,25 @@
+{
+	"word": "route",
+	"definitions": [
+		{
+			"definition": "an established line of travel or access",
+			"pos": "noun"
+		},
+		{
+			"definition": "an open way (generally public) for travel or transportation",
+			"pos": "noun"
+		},
+		{
+			"definition": "send documents or materials to appropriate destinations",
+			"pos": "verb"
+		},
+		{
+			"definition": "send via a specific route",
+			"pos": "verb"
+		},
+		{
+			"definition": "divert in a specified direction",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"word": "shovel",
+	"definitions": [
+		{
+			"definition": "a hand tool for lifting loose material",
+			"pos": "noun"
+		},
+		{
+			"definition": "the quantity a shovel can hold",
+			"pos": "noun"
+		},
+		{
+			"definition": "a fire iron consisting of a small shovel used to scoop coals or ashes in a fireplace",
+			"pos": "noun"
+		},
+		{
+			"definition": "a machine for excavating",
+			"pos": "noun"
+		},
+		{
+			"definition": "dig with or as if with a shovel",
+			"pos": "verb"
+		}
+	]
+}

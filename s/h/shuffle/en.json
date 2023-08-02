@@ -1,0 +1,25 @@
+{
+	"word": "shuffle",
+	"definitions": [
+		{
+			"definition": "the act of mixing cards haphazardly",
+			"pos": "noun"
+		},
+		{
+			"definition": "walking with a slow dragging motion without lifting your feet",
+			"pos": "noun"
+		},
+		{
+			"definition": "walk by dragging one's feet",
+			"pos": "verb"
+		},
+		{
+			"definition": "move about, move back and forth",
+			"pos": "verb"
+		},
+		{
+			"definition": "mix so as to make a random order or arrangement",
+			"pos": "verb"
+		}
+	]
+}

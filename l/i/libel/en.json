@@ -1,0 +1,17 @@
+{
+	"word": "libel",
+	"definitions": [
+		{
+			"definition": "a false and malicious publication printed for the purpose of defaming a living person",
+			"pos": "noun"
+		},
+		{
+			"definition": "the written statement of a plaintiff explaining the cause of action (the defamation) and any relief he seeks",
+			"pos": "noun"
+		},
+		{
+			"definition": "print slanderous statements against",
+			"pos": "verb"
+		}
+	]
+}

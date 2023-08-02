@@ -1,0 +1,25 @@
+{
+	"word": "default",
+	"definitions": [
+		{
+			"definition": "loss due to not showing up",
+			"pos": "noun"
+		},
+		{
+			"definition": "act of failing to meet a financial obligation",
+			"pos": "noun"
+		},
+		{
+			"definition": "loss resulting from failure of a debt to be paid",
+			"pos": "noun"
+		},
+		{
+			"definition": "an option that is selected automatically unless an alternative is specified",
+			"pos": "noun"
+		},
+		{
+			"definition": "fail to pay up",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"word": "thing",
+	"definitions": [
+		{
+			"definition": "a special situation",
+			"pos": "noun"
+		},
+		{
+			"definition": "an action",
+			"pos": "noun"
+		},
+		{
+			"definition": "a special abstraction",
+			"pos": "noun"
+		},
+		{
+			"definition": "an artifact",
+			"pos": "noun"
+		},
+		{
+			"definition": "an event",
+			"pos": "noun"
+		},
+		{
+			"definition": "a vaguely specified concern",
+			"pos": "noun"
+		},
+		{
+			"definition": "a statement regarded as an object",
+			"pos": "noun"
+		},
+		{
+			"definition": "an entity that is not named specifically",
+			"pos": "noun"
+		},
+		{
+			"definition": "any attribute or quality considered as having its own existence",
+			"pos": "noun"
+		},
+		{
+			"definition": "a special objective",
+			"pos": "noun"
+		},
+		{
+			"definition": "a persistent illogical feeling of desire or aversion",
+			"pos": "noun"
+		},
+		{
+			"definition": "a separate and self-contained entity",
+			"pos": "noun"
+		}
+	]
+}

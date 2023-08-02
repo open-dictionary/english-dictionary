@@ -1,0 +1,17 @@
+{
+	"word": "drug",
+	"definitions": [
+		{
+			"definition": "a substance that is used as a medicine or narcotic",
+			"pos": "noun"
+		},
+		{
+			"definition": "administer a drug to",
+			"pos": "verb"
+		},
+		{
+			"definition": "use recreational drugs",
+			"pos": "verb"
+		}
+	]
+}

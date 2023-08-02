@@ -1,0 +1,33 @@
+{
+	"word": "fleet",
+	"definitions": [
+		{
+			"definition": "group of aircraft operating together under the same ownership",
+			"pos": "noun"
+		},
+		{
+			"definition": "group of motor vehicles operating together under the same ownership",
+			"pos": "noun"
+		},
+		{
+			"definition": "a group of steamships operating together under the same ownership",
+			"pos": "noun"
+		},
+		{
+			"definition": "a group of warships organized as a tactical unit",
+			"pos": "noun"
+		},
+		{
+			"definition": "move along rapidly and lightly",
+			"pos": "verb"
+		},
+		{
+			"definition": "disappear gradually",
+			"pos": "verb"
+		},
+		{
+			"definition": "moving very fast",
+			"pos": "adjective"
+		}
+	]
+}

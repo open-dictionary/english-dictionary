@@ -1,0 +1,17 @@
+{
+	"word": "brew",
+	"definitions": [
+		{
+			"definition": "drink made by steeping and boiling and fermenting rather than distilling",
+			"pos": "noun"
+		},
+		{
+			"definition": "prepare by brewing",
+			"pos": "verb"
+		},
+		{
+			"definition": "sit or let sit in boiling water so as to extract the flavor",
+			"pos": "verb"
+		}
+	]
+}

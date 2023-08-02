@@ -1,0 +1,21 @@
+{
+	"word": "packet",
+	"definitions": [
+		{
+			"definition": "a collection of things wrapped or boxed together",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a message or message fragment",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small package or bundle",
+			"pos": "noun"
+		},
+		{
+			"definition": "a boat for carrying mail",
+			"pos": "noun"
+		}
+	]
+}

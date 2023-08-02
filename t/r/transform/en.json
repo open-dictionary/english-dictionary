@@ -1,0 +1,33 @@
+{
+	"word": "transform",
+	"definitions": [
+		{
+			"definition": "subject to a mathematical transformation",
+			"pos": "verb"
+		},
+		{
+			"definition": "change or alter in form, appearance, or nature",
+			"pos": "verb"
+		},
+		{
+			"definition": "change in outward structure or looks",
+			"pos": "verb"
+		},
+		{
+			"definition": "change from one form or medium into another",
+			"pos": "verb"
+		},
+		{
+			"definition": "convert (one form of energy) to another",
+			"pos": "verb"
+		},
+		{
+			"definition": "change (a bacterial cell) into a genetically distinct cell by the introduction of DNA from another cell of the same or closely related species",
+			"pos": "verb"
+		},
+		{
+			"definition": "increase or decrease (an alternating current or voltage)",
+			"pos": "verb"
+		}
+	]
+}

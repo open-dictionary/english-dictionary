@@ -1,0 +1,29 @@
+{
+	"word": "glide",
+	"definitions": [
+		{
+			"definition": "a vowellike sound that serves as a consonant",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of moving smoothly along a surface while remaining in contact with it",
+			"pos": "noun"
+		},
+		{
+			"definition": "the activity of flying a glider",
+			"pos": "noun"
+		},
+		{
+			"definition": "move smoothly and effortlessly",
+			"pos": "verb"
+		},
+		{
+			"definition": "fly in or as if in a glider plane",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to move or pass silently, smoothly, or imperceptibly",
+			"pos": "verb"
+		}
+	]
+}

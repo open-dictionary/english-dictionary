@@ -1,0 +1,45 @@
+{
+	"word": "hole",
+	"definitions": [
+		{
+			"definition": "an opening into or through something",
+			"pos": "noun"
+		},
+		{
+			"definition": "an opening deliberately made in or through something",
+			"pos": "noun"
+		},
+		{
+			"definition": "one playing period (from tee to green) on a golf course",
+			"pos": "noun"
+		},
+		{
+			"definition": "an unoccupied space",
+			"pos": "noun"
+		},
+		{
+			"definition": "a depression hollowed out of solid matter",
+			"pos": "noun"
+		},
+		{
+			"definition": "a fault",
+			"pos": "noun"
+		},
+		{
+			"definition": "informal terms for a difficult situation",
+			"pos": "noun"
+		},
+		{
+			"definition": "informal terms for the mouth",
+			"pos": "noun"
+		},
+		{
+			"definition": "hit the ball into the hole",
+			"pos": "verb"
+		},
+		{
+			"definition": "make holes in",
+			"pos": "verb"
+		}
+	]
+}

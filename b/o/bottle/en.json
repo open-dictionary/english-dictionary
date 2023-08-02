@@ -1,0 +1,25 @@
+{
+	"word": "bottle",
+	"definitions": [
+		{
+			"definition": "a glass or plastic vessel used for storing drinks or other liquids",
+			"pos": "noun"
+		},
+		{
+			"definition": "the quantity contained in a bottle",
+			"pos": "noun"
+		},
+		{
+			"definition": "a vessel fitted with a flexible teat and filled with milk or formula",
+			"pos": "noun"
+		},
+		{
+			"definition": "store (liquids or gases) in bottles",
+			"pos": "verb"
+		},
+		{
+			"definition": "put into bottles",
+			"pos": "verb"
+		}
+	]
+}

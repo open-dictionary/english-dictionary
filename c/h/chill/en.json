@@ -1,0 +1,33 @@
+{
+	"word": "chill",
+	"definitions": [
+		{
+			"definition": "coldness due to a cold environment",
+			"pos": "noun"
+		},
+		{
+			"definition": "an almost pleasurable sensation of fright",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sensation of cold that often marks the start of an infection and the development of a fever",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sudden numbing dread",
+			"pos": "noun"
+		},
+		{
+			"definition": "depress or discourage",
+			"pos": "verb"
+		},
+		{
+			"definition": "make cool or cooler",
+			"pos": "verb"
+		},
+		{
+			"definition": "loose heat",
+			"pos": "verb"
+		}
+	]
+}

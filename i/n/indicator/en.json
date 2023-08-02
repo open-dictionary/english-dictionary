@@ -1,0 +1,21 @@
+{
+	"word": "indicator",
+	"definitions": [
+		{
+			"definition": "a number or ratio (a value on a scale of measurement) derived from a series of observed facts",
+			"pos": "noun"
+		},
+		{
+			"definition": "a signal for attracting attention",
+			"pos": "noun"
+		},
+		{
+			"definition": "a device for showing the operating condition of some system",
+			"pos": "noun"
+		},
+		{
+			"definition": "(chemistry) a substance that changes color to indicate the presence of some ion or substance",
+			"pos": "noun"
+		}
+	]
+}

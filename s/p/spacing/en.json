@@ -1,0 +1,17 @@
+{
+	"word": "spacing",
+	"definitions": [
+		{
+			"definition": "the time between occurrences of a repeating event",
+			"pos": "noun"
+		},
+		{
+			"definition": "the property possessed by an array of things that have space between them",
+			"pos": "noun"
+		},
+		{
+			"definition": "place at intervals",
+			"pos": "verb"
+		}
+	]
+}

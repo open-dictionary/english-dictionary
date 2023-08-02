@@ -1,0 +1,29 @@
+{
+	"word": "individual",
+	"definitions": [
+		{
+			"definition": "a human being",
+			"pos": "noun"
+		},
+		{
+			"definition": "a single organism",
+			"pos": "noun"
+		},
+		{
+			"definition": "being or characteristic of a single thing or person",
+			"pos": "adjective"
+		},
+		{
+			"definition": "separate and distinct from others of the same kind",
+			"pos": "adjective"
+		},
+		{
+			"definition": "characteristic of or meant for a single person or thing",
+			"pos": "adjective"
+		},
+		{
+			"definition": "concerning one person exclusively",
+			"pos": "adjective"
+		}
+	]
+}

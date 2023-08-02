@@ -1,0 +1,37 @@
+{
+	"word": "grate",
+	"definitions": [
+		{
+			"definition": "a frame of iron bars to hold a fire",
+			"pos": "noun"
+		},
+		{
+			"definition": "a harsh rasping sound made by scraping something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a barrier that has parallel or crossed bars blocking a passage but admitting air",
+			"pos": "noun"
+		},
+		{
+			"definition": "furnish with a grate",
+			"pos": "verb"
+		},
+		{
+			"definition": "gnaw into",
+			"pos": "verb"
+		},
+		{
+			"definition": "reduce to small shreds or pulverize by rubbing against a rough or sharp perforated surface",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a grating or grinding sound by rubbing together",
+			"pos": "verb"
+		},
+		{
+			"definition": "scratch repeatedly",
+			"pos": "verb"
+		}
+	]
+}

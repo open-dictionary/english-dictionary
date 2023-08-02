@@ -1,0 +1,37 @@
+{
+	"word": "chatter",
+	"definitions": [
+		{
+			"definition": "noisy talk",
+			"pos": "noun"
+		},
+		{
+			"definition": "the rapid series of noises made by the parts of a machine",
+			"pos": "noun"
+		},
+		{
+			"definition": "the high-pitched continuing noise made by animals (birds or monkeys)",
+			"pos": "noun"
+		},
+		{
+			"definition": "click repeatedly or uncontrollably",
+			"pos": "verb"
+		},
+		{
+			"definition": "cut unevenly with a chattering tool",
+			"pos": "verb"
+		},
+		{
+			"definition": "talk socially without exchanging too much information",
+			"pos": "verb"
+		},
+		{
+			"definition": "speak (about unimportant matters) rapidly and incessantly",
+			"pos": "verb"
+		},
+		{
+			"definition": "make noise as if chattering away",
+			"pos": "verb"
+		}
+	]
+}

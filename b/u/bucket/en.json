@@ -1,0 +1,21 @@
+{
+	"word": "bucket",
+	"definitions": [
+		{
+			"definition": "a roughly cylindrical vessel that is open at the top",
+			"pos": "noun"
+		},
+		{
+			"definition": "the quantity contained in a bucket",
+			"pos": "noun"
+		},
+		{
+			"definition": "put into a bucket",
+			"pos": "verb"
+		},
+		{
+			"definition": "carry in a bucket",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"word": "year",
+	"definitions": [
+		{
+			"definition": "a period of time containing 365 (or 366) days",
+			"pos": "noun"
+		},
+		{
+			"definition": "a period of time occupying a regular part of a calendar year that is used for some particular activity",
+			"pos": "noun"
+		},
+		{
+			"definition": "the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun",
+			"pos": "noun"
+		},
+		{
+			"definition": "a body of students who graduate together",
+			"pos": "noun"
+		}
+	]
+}

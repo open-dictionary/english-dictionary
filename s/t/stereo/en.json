@@ -1,0 +1,17 @@
+{
+	"word": "stereo",
+	"definitions": [
+		{
+			"definition": "reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound",
+			"pos": "noun"
+		},
+		{
+			"definition": "two photographs taken from slightly different angles that appear three-dimensional when viewed together",
+			"pos": "noun"
+		},
+		{
+			"definition": "designating the reproduction of sound using two or more independent audio channels",
+			"pos": "adjective"
+		}
+	]
+}

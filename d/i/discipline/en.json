@@ -1,0 +1,33 @@
+{
+	"word": "discipline",
+	"definitions": [
+		{
+			"definition": "a branch of knowledge",
+			"pos": "noun"
+		},
+		{
+			"definition": "a system of rules of conduct or method of practice",
+			"pos": "noun"
+		},
+		{
+			"definition": "the trait of being well behaved",
+			"pos": "noun"
+		},
+		{
+			"definition": "training to improve strength or self-control",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of disciplining",
+			"pos": "noun"
+		},
+		{
+			"definition": "develop (a child's or animal's) behavior by instruction and practice",
+			"pos": "verb"
+		},
+		{
+			"definition": "punish in order to gain control or enforce obedience",
+			"pos": "verb"
+		}
+	]
+}

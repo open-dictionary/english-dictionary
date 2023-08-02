@@ -1,0 +1,41 @@
+{
+	"word": "earth",
+	"definitions": [
+		{
+			"definition": "the 3rd planet from the sun",
+			"pos": "noun"
+		},
+		{
+			"definition": "the loose soft material that makes up a large part of the land surface",
+			"pos": "noun"
+		},
+		{
+			"definition": "the solid part of the earth's surface",
+			"pos": "noun"
+		},
+		{
+			"definition": "the abode of mortals (as contrasted with Heaven or Hell)",
+			"pos": "noun"
+		},
+		{
+			"definition": "once thought to be one of four elements composing the universe (Empedocles)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the concerns of this life as distinguished from heaven and the afterlife",
+			"pos": "noun"
+		},
+		{
+			"definition": "a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage)",
+			"pos": "noun"
+		},
+		{
+			"definition": "hide in the earth like a hunted animal",
+			"pos": "verb"
+		},
+		{
+			"definition": "connect to the earth",
+			"pos": "verb"
+		}
+	]
+}

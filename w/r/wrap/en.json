@@ -1,0 +1,33 @@
+{
+	"word": "wrap",
+	"definitions": [
+		{
+			"definition": "cloak that is folded or wrapped around a person",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sandwich in which the filling is rolled up in a soft tortilla",
+			"pos": "noun"
+		},
+		{
+			"definition": "the covering (usually paper or cellophane) in which something is wrapped",
+			"pos": "noun"
+		},
+		{
+			"definition": "arrange or fold as a cover or protection",
+			"pos": "verb"
+		},
+		{
+			"definition": "arrange or or coil around",
+			"pos": "verb"
+		},
+		{
+			"definition": "enclose or enfold completely with or as if with a covering",
+			"pos": "verb"
+		},
+		{
+			"definition": "crash into so as to coil around",
+			"pos": "verb"
+		}
+	]
+}

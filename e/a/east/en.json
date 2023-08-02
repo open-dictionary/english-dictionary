@@ -1,0 +1,33 @@
+{
+	"word": "east",
+	"definitions": [
+		{
+			"definition": "the cardinal compass point that is at 90 degrees",
+			"pos": "noun"
+		},
+		{
+			"definition": "the countries of Asia",
+			"pos": "noun"
+		},
+		{
+			"definition": "the region of the United States lying to the north of the Ohio River and to the east of the Mississippi River",
+			"pos": "noun"
+		},
+		{
+			"definition": "the direction corresponding to the eastward cardinal compass point",
+			"pos": "noun"
+		},
+		{
+			"definition": "a location in the eastern part of a country, region, or city",
+			"pos": "noun"
+		},
+		{
+			"definition": "situated in or facing or moving toward the east",
+			"pos": "adjective"
+		},
+		{
+			"definition": "to, toward, or in the east",
+			"pos": "adverb"
+		}
+	]
+}

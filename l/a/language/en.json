@@ -1,0 +1,29 @@
+{
+	"word": "language",
+	"definitions": [
+		{
+			"definition": "a systematic means of communicating by the use of sounds or conventional symbols",
+			"pos": "noun"
+		},
+		{
+			"definition": "(language) communication by word of mouth",
+			"pos": "noun"
+		},
+		{
+			"definition": "the text of a popular song or musical-comedy number",
+			"pos": "noun"
+		},
+		{
+			"definition": "the cognitive processes involved in producing and understanding linguistic communication",
+			"pos": "noun"
+		},
+		{
+			"definition": "the mental faculty or power of vocal communication",
+			"pos": "noun"
+		},
+		{
+			"definition": "a system of words used to name things in a particular discipline",
+			"pos": "noun"
+		}
+	]
+}

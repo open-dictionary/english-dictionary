@@ -1,0 +1,25 @@
+{
+	"word": "domain",
+	"definitions": [
+		{
+			"definition": "a particular environment or walk of life",
+			"pos": "noun"
+		},
+		{
+			"definition": "territory over which rule or control is exercised",
+			"pos": "noun"
+		},
+		{
+			"definition": "(mathematics) the set of values of the independent variable for which a function is defined",
+			"pos": "noun"
+		},
+		{
+			"definition": "people in general",
+			"pos": "noun"
+		},
+		{
+			"definition": "the content of a particular field of knowledge",
+			"pos": "noun"
+		}
+	]
+}

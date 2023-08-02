@@ -1,0 +1,21 @@
+{
+	"word": "package",
+	"definitions": [
+		{
+			"definition": "a collection of things wrapped or boxed together",
+			"pos": "noun"
+		},
+		{
+			"definition": "a wrapped container",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory",
+			"pos": "noun"
+		},
+		{
+			"definition": "put into a box",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"word": "wager",
+	"definitions": [
+		{
+			"definition": "the act of gambling",
+			"pos": "noun"
+		},
+		{
+			"definition": "the money risked on a gamble",
+			"pos": "noun"
+		},
+		{
+			"definition": "stake on the outcome of an issue",
+			"pos": "verb"
+		},
+		{
+			"definition": "maintain with or as if with a bet",
+			"pos": "verb"
+		}
+	]
+}

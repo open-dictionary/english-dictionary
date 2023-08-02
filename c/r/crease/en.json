@@ -1,0 +1,33 @@
+{
+	"word": "crease",
+	"definitions": [
+		{
+			"definition": "an angular or rounded shape made by folding",
+			"pos": "noun"
+		},
+		{
+			"definition": "a slight depression or fold in the smoothness of a surface",
+			"pos": "noun"
+		},
+		{
+			"definition": "a Malayan dagger with a wavy blade",
+			"pos": "noun"
+		},
+		{
+			"definition": "make wrinkles or creases on a smooth surface",
+			"pos": "verb"
+		},
+		{
+			"definition": "make wrinkled or creased",
+			"pos": "verb"
+		},
+		{
+			"definition": "scrape gently",
+			"pos": "verb"
+		},
+		{
+			"definition": "become wrinkled or crumpled or creased",
+			"pos": "verb"
+		}
+	]
+}

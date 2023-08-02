@@ -1,0 +1,29 @@
+{
+	"word": "rubbing",
+	"definitions": [
+		{
+			"definition": "the resistance encountered when one body is moved in contact with another",
+			"pos": "noun"
+		},
+		{
+			"definition": "representation consisting of a copy (as of an engraving) made by laying paper over something and rubbing it with charcoal",
+			"pos": "noun"
+		},
+		{
+			"definition": "effort expended in moving one object over another with pressure",
+			"pos": "noun"
+		},
+		{
+			"definition": "move over something with pressure",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause friction",
+			"pos": "verb"
+		},
+		{
+			"definition": "scrape or rub as if to relieve itching",
+			"pos": "verb"
+		}
+	]
+}

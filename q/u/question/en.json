@@ -1,0 +1,49 @@
+{
+	"word": "question",
+	"definitions": [
+		{
+			"definition": "an instance of questioning",
+			"pos": "noun"
+		},
+		{
+			"definition": "the subject matter at issue",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sentence of inquiry that asks for a reply",
+			"pos": "noun"
+		},
+		{
+			"definition": "uncertainty about the truth or factuality or existence of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a formal proposal for action made to a deliberative assembly for discussion and vote",
+			"pos": "noun"
+		},
+		{
+			"definition": "an informal reference to a marriage proposal",
+			"pos": "noun"
+		},
+		{
+			"definition": "challenge the accuracy, probity, or propriety of",
+			"pos": "verb"
+		},
+		{
+			"definition": "pose a series of questions to",
+			"pos": "verb"
+		},
+		{
+			"definition": "pose a question",
+			"pos": "verb"
+		},
+		{
+			"definition": "conduct an interview in television, newspaper, and radio reporting",
+			"pos": "verb"
+		},
+		{
+			"definition": "place in doubt or express doubtful speculation",
+			"pos": "verb"
+		}
+	]
+}

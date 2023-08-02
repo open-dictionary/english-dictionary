@@ -1,0 +1,41 @@
+{
+	"word": "lapse",
+	"definitions": [
+		{
+			"definition": "a mistake resulting from inattention",
+			"pos": "noun"
+		},
+		{
+			"definition": "a break or intermission in the occurrence of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a failure to maintain a higher state",
+			"pos": "noun"
+		},
+		{
+			"definition": "pass into a specified state or condition",
+			"pos": "verb"
+		},
+		{
+			"definition": "end, at least for a long time",
+			"pos": "verb"
+		},
+		{
+			"definition": "drop to a lower level, as in one's morals or standards",
+			"pos": "verb"
+		},
+		{
+			"definition": "go back to bad behavior",
+			"pos": "verb"
+		},
+		{
+			"definition": "let slip",
+			"pos": "verb"
+		},
+		{
+			"definition": "pass by",
+			"pos": "verb"
+		}
+	]
+}

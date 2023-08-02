@@ -1,0 +1,37 @@
+{
+	"word": "dot",
+	"definitions": [
+		{
+			"definition": "a very small circular shape",
+			"pos": "noun"
+		},
+		{
+			"definition": "the United States federal department that institutes and coordinates national transportation programs",
+			"pos": "noun"
+		},
+		{
+			"definition": "the shorter of the two telegraphic signals used in Morse code",
+			"pos": "noun"
+		},
+		{
+			"definition": "street name for lysergic acid diethylamide",
+			"pos": "noun"
+		},
+		{
+			"definition": "scatter or intersperse like dots or studs",
+			"pos": "verb"
+		},
+		{
+			"definition": "distribute loosely",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a dot or dots",
+			"pos": "verb"
+		},
+		{
+			"definition": "mark with a dot",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"word": "metric",
+	"definitions": [
+		{
+			"definition": "a function of a topological space that gives, for any two points in the space, a value equal to the distance between them",
+			"pos": "noun"
+		},
+		{
+			"definition": "a decimal unit of measurement of the metric system (based on meters and kilograms and seconds)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a system of related measures that facilitates the quantification of some particular characteristic",
+			"pos": "noun"
+		},
+		{
+			"definition": "based on the meter as a standard of measurement",
+			"pos": "adjective"
+		},
+		{
+			"definition": "the rhythmic arrangement of syllables",
+			"pos": "adjective"
+		}
+	]
+}

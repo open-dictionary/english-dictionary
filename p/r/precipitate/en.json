@@ -1,0 +1,33 @@
+{
+	"word": "precipitate",
+	"definitions": [
+		{
+			"definition": "a precipitated solid substance in suspension or after settling or filtering",
+			"pos": "noun"
+		},
+		{
+			"definition": "bring about abruptly",
+			"pos": "verb"
+		},
+		{
+			"definition": "separate as a fine suspension of solid particles",
+			"pos": "verb"
+		},
+		{
+			"definition": "fall from clouds",
+			"pos": "verb"
+		},
+		{
+			"definition": "fall vertically, sharply, or headlong",
+			"pos": "verb"
+		},
+		{
+			"definition": "hurl or throw violently",
+			"pos": "verb"
+		},
+		{
+			"definition": "done with very great haste and without due deliberation",
+			"pos": "adjective"
+		}
+	]
+}

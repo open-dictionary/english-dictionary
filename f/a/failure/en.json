@@ -1,0 +1,33 @@
+{
+	"word": "failure",
+	"definitions": [
+		{
+			"definition": "an act that fails",
+			"pos": "noun"
+		},
+		{
+			"definition": "an event that does not accomplish its intended purpose",
+			"pos": "noun"
+		},
+		{
+			"definition": "lack of success",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person with a record of failing",
+			"pos": "noun"
+		},
+		{
+			"definition": "an unexpected omission",
+			"pos": "noun"
+		},
+		{
+			"definition": "inability to discharge all your debts as they come due",
+			"pos": "noun"
+		},
+		{
+			"definition": "loss of ability to function normally",
+			"pos": "noun"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"word": "gown",
+	"definitions": [
+		{
+			"definition": "a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions",
+			"pos": "noun"
+		},
+		{
+			"definition": "the members of a university as distinguished from the other residents of the town in which the university is located",
+			"pos": "noun"
+		},
+		{
+			"definition": "lingerie consisting of a loose dress designed to be worn in bed by women",
+			"pos": "noun"
+		},
+		{
+			"definition": "protective garment worn by surgeons during operations",
+			"pos": "noun"
+		},
+		{
+			"definition": "outerwear consisting of a long flowing garment used for official or ceremonial occasions",
+			"pos": "noun"
+		},
+		{
+			"definition": "dress in a gown",
+			"pos": "verb"
+		}
+	]
+}

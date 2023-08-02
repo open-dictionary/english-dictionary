@@ -1,0 +1,29 @@
+{
+	"word": "whisk",
+	"definitions": [
+		{
+			"definition": "a mixer incorporating a coil of wires",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small short-handled broom used to brush clothes",
+			"pos": "noun"
+		},
+		{
+			"definition": "move somewhere quickly",
+			"pos": "verb"
+		},
+		{
+			"definition": "move quickly and nimbly",
+			"pos": "verb"
+		},
+		{
+			"definition": "brush or wipe off lightly",
+			"pos": "verb"
+		},
+		{
+			"definition": "whip with or as if with a wire whisk",
+			"pos": "verb"
+		}
+	]
+}

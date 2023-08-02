@@ -1,0 +1,25 @@
+{
+	"word": "daily",
+	"definitions": [
+		{
+			"definition": "a newspaper that is published every day",
+			"pos": "noun"
+		},
+		{
+			"definition": "of or belonging to or occurring every day",
+			"pos": "adjective"
+		},
+		{
+			"definition": "appropriate for ordinary or routine occasions",
+			"pos": "adjective"
+		},
+		{
+			"definition": "every day",
+			"pos": "adverb"
+		},
+		{
+			"definition": "gradually and progressively",
+			"pos": "adverb"
+		}
+	]
+}

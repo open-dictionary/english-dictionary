@@ -1,0 +1,41 @@
+{
+	"word": "portes",
+	"definitions": [
+		{
+			"definition": "the Ottoman court in Constantinople",
+			"pos": "noun"
+		},
+		{
+			"definition": "put or turn on the left side, of a ship",
+			"pos": "verb"
+		},
+		{
+			"definition": "bring to port",
+			"pos": "verb"
+		},
+		{
+			"definition": "land at or reach a port",
+			"pos": "verb"
+		},
+		{
+			"definition": "turn or go to the port or left side, of a ship",
+			"pos": "verb"
+		},
+		{
+			"definition": "carry, bear, convey, or bring",
+			"pos": "verb"
+		},
+		{
+			"definition": "carry or hold with both hands diagonally across the body, especially of weapons",
+			"pos": "verb"
+		},
+		{
+			"definition": "drink port",
+			"pos": "verb"
+		},
+		{
+			"definition": "modify (software) for use on a different machine or platform",
+			"pos": "verb"
+		}
+	]
+}

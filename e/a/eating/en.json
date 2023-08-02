@@ -1,0 +1,33 @@
+{
+	"word": "eating",
+	"definitions": [
+		{
+			"definition": "the act of consuming food",
+			"pos": "noun"
+		},
+		{
+			"definition": "take in solid food",
+			"pos": "verb"
+		},
+		{
+			"definition": "eat a meal",
+			"pos": "verb"
+		},
+		{
+			"definition": "take in food",
+			"pos": "verb"
+		},
+		{
+			"definition": "worry or cause anxiety in a persistent way",
+			"pos": "verb"
+		},
+		{
+			"definition": "use up (resources or materials)",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to deteriorate due to the action of water, air, or an acid",
+			"pos": "verb"
+		}
+	]
+}

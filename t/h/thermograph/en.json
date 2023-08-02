@@ -1,0 +1,13 @@
+{
+	"word": "thermograph",
+	"definitions": [
+		{
+			"definition": "medical instrument that uses an infrared camera to reveal temperature variations on the surface of the body",
+			"pos": "noun"
+		},
+		{
+			"definition": "a thermometer that records temperature variations on a graph as a function of time",
+			"pos": "noun"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"word": "much",
+	"definitions": [
+		{
+			"definition": "a great amount or extent",
+			"pos": "noun"
+		},
+		{
+			"definition": "(quantifier used with mass nouns) great in quantity or degree or extent",
+			"pos": "adjective"
+		},
+		{
+			"definition": "to a great degree or extent",
+			"pos": "adverb"
+		},
+		{
+			"definition": "very",
+			"pos": "adverb"
+		},
+		{
+			"definition": "to a very great degree or extent",
+			"pos": "adverb"
+		},
+		{
+			"definition": "(degree adverb used before a noun phrase) for all practical purposes but not completely",
+			"pos": "adverb"
+		},
+		{
+			"definition": "frequently or in great quantities",
+			"pos": "adverb"
+		}
+	]
+}

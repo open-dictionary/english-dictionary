@@ -1,0 +1,45 @@
+{
+	"word": "vote",
+	"definitions": [
+		{
+			"definition": "a choice that is made by counting the number of people in favor of each alternative",
+			"pos": "noun"
+		},
+		{
+			"definition": "the opinion of a group as determined by voting",
+			"pos": "noun"
+		},
+		{
+			"definition": "a legal right guaranteed by the 15th amendment to the US Constitution",
+			"pos": "noun"
+		},
+		{
+			"definition": "a body of voters who have the same interests",
+			"pos": "noun"
+		},
+		{
+			"definition": "the total number of voters who participated",
+			"pos": "noun"
+		},
+		{
+			"definition": "express one's preference for a candidate or for a measure or resolution",
+			"pos": "verb"
+		},
+		{
+			"definition": "express one's choice or preference by vote",
+			"pos": "verb"
+		},
+		{
+			"definition": "express a choice or opinion",
+			"pos": "verb"
+		},
+		{
+			"definition": "be guided by in voting",
+			"pos": "verb"
+		},
+		{
+			"definition": "bring into existence or make available by vote",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"word": "paste",
+	"definitions": [
+		{
+			"definition": "any mixture of a soft and malleable consistency",
+			"pos": "noun"
+		},
+		{
+			"definition": "a hard, brilliant lead glass that is used in making artificial jewelry",
+			"pos": "noun"
+		},
+		{
+			"definition": "an adhesive made from water and flour or starch",
+			"pos": "noun"
+		},
+		{
+			"definition": "a tasty mixture to be spread on bread or crackers or used in preparing other dishes",
+			"pos": "noun"
+		},
+		{
+			"definition": "join or attach with or as if with glue",
+			"pos": "verb"
+		},
+		{
+			"definition": "hit with the fists",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover the surface of",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"word": "certificate",
+	"definitions": [
+		{
+			"definition": "a document attesting to the truth of certain stated facts",
+			"pos": "noun"
+		},
+		{
+			"definition": "a formal declaration that documents a fact of relevance to finance and investment",
+			"pos": "noun"
+		},
+		{
+			"definition": "present someone with a certificate",
+			"pos": "verb"
+		},
+		{
+			"definition": "authorize by certificate",
+			"pos": "verb"
+		}
+	]
+}

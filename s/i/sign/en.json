@@ -1,0 +1,85 @@
+{
+	"word": "sign",
+	"definitions": [
+		{
+			"definition": "a perceptible indication of something not immediately apparent (as a visible clue that something has happened)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a public display of a message",
+			"pos": "noun"
+		},
+		{
+			"definition": "any nonverbal action or gesture that encodes a message",
+			"pos": "noun"
+		},
+		{
+			"definition": "structure displaying a board on which advertisements can be posted",
+			"pos": "noun"
+		},
+		{
+			"definition": "(astrology) one of 12 equal areas into which the zodiac is divided",
+			"pos": "noun"
+		},
+		{
+			"definition": "(medicine) any objective evidence of the presence of a disorder or disease",
+			"pos": "noun"
+		},
+		{
+			"definition": "having an indicated pole (as the distinction between positive and negative electric charges)",
+			"pos": "noun"
+		},
+		{
+			"definition": "an event that is experienced as indicating important things to come",
+			"pos": "noun"
+		},
+		{
+			"definition": "a gesture that is part of a sign language",
+			"pos": "noun"
+		},
+		{
+			"definition": "a fundamental linguistic unit linking a signifier to that which is signified",
+			"pos": "noun"
+		},
+		{
+			"definition": "a character indicating a relation between quantities",
+			"pos": "noun"
+		},
+		{
+			"definition": "mark with one's signature",
+			"pos": "verb"
+		},
+		{
+			"definition": "approve and express assent, responsibility, or obligation",
+			"pos": "verb"
+		},
+		{
+			"definition": "be engaged by a written agreement",
+			"pos": "verb"
+		},
+		{
+			"definition": "engage by written agreement",
+			"pos": "verb"
+		},
+		{
+			"definition": "communicate silently and non-verbally by signals or signs",
+			"pos": "verb"
+		},
+		{
+			"definition": "place signs, as along a road",
+			"pos": "verb"
+		},
+		{
+			"definition": "communicate in sign language",
+			"pos": "verb"
+		},
+		{
+			"definition": "make the sign of the cross over someone in order to call on God for protection",
+			"pos": "verb"
+		},
+		{
+			"definition": "used of the language of the deaf",
+			"pos": "adjective"
+		}
+	]
+}

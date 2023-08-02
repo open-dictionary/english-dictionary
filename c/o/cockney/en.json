@@ -1,0 +1,21 @@
+{
+	"word": "cockney",
+	"definitions": [
+		{
+			"definition": "a native of the east end of London",
+			"pos": "noun"
+		},
+		{
+			"definition": "the nonstandard dialect of natives of the east end of London",
+			"pos": "noun"
+		},
+		{
+			"definition": "characteristic of Cockneys or their dialect",
+			"pos": "adjective"
+		},
+		{
+			"definition": "relating to or resembling a cockney",
+			"pos": "adjective"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"word": "wildcat",
+	"definitions": [
+		{
+			"definition": "an exploratory oil well drilled in land not known to be an oil field",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cruelly rapacious person",
+			"pos": "noun"
+		},
+		{
+			"definition": "any small or medium-sized cat resembling the domestic cat and living in the wild",
+			"pos": "noun"
+		},
+		{
+			"definition": "outside the bounds of legitimate or ethical business practices",
+			"pos": "adjective"
+		},
+		{
+			"definition": "without official authorization",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of a mine or oil well) drilled speculatively in an area not known to be productive",
+			"pos": "adjective"
+		}
+	]
+}

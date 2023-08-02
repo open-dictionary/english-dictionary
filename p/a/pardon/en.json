@@ -1,0 +1,25 @@
+{
+	"word": "pardon",
+	"definitions": [
+		{
+			"definition": "the act of excusing a mistake or offense",
+			"pos": "noun"
+		},
+		{
+			"definition": "a warrant granting release from punishment for an offense",
+			"pos": "noun"
+		},
+		{
+			"definition": "the formal act of liberating someone",
+			"pos": "noun"
+		},
+		{
+			"definition": "accept an excuse for",
+			"pos": "verb"
+		},
+		{
+			"definition": "grant a pardon to",
+			"pos": "verb"
+		}
+	]
+}

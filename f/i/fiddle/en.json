@@ -1,0 +1,37 @@
+{
+	"word": "fiddle",
+	"definitions": [
+		{
+			"definition": "bowed stringed instrument that is the highest member of the violin family",
+			"pos": "noun"
+		},
+		{
+			"definition": "avoid (one's assigned duties)",
+			"pos": "verb"
+		},
+		{
+			"definition": "commit fraud and steal from one's employer",
+			"pos": "verb"
+		},
+		{
+			"definition": "play the violin or fiddle",
+			"pos": "verb"
+		},
+		{
+			"definition": "play on a violin",
+			"pos": "verb"
+		},
+		{
+			"definition": "manipulate manually or in one's mind or imagination",
+			"pos": "verb"
+		},
+		{
+			"definition": "play around with or alter or falsify, usually secretively or dishonestly",
+			"pos": "verb"
+		},
+		{
+			"definition": "try to fix or mend",
+			"pos": "verb"
+		}
+	]
+}

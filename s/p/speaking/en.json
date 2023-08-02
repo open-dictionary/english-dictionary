@@ -1,0 +1,37 @@
+{
+	"word": "speaking",
+	"definitions": [
+		{
+			"definition": "the utterance of intelligible speech",
+			"pos": "noun"
+		},
+		{
+			"definition": "delivering an address to a public audience",
+			"pos": "noun"
+		},
+		{
+			"definition": "express in speech",
+			"pos": "verb"
+		},
+		{
+			"definition": "exchange thoughts",
+			"pos": "verb"
+		},
+		{
+			"definition": "use language",
+			"pos": "verb"
+		},
+		{
+			"definition": "give a speech to",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a characteristic or natural sound",
+			"pos": "verb"
+		},
+		{
+			"definition": "capable of or involving speech or speaking",
+			"pos": "adjective"
+		}
+	]
+}

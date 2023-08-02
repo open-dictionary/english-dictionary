@@ -1,0 +1,25 @@
+{
+	"word": "asleep",
+	"definitions": [
+		{
+			"definition": "in a state of sleep",
+			"pos": "adjective"
+		},
+		{
+			"definition": "lacking sensation",
+			"pos": "adjective"
+		},
+		{
+			"definition": "dead",
+			"pos": "adjective"
+		},
+		{
+			"definition": "into a sleeping state",
+			"pos": "adverb"
+		},
+		{
+			"definition": "in the sleep of death",
+			"pos": "adverb"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"word": "fact",
+	"definitions": [
+		{
+			"definition": "a piece of information about circumstances that exist or events that have occurred",
+			"pos": "noun"
+		},
+		{
+			"definition": "a statement or assertion of verified information about something that is the case or has happened",
+			"pos": "noun"
+		},
+		{
+			"definition": "an event known to have happened or something known to have existed",
+			"pos": "noun"
+		},
+		{
+			"definition": "a concept whose truth can be proved",
+			"pos": "noun"
+		}
+	]
+}

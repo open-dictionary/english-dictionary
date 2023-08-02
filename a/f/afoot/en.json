@@ -1,0 +1,17 @@
+{
+	"word": "afoot",
+	"definitions": [
+		{
+			"definition": "traveling by foot",
+			"pos": "adjective"
+		},
+		{
+			"definition": "currently in progress",
+			"pos": "adjective"
+		},
+		{
+			"definition": "on foot",
+			"pos": "adverb"
+		}
+	]
+}

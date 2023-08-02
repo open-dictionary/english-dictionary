@@ -1,0 +1,21 @@
+{
+	"word": "fog",
+	"definitions": [
+		{
+			"definition": "droplets of water vapor suspended in the air near the ground",
+			"pos": "noun"
+		},
+		{
+			"definition": "an atmosphere in which visibility is reduced because of a cloud of some substance",
+			"pos": "noun"
+		},
+		{
+			"definition": "confusion characterized by lack of clarity",
+			"pos": "noun"
+		},
+		{
+			"definition": "make less visible or unclear",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"word": "voice",
+	"definitions": [
+		{
+			"definition": "the distinctive quality or pitch or condition of a person's speech",
+			"pos": "noun"
+		},
+		{
+			"definition": "the sound made by the vibration of vocal folds modified by the resonance of the vocal tract",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sound suggestive of a vocal utterance",
+			"pos": "noun"
+		},
+		{
+			"definition": "expressing in coherent verbal form",
+			"pos": "noun"
+		},
+		{
+			"definition": "a means or agency by which something is expressed or communicated",
+			"pos": "noun"
+		},
+		{
+			"definition": "something suggestive of speech in being a medium of expression",
+			"pos": "noun"
+		},
+		{
+			"definition": "(metonymy) a singer",
+			"pos": "noun"
+		},
+		{
+			"definition": "an advocate who represents someone else's policy or purpose",
+			"pos": "noun"
+		},
+		{
+			"definition": "the ability to speak",
+			"pos": "noun"
+		},
+		{
+			"definition": "(linguistics) the grammatical relation (active or passive) of the grammatical subject of a verb to the action that the verb denotes",
+			"pos": "noun"
+		},
+		{
+			"definition": "the melody carried by a particular voice or instrument in polyphonic music",
+			"pos": "noun"
+		},
+		{
+			"definition": "give voice to",
+			"pos": "verb"
+		},
+		{
+			"definition": "utter with vibrating vocal chords",
+			"pos": "verb"
+		}
+	]
+}

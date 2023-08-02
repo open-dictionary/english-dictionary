@@ -1,0 +1,37 @@
+{
+	"word": "peck",
+	"definitions": [
+		{
+			"definition": "(often followed by `of') a large number or amount or extent",
+			"pos": "noun"
+		},
+		{
+			"definition": "a British imperial capacity measure (liquid or dry) equal to 2 gallons",
+			"pos": "noun"
+		},
+		{
+			"definition": "a United States dry measure equal to 8 quarts or 537.605 cubic inches",
+			"pos": "noun"
+		},
+		{
+			"definition": "hit lightly with a picking motion",
+			"pos": "verb"
+		},
+		{
+			"definition": "eat by pecking at, like a bird",
+			"pos": "verb"
+		},
+		{
+			"definition": "kiss lightly",
+			"pos": "verb"
+		},
+		{
+			"definition": "eat like a bird",
+			"pos": "verb"
+		},
+		{
+			"definition": "bother persistently with trivial complaints",
+			"pos": "verb"
+		}
+	]
+}

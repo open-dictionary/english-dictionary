@@ -1,0 +1,17 @@
+{
+	"word": "budget",
+	"definitions": [
+		{
+			"definition": "a sum of money allocated for a particular purpose",
+			"pos": "noun"
+		},
+		{
+			"definition": "a summary of intended expenditures along with proposals for how to meet them",
+			"pos": "noun"
+		},
+		{
+			"definition": "make a budget",
+			"pos": "verb"
+		}
+	]
+}

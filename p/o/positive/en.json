@@ -1,0 +1,57 @@
+{
+	"word": "positive",
+	"definitions": [
+		{
+			"definition": "the primary form of an adjective or adverb",
+			"pos": "noun"
+		},
+		{
+			"definition": "a film showing a photographic image whose tones correspond to those of the original subject",
+			"pos": "noun"
+		},
+		{
+			"definition": "characterized by or displaying affirmation or acceptance or certainty etc.",
+			"pos": "adjective"
+		},
+		{
+			"definition": "persuaded of",
+			"pos": "adjective"
+		},
+		{
+			"definition": "involving advantage or good",
+			"pos": "adjective"
+		},
+		{
+			"definition": "indicating existence or presence of a suspected condition or pathogen",
+			"pos": "adjective"
+		},
+		{
+			"definition": "formally laid down or imposed",
+			"pos": "adjective"
+		},
+		{
+			"definition": "impossible to deny or disprove",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to positivism",
+			"pos": "adjective"
+		},
+		{
+			"definition": "reckoned, situated or tending in the direction which naturally or arbitrarily is taken to indicate increase or progress or onward motion",
+			"pos": "adjective"
+		},
+		{
+			"definition": "greater than zero",
+			"pos": "adjective"
+		},
+		{
+			"definition": "having a positive charge",
+			"pos": "adjective"
+		},
+		{
+			"definition": "marked by excessive confidence",
+			"pos": "adjective"
+		}
+	]
+}

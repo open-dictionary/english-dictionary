@@ -1,0 +1,65 @@
+{
+	"word": "crossing",
+	"definitions": [
+		{
+			"definition": "traveling across",
+			"pos": "noun"
+		},
+		{
+			"definition": "a shallow area in a stream that can be forded",
+			"pos": "noun"
+		},
+		{
+			"definition": "a point where two lines (paths or arcs etc.) intersect",
+			"pos": "noun"
+		},
+		{
+			"definition": "a junction where one street or road crosses another",
+			"pos": "noun"
+		},
+		{
+			"definition": "a path (often marked) where something (as a street or railroad) can be crossed to get from one side to the other",
+			"pos": "noun"
+		},
+		{
+			"definition": "(genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids",
+			"pos": "noun"
+		},
+		{
+			"definition": "a voyage across a body of water (usually across the Atlantic Ocean)",
+			"pos": "noun"
+		},
+		{
+			"definition": "travel across or pass over",
+			"pos": "verb"
+		},
+		{
+			"definition": "meet at a point",
+			"pos": "verb"
+		},
+		{
+			"definition": "hinder or prevent (the efforts, plans, or desires) of",
+			"pos": "verb"
+		},
+		{
+			"definition": "fold so as to resemble a cross",
+			"pos": "verb"
+		},
+		{
+			"definition": "to cover or extend over an area or time period",
+			"pos": "verb"
+		},
+		{
+			"definition": "meet and pass",
+			"pos": "verb"
+		},
+		{
+			"definition": "trace a line through or across",
+			"pos": "verb"
+		},
+		{
+			"definition": "breed animals or plants using parents of different races and varieties",
+			"pos": "verb"
+		}
+	]
+}

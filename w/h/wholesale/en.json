@@ -1,0 +1,25 @@
+{
+	"word": "wholesale",
+	"definitions": [
+		{
+			"definition": "the selling of goods to merchants",
+			"pos": "noun"
+		},
+		{
+			"definition": "sell in large quantities",
+			"pos": "verb"
+		},
+		{
+			"definition": "ignoring distinctions",
+			"pos": "adjective"
+		},
+		{
+			"definition": "at a wholesale price",
+			"pos": "adverb"
+		},
+		{
+			"definition": "on a large scale without careful discrimination",
+			"pos": "adverb"
+		}
+	]
+}

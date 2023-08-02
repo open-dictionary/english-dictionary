@@ -1,0 +1,37 @@
+{
+	"word": "dear",
+	"definitions": [
+		{
+			"definition": "a beloved person",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sweet innocent mild-mannered person (especially a child)",
+			"pos": "noun"
+		},
+		{
+			"definition": "dearly loved",
+			"pos": "adjective"
+		},
+		{
+			"definition": "with or in a close or intimate relationship",
+			"pos": "adjective"
+		},
+		{
+			"definition": "sincerely earnest",
+			"pos": "adjective"
+		},
+		{
+			"definition": "having a high price",
+			"pos": "adjective"
+		},
+		{
+			"definition": "with affection",
+			"pos": "adverb"
+		},
+		{
+			"definition": "at a great cost",
+			"pos": "adverb"
+		}
+	]
+}

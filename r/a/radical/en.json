@@ -1,0 +1,49 @@
+{
+	"word": "radical",
+	"definitions": [
+		{
+			"definition": "(chemistry) two or more atoms bound together as a single unit and forming part of a molecule",
+			"pos": "noun"
+		},
+		{
+			"definition": "an atom or group of atoms with at least one unpaired electron",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person who has radical ideas or opinions",
+			"pos": "noun"
+		},
+		{
+			"definition": "(mathematics) a quantity expressed as the root of another quantity",
+			"pos": "noun"
+		},
+		{
+			"definition": "a character conveying the lexical meaning of a logogram",
+			"pos": "noun"
+		},
+		{
+			"definition": "(linguistics) the form of a word after all affixes are removed",
+			"pos": "noun"
+		},
+		{
+			"definition": "(used of opinions and actions) far beyond the norm",
+			"pos": "adjective"
+		},
+		{
+			"definition": "markedly new or introducing radical change",
+			"pos": "adjective"
+		},
+		{
+			"definition": "arising from or going to the root or source",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to or constituting a linguistic root",
+			"pos": "adjective"
+		},
+		{
+			"definition": "especially of leaves",
+			"pos": "adjective"
+		}
+	]
+}

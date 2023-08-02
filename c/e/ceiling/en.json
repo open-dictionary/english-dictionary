@@ -1,0 +1,21 @@
+{
+	"word": "ceiling",
+	"definitions": [
+		{
+			"definition": "the overhead upper surface of a covered space",
+			"pos": "noun"
+		},
+		{
+			"definition": "(meteorology) altitude of the lowest layer of clouds",
+			"pos": "noun"
+		},
+		{
+			"definition": "an upper limit on what is allowed",
+			"pos": "noun"
+		},
+		{
+			"definition": "maximum altitude at which a plane can fly (under specified conditions)",
+			"pos": "noun"
+		}
+	]
+}

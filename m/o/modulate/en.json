@@ -1,0 +1,25 @@
+{
+	"word": "modulate",
+	"definitions": [
+		{
+			"definition": "change the key of, in music",
+			"pos": "verb"
+		},
+		{
+			"definition": "vary the pitch of one's speech",
+			"pos": "verb"
+		},
+		{
+			"definition": "fix or adjust the time, amount, degree, or rate of",
+			"pos": "verb"
+		},
+		{
+			"definition": "adjust the pitch, tone, or volume of",
+			"pos": "verb"
+		},
+		{
+			"definition": "vary the frequency, amplitude, phase, or other characteristic of (electromagnetic waves)",
+			"pos": "verb"
+		}
+	]
+}

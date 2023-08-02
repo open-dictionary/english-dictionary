@@ -1,0 +1,17 @@
+{
+	"word": "sandwich",
+	"definitions": [
+		{
+			"definition": "two (or more) slices of bread with a filling between them",
+			"pos": "noun"
+		},
+		{
+			"definition": "make into a sandwich",
+			"pos": "verb"
+		},
+		{
+			"definition": "insert or squeeze tightly between two people or objects",
+			"pos": "verb"
+		}
+	]
+}

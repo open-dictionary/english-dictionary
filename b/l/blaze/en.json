@@ -1,0 +1,45 @@
+{
+	"word": "blaze",
+	"definitions": [
+		{
+			"definition": "a strong flame that burns brightly",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cause of difficulty and suffering",
+			"pos": "noun"
+		},
+		{
+			"definition": "noisy and unrestrained mischief",
+			"pos": "noun"
+		},
+		{
+			"definition": "a light within the field of vision that is brighter than the brightness to which the eyes are adapted",
+			"pos": "noun"
+		},
+		{
+			"definition": "a light-colored marking",
+			"pos": "noun"
+		},
+		{
+			"definition": "shine brightly and intensively",
+			"pos": "verb"
+		},
+		{
+			"definition": "shoot rapidly and repeatedly",
+			"pos": "verb"
+		},
+		{
+			"definition": "burn brightly and intensely",
+			"pos": "verb"
+		},
+		{
+			"definition": "move rapidly and as if blazing",
+			"pos": "verb"
+		},
+		{
+			"definition": "indicate by marking trees with blazes",
+			"pos": "verb"
+		}
+	]
+}

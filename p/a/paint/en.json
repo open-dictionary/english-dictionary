@@ -1,0 +1,33 @@
+{
+	"word": "paint",
+	"definitions": [
+		{
+			"definition": "a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid)",
+			"pos": "noun"
+		},
+		{
+			"definition": "(basketball) a space (including the foul line) in front of the basket at each end of a basketball court",
+			"pos": "noun"
+		},
+		{
+			"definition": "makeup consisting of a pink or red powder applied to the cheeks",
+			"pos": "noun"
+		},
+		{
+			"definition": "make a painting",
+			"pos": "verb"
+		},
+		{
+			"definition": "apply paint to",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a painting of",
+			"pos": "verb"
+		},
+		{
+			"definition": "apply a liquid to",
+			"pos": "verb"
+		}
+	]
+}

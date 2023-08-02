@@ -1,0 +1,25 @@
+{
+	"word": "diving",
+	"definitions": [
+		{
+			"definition": "an athletic competition that involves diving into water",
+			"pos": "noun"
+		},
+		{
+			"definition": "a headlong plunge into water",
+			"pos": "noun"
+		},
+		{
+			"definition": "drop steeply",
+			"pos": "verb"
+		},
+		{
+			"definition": "plunge into water",
+			"pos": "verb"
+		},
+		{
+			"definition": "swim under water",
+			"pos": "verb"
+		}
+	]
+}

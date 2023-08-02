@@ -1,0 +1,25 @@
+{
+	"word": "pencil",
+	"definitions": [
+		{
+			"definition": "a thin cylindrical pointed writing implement",
+			"pos": "noun"
+		},
+		{
+			"definition": "graphite (or a similar substance) used in such a way as to be a medium of communication",
+			"pos": "noun"
+		},
+		{
+			"definition": "a figure formed by a set of straight lines or light rays meeting at a point",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cosmetic in a long thin stick",
+			"pos": "noun"
+		},
+		{
+			"definition": "write, draw, or trace with a pencil",
+			"pos": "verb"
+		}
+	]
+}

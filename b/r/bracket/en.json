@@ -1,0 +1,33 @@
+{
+	"word": "bracket",
+	"definitions": [
+		{
+			"definition": "a category falling within certain defined limits",
+			"pos": "noun"
+		},
+		{
+			"definition": "either of two punctuation marks (`<' or `>') used in computer programming and sometimes used to enclose textual material",
+			"pos": "noun"
+		},
+		{
+			"definition": "either of two punctuation marks ([ or ]) used to enclose textual material",
+			"pos": "noun"
+		},
+		{
+			"definition": "a support projecting from a wall (as to hold a shelf)",
+			"pos": "noun"
+		},
+		{
+			"definition": "support with brackets",
+			"pos": "verb"
+		},
+		{
+			"definition": "place into brackets",
+			"pos": "verb"
+		},
+		{
+			"definition": "classify or group",
+			"pos": "verb"
+		}
+	]
+}

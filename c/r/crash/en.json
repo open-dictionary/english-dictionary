@@ -1,0 +1,77 @@
+{
+	"word": "crash",
+	"definitions": [
+		{
+			"definition": "a loud resonant repeating noise",
+			"pos": "noun"
+		},
+		{
+			"definition": "a serious accident (usually involving one or more vehicles)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sudden large decline of business or the prices of stocks (especially one that causes additional failures)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of colliding with something",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) an event that causes a computer system to become inoperative",
+			"pos": "noun"
+		},
+		{
+			"definition": "fall or come down violently",
+			"pos": "verb"
+		},
+		{
+			"definition": "move with, or as if with, a crashing noise",
+			"pos": "verb"
+		},
+		{
+			"definition": "undergo damage or destruction on impact",
+			"pos": "verb"
+		},
+		{
+			"definition": "move violently as through a barrier",
+			"pos": "verb"
+		},
+		{
+			"definition": "break violently or noisily",
+			"pos": "verb"
+		},
+		{
+			"definition": "occupy, usually uninvited",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a sudden loud sound",
+			"pos": "verb"
+		},
+		{
+			"definition": "enter uninvited",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to crash",
+			"pos": "verb"
+		},
+		{
+			"definition": "hurl or thrust violently",
+			"pos": "verb"
+		},
+		{
+			"definition": "undergo a sudden and severe downturn",
+			"pos": "verb"
+		},
+		{
+			"definition": "stop operating",
+			"pos": "verb"
+		},
+		{
+			"definition": "sleep in a convenient place",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"word": "pacing",
+	"definitions": [
+		{
+			"definition": "(music) the speed at which a composition is to be played",
+			"pos": "noun"
+		},
+		{
+			"definition": "walking with slow regular strides",
+			"pos": "noun"
+		},
+		{
+			"definition": "walk with slow or fast paces",
+			"pos": "verb"
+		},
+		{
+			"definition": "go at a pace",
+			"pos": "verb"
+		},
+		{
+			"definition": "measure (distances) by pacing",
+			"pos": "verb"
+		},
+		{
+			"definition": "regulate or set the pace of",
+			"pos": "verb"
+		}
+	]
+}

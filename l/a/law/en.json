@@ -1,0 +1,33 @@
+{
+	"word": "law",
+	"definitions": [
+		{
+			"definition": "the collection of rules imposed by authority",
+			"pos": "noun"
+		},
+		{
+			"definition": "legal document setting forth rules governing a particular kind of activity",
+			"pos": "noun"
+		},
+		{
+			"definition": "a rule or body of rules of conduct inherent in human nature and essential to or binding upon human society",
+			"pos": "noun"
+		},
+		{
+			"definition": "a generalization that describes recurring facts or events in nature",
+			"pos": "noun"
+		},
+		{
+			"definition": "the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do",
+			"pos": "noun"
+		},
+		{
+			"definition": "the learned profession that is mastered by graduate study in a law school and that is responsible for the judicial system",
+			"pos": "noun"
+		},
+		{
+			"definition": "the force of policemen and officers",
+			"pos": "noun"
+		}
+	]
+}

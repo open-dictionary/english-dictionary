@@ -1,0 +1,21 @@
+{
+	"word": "today",
+	"definitions": [
+		{
+			"definition": "the present time or age",
+			"pos": "noun"
+		},
+		{
+			"definition": "the day that includes the present moment (as opposed to yesterday or tomorrow)",
+			"pos": "noun"
+		},
+		{
+			"definition": "in these times",
+			"pos": "adverb"
+		},
+		{
+			"definition": "on this day as distinct from yesterday or tomorrow",
+			"pos": "adverb"
+		}
+	]
+}

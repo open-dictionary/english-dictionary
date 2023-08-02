@@ -1,0 +1,25 @@
+{
+	"word": "plank",
+	"definitions": [
+		{
+			"definition": "a stout length of sawn timber",
+			"pos": "noun"
+		},
+		{
+			"definition": "an endorsed policy in the platform of a political party",
+			"pos": "noun"
+		},
+		{
+			"definition": "cover with planks",
+			"pos": "verb"
+		},
+		{
+			"definition": "set (something or oneself) down with or as if with a noise",
+			"pos": "verb"
+		},
+		{
+			"definition": "cook and serve on a plank",
+			"pos": "verb"
+		}
+	]
+}

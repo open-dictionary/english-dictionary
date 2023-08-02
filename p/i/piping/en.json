@@ -1,0 +1,37 @@
+{
+	"word": "piping",
+	"definitions": [
+		{
+			"definition": "a thin strip of covered cord used to edge hems",
+			"pos": "noun"
+		},
+		{
+			"definition": "a long tube made of metal or plastic that is used to carry water or oil or gas etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "playing a pipe or the bagpipes",
+			"pos": "noun"
+		},
+		{
+			"definition": "utter a shrill cry",
+			"pos": "verb"
+		},
+		{
+			"definition": "transport by pipeline",
+			"pos": "verb"
+		},
+		{
+			"definition": "play on a pipe",
+			"pos": "verb"
+		},
+		{
+			"definition": "trim with piping",
+			"pos": "verb"
+		},
+		{
+			"definition": "(used of heat) extremely",
+			"pos": "adverb"
+		}
+	]
+}

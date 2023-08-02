@@ -1,0 +1,25 @@
+{
+	"word": "falter",
+	"definitions": [
+		{
+			"definition": "the act of pausing uncertainly",
+			"pos": "noun"
+		},
+		{
+			"definition": "be unsure or weak",
+			"pos": "verb"
+		},
+		{
+			"definition": "move hesitatingly, as if about to give way",
+			"pos": "verb"
+		},
+		{
+			"definition": "walk unsteadily",
+			"pos": "verb"
+		},
+		{
+			"definition": "speak haltingly",
+			"pos": "verb"
+		}
+	]
+}

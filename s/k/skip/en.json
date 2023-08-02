@@ -1,0 +1,37 @@
+{
+	"word": "skip",
+	"definitions": [
+		{
+			"definition": "a gait in which steps and hops alternate",
+			"pos": "noun"
+		},
+		{
+			"definition": "a mistake resulting from neglect",
+			"pos": "noun"
+		},
+		{
+			"definition": "bypass",
+			"pos": "verb"
+		},
+		{
+			"definition": "intentionally fail to attend",
+			"pos": "verb"
+		},
+		{
+			"definition": "jump lightly",
+			"pos": "verb"
+		},
+		{
+			"definition": "leave suddenly",
+			"pos": "verb"
+		},
+		{
+			"definition": "bound off one point after another",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to skip over a surface",
+			"pos": "verb"
+		}
+	]
+}

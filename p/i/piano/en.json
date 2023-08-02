@@ -1,0 +1,21 @@
+{
+	"word": "piano",
+	"definitions": [
+		{
+			"definition": "a keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds",
+			"pos": "noun"
+		},
+		{
+			"definition": "(music) low loudness",
+			"pos": "noun"
+		},
+		{
+			"definition": "(used chiefly as a direction or description in music) soft",
+			"pos": "adjective"
+		},
+		{
+			"definition": "used as a direction in music",
+			"pos": "adverb"
+		}
+	]
+}

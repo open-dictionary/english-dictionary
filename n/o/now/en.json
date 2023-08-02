@@ -1,0 +1,37 @@
+{
+	"word": "now",
+	"definitions": [
+		{
+			"definition": "the momentary present",
+			"pos": "noun"
+		},
+		{
+			"definition": "in the historical present",
+			"pos": "adverb"
+		},
+		{
+			"definition": "in these times",
+			"pos": "adverb"
+		},
+		{
+			"definition": "used to preface a command or reproof or request",
+			"pos": "adverb"
+		},
+		{
+			"definition": "at the present moment",
+			"pos": "adverb"
+		},
+		{
+			"definition": "without delay or hesitation",
+			"pos": "adverb"
+		},
+		{
+			"definition": "(prefatory or transitional) indicates a change of subject or activity",
+			"pos": "adverb"
+		},
+		{
+			"definition": "in the immediate past",
+			"pos": "adverb"
+		}
+	]
+}

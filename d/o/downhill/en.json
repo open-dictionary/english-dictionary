@@ -1,0 +1,25 @@
+{
+	"word": "downhill",
+	"definitions": [
+		{
+			"definition": "the downward slope of a hill",
+			"pos": "noun"
+		},
+		{
+			"definition": "a ski race down a trail",
+			"pos": "noun"
+		},
+		{
+			"definition": "sloping down rather steeply",
+			"pos": "adjective"
+		},
+		{
+			"definition": "toward a lower or inferior state",
+			"pos": "adverb"
+		},
+		{
+			"definition": "toward the bottom of a hill",
+			"pos": "adverb"
+		}
+	]
+}

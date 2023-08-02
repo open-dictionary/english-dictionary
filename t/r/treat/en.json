@@ -1,0 +1,45 @@
+{
+	"word": "treat",
+	"definitions": [
+		{
+			"definition": "something considered choice to eat",
+			"pos": "noun"
+		},
+		{
+			"definition": "an occurrence that causes special pleasure or delight",
+			"pos": "noun"
+		},
+		{
+			"definition": "interact in a certain way",
+			"pos": "verb"
+		},
+		{
+			"definition": "subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide treatment for",
+			"pos": "verb"
+		},
+		{
+			"definition": "act on verbally or in some form of artistic expression",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide with a gift or entertainment",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide with choice or abundant food or drink",
+			"pos": "verb"
+		},
+		{
+			"definition": "engage in negotiations in order to reach an agreement",
+			"pos": "verb"
+		},
+		{
+			"definition": "regard or consider in a specific way",
+			"pos": "verb"
+		}
+	]
+}

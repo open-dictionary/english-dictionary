@@ -1,0 +1,17 @@
+{
+	"word": "predictor",
+	"definitions": [
+		{
+			"definition": "someone who makes predictions of the future (usually on the basis of special knowledge)",
+			"pos": "noun"
+		},
+		{
+			"definition": "information that supports a probabilistic estimate of future events",
+			"pos": "noun"
+		},
+		{
+			"definition": "a computer for controlling antiaircraft fire that computes the position of an aircraft at the instant of a shell's arrival",
+			"pos": "noun"
+		}
+	]
+}

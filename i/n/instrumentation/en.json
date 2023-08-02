@@ -1,0 +1,21 @@
+{
+	"word": "instrumentation",
+	"definitions": [
+		{
+			"definition": "an artifact (or system of artifacts) that is instrumental in accomplishing some end",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of providing or using the instruments needed for some implementation",
+			"pos": "noun"
+		},
+		{
+			"definition": "the instruments called for in a musical score or arrangement for a band or orchestra",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of arranging a piece of music for an orchestra and assigning parts to the different musical instruments",
+			"pos": "noun"
+		}
+	]
+}

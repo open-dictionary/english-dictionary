@@ -1,0 +1,61 @@
+{
+	"word": "shade",
+	"definitions": [
+		{
+			"definition": "relative darkness caused by light rays being intercepted by an opaque body",
+			"pos": "noun"
+		},
+		{
+			"definition": "a quality of a given color that differs slightly from another color",
+			"pos": "noun"
+		},
+		{
+			"definition": "protective covering that protects something from direct sunlight",
+			"pos": "noun"
+		},
+		{
+			"definition": "a subtle difference in meaning or opinion or attitude",
+			"pos": "noun"
+		},
+		{
+			"definition": "a position of relative inferiority",
+			"pos": "noun"
+		},
+		{
+			"definition": "a slight amount or degree of difference",
+			"pos": "noun"
+		},
+		{
+			"definition": "a mental representation of some haunting experience",
+			"pos": "noun"
+		},
+		{
+			"definition": "a representation of the effect of shadows in a picture or drawing (as by shading or darker pigment)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a protective ornamental covering for a lamp, used to screen a light bulb from direct view",
+			"pos": "noun"
+		},
+		{
+			"definition": "cast a shadow over",
+			"pos": "verb"
+		},
+		{
+			"definition": "represent the effect of shade or shadow on",
+			"pos": "verb"
+		},
+		{
+			"definition": "protect from light, heat, or view",
+			"pos": "verb"
+		},
+		{
+			"definition": "vary slightly",
+			"pos": "verb"
+		},
+		{
+			"definition": "pass from one quality such as color to another by a slight degree",
+			"pos": "verb"
+		}
+	]
+}

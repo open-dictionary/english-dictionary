@@ -1,0 +1,17 @@
+{
+	"word": "bandage",
+	"definitions": [
+		{
+			"definition": "a piece of soft material that covers and protects an injured part of the body",
+			"pos": "noun"
+		},
+		{
+			"definition": "wrap around with something so as to cover or enclose",
+			"pos": "verb"
+		},
+		{
+			"definition": "dress by covering or binding",
+			"pos": "verb"
+		}
+	]
+}

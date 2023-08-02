@@ -1,0 +1,17 @@
+{
+	"word": "nickname",
+	"definitions": [
+		{
+			"definition": "a familiar name for a person (often a shortened version of a person's given name)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a descriptive name for a place or thing",
+			"pos": "noun"
+		},
+		{
+			"definition": "give a nickname to",
+			"pos": "verb"
+		}
+	]
+}

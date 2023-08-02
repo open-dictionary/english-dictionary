@@ -1,0 +1,29 @@
+{
+	"word": "dummy",
+	"definitions": [
+		{
+			"definition": "a person who does not talk",
+			"pos": "noun"
+		},
+		{
+			"definition": "an ignorant or foolish person",
+			"pos": "noun"
+		},
+		{
+			"definition": "a figure representing the human form",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cartridge containing an explosive charge but no bullet",
+			"pos": "noun"
+		},
+		{
+			"definition": "make a dummy of",
+			"pos": "verb"
+		},
+		{
+			"definition": "having the appearance of being real but lacking capacity to function",
+			"pos": "adjective"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"word": "pat",
+	"definitions": [
+		{
+			"definition": "the sound made by a gentle blow",
+			"pos": "noun"
+		},
+		{
+			"definition": "a light touch or stroke",
+			"pos": "noun"
+		},
+		{
+			"definition": "pat or squeeze fondly or playfully, especially under the chin",
+			"pos": "verb"
+		},
+		{
+			"definition": "hit lightly",
+			"pos": "verb"
+		},
+		{
+			"definition": "having only superficial plausibility",
+			"pos": "adjective"
+		},
+		{
+			"definition": "exactly suited to the occasion",
+			"pos": "adjective"
+		},
+		{
+			"definition": "completely or perfectly",
+			"pos": "adverb"
+		}
+	]
+}

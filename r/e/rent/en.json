@@ -1,0 +1,37 @@
+{
+	"word": "rent",
+	"definitions": [
+		{
+			"definition": "a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service",
+			"pos": "noun"
+		},
+		{
+			"definition": "an opening made forcibly as by pulling apart",
+			"pos": "noun"
+		},
+		{
+			"definition": "the return derived from cultivated land in excess of that derived from the poorest land cultivated under similar conditions",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of rending or ripping or splitting something",
+			"pos": "noun"
+		},
+		{
+			"definition": "let for money",
+			"pos": "verb"
+		},
+		{
+			"definition": "grant use or occupation of under a term of contract",
+			"pos": "verb"
+		},
+		{
+			"definition": "engage for service under a term of contract",
+			"pos": "verb"
+		},
+		{
+			"definition": "hold under a lease or rental agreement",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"word": "vagabond",
+	"definitions": [
+		{
+			"definition": "anything that resembles a vagabond in having no fixed place",
+			"pos": "noun"
+		},
+		{
+			"definition": "a wanderer who has no established residence or visible means of support",
+			"pos": "noun"
+		},
+		{
+			"definition": "move about aimlessly or without any destination, often in search of food or employment",
+			"pos": "verb"
+		},
+		{
+			"definition": "wandering aimlessly without ties to a place or community",
+			"pos": "adjective"
+		},
+		{
+			"definition": "continually changing especially as from one abode or occupation to another",
+			"pos": "adjective"
+		}
+	]
+}

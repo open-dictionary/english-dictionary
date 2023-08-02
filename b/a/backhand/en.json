@@ -1,0 +1,21 @@
+{
+	"word": "backhand",
+	"definitions": [
+		{
+			"definition": "a return made with the back of the hand facing the direction of the stroke",
+			"pos": "noun"
+		},
+		{
+			"definition": "hit a tennis ball backhand",
+			"pos": "verb"
+		},
+		{
+			"definition": "(of racket strokes) made across the body with back of hand facing direction of stroke",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of handwriting) having the letters slanting backward",
+			"pos": "adjective"
+		}
+	]
+}

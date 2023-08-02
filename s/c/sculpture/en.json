@@ -1,0 +1,21 @@
+{
+	"word": "sculpture",
+	"definitions": [
+		{
+			"definition": "a three-dimensional work of plastic art",
+			"pos": "noun"
+		},
+		{
+			"definition": "creating figures or designs in three dimensions",
+			"pos": "noun"
+		},
+		{
+			"definition": "create by shaping stone or wood or any other hard material",
+			"pos": "verb"
+		},
+		{
+			"definition": "shape (a material like stone or wood) by whittling away at it",
+			"pos": "verb"
+		}
+	]
+}

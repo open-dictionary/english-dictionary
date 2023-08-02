@@ -1,0 +1,25 @@
+{
+	"word": "gel",
+	"definitions": [
+		{
+			"definition": "a colloid in a more solid form than a sol",
+			"pos": "noun"
+		},
+		{
+			"definition": "jellylike substance used in hair styling",
+			"pos": "noun"
+		},
+		{
+			"definition": "a thin translucent membrane used over stage lights for color effects",
+			"pos": "noun"
+		},
+		{
+			"definition": "become a gel",
+			"pos": "verb"
+		},
+		{
+			"definition": "apply a styling gel to",
+			"pos": "verb"
+		}
+	]
+}

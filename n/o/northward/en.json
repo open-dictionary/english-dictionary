@@ -1,0 +1,17 @@
+{
+	"word": "northward",
+	"definitions": [
+		{
+			"definition": "the cardinal compass point that is at 0 or 360 degrees",
+			"pos": "noun"
+		},
+		{
+			"definition": "moving toward the north",
+			"pos": "adjective"
+		},
+		{
+			"definition": "in a northern direction",
+			"pos": "adverb"
+		}
+	]
+}

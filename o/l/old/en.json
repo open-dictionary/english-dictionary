@@ -1,0 +1,41 @@
+{
+	"word": "old",
+	"definitions": [
+		{
+			"definition": "past times (especially in the phrase `in days of old')",
+			"pos": "noun"
+		},
+		{
+			"definition": "(used especially of persons) having lived for a relatively long time or attained a specific age",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of long duration",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(used for emphasis) very familiar",
+			"pos": "adjective"
+		},
+		{
+			"definition": "skilled through long experience",
+			"pos": "adjective"
+		},
+		{
+			"definition": "belonging to some prior time",
+			"pos": "adjective"
+		},
+		{
+			"definition": "very good",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of a very early stage in development",
+			"pos": "adjective"
+		},
+		{
+			"definition": "just preceding something else in time or order",
+			"pos": "adjective"
+		}
+	]
+}

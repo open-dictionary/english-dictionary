@@ -1,0 +1,29 @@
+{
+	"word": "diet",
+	"definitions": [
+		{
+			"definition": "a prescribed selection of foods",
+			"pos": "noun"
+		},
+		{
+			"definition": "a legislative assembly in certain countries (e.g., Japan)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the usual food and drink consumed by an organism (person or animal)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of restricting your food intake (or your intake of particular foods)",
+			"pos": "noun"
+		},
+		{
+			"definition": "follow a regimen or a diet, as for health reasons",
+			"pos": "verb"
+		},
+		{
+			"definition": "eat sparingly, for health reasons or to lose weight",
+			"pos": "verb"
+		}
+	]
+}

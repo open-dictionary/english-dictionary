@@ -1,0 +1,41 @@
+{
+	"word": "boot",
+	"definitions": [
+		{
+			"definition": "footwear that covers the whole foot and lower leg",
+			"pos": "noun"
+		},
+		{
+			"definition": "compartment in an automobile that carries luggage or shopping or tools",
+			"pos": "noun"
+		},
+		{
+			"definition": "the swift release of a store of affective force",
+			"pos": "noun"
+		},
+		{
+			"definition": "protective casing for something that resembles a leg",
+			"pos": "noun"
+		},
+		{
+			"definition": "an instrument of torture that is used to heat or crush the foot and leg",
+			"pos": "noun"
+		},
+		{
+			"definition": "a form of foot torture in which the feet are encased in iron and slowly crushed",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of delivering a blow with the foot",
+			"pos": "noun"
+		},
+		{
+			"definition": "kick",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to load (an operating system) and start the initial processes",
+			"pos": "verb"
+		}
+	]
+}

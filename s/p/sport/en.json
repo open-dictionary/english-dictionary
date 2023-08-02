@@ -1,0 +1,41 @@
+{
+	"word": "sport",
+	"definitions": [
+		{
+			"definition": "an active diversion requiring physical exertion and competition",
+			"pos": "noun"
+		},
+		{
+			"definition": "the occupation of athletes who compete for pay",
+			"pos": "noun"
+		},
+		{
+			"definition": "(Maine colloquial) a temporary summer resident of Maine",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person known for the way she (or he) behaves when teased or defeated or subjected to trying circumstances",
+			"pos": "noun"
+		},
+		{
+			"definition": "someone who engages in sports",
+			"pos": "noun"
+		},
+		{
+			"definition": "(biology) an organism that has characteristics resulting from chromosomal alteration",
+			"pos": "noun"
+		},
+		{
+			"definition": "verbal wit or mockery (often at another's expense but not to be taken seriously)",
+			"pos": "noun"
+		},
+		{
+			"definition": "wear or display in an ostentatious or proud manner",
+			"pos": "verb"
+		},
+		{
+			"definition": "play boisterously",
+			"pos": "verb"
+		}
+	]
+}

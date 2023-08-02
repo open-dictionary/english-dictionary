@@ -1,0 +1,57 @@
+{
+	"word": "test",
+	"definitions": [
+		{
+			"definition": "trying something to find out about it",
+			"pos": "noun"
+		},
+		{
+			"definition": "any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc",
+			"pos": "noun"
+		},
+		{
+			"definition": "a set of questions or exercises evaluating skill or knowledge",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of undergoing testing",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of testing something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a hard outer covering as of some amoebas and sea urchins",
+			"pos": "noun"
+		},
+		{
+			"definition": "put to the test, as for its quality, or give experimental use to",
+			"pos": "verb"
+		},
+		{
+			"definition": "test or examine for the presence of disease or infection",
+			"pos": "verb"
+		},
+		{
+			"definition": "examine someone's knowledge of something",
+			"pos": "verb"
+		},
+		{
+			"definition": "show a certain characteristic when tested",
+			"pos": "verb"
+		},
+		{
+			"definition": "achieve a certain score or rating on a test",
+			"pos": "verb"
+		},
+		{
+			"definition": "determine the presence or properties of (a substance)",
+			"pos": "verb"
+		},
+		{
+			"definition": "undergo a test",
+			"pos": "verb"
+		}
+	]
+}

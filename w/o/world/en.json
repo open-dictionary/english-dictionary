@@ -1,0 +1,41 @@
+{
+	"word": "world",
+	"definitions": [
+		{
+			"definition": "everything that exists anywhere",
+			"pos": "noun"
+		},
+		{
+			"definition": "people in general",
+			"pos": "noun"
+		},
+		{
+			"definition": "all of your experiences that determine how things appear to you",
+			"pos": "noun"
+		},
+		{
+			"definition": "the 3rd planet from the sun",
+			"pos": "noun"
+		},
+		{
+			"definition": "people in general considered as a whole",
+			"pos": "noun"
+		},
+		{
+			"definition": "a part of the earth that can be considered separately",
+			"pos": "noun"
+		},
+		{
+			"definition": "the concerns of this life as distinguished from heaven and the afterlife",
+			"pos": "noun"
+		},
+		{
+			"definition": "all of the living human inhabitants of the earth",
+			"pos": "noun"
+		},
+		{
+			"definition": "involving the entire earth",
+			"pos": "adjective"
+		}
+	]
+}

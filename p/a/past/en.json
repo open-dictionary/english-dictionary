@@ -1,0 +1,29 @@
+{
+	"word": "past",
+	"definitions": [
+		{
+			"definition": "the time that has elapsed",
+			"pos": "noun"
+		},
+		{
+			"definition": "a earlier period in someone's life (especially one that they have reason to keep secret)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a verb tense that expresses actions or states in the past",
+			"pos": "noun"
+		},
+		{
+			"definition": "earlier than the present time",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of a person who has held and relinquished a position or office",
+			"pos": "adjective"
+		},
+		{
+			"definition": "so as to pass a given point",
+			"pos": "adverb"
+		}
+	]
+}

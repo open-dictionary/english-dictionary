@@ -1,0 +1,41 @@
+{
+	"word": "fat",
+	"definitions": [
+		{
+			"definition": "a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a kind of body tissue containing stored fat that serves as a source of energy",
+			"pos": "noun"
+		},
+		{
+			"definition": "excess bodily weight",
+			"pos": "noun"
+		},
+		{
+			"definition": "make fat or plump",
+			"pos": "verb"
+		},
+		{
+			"definition": "having an (over)abundance of flesh",
+			"pos": "adjective"
+		},
+		{
+			"definition": "having a relatively large diameter",
+			"pos": "adjective"
+		},
+		{
+			"definition": "containing or composed of fat",
+			"pos": "adjective"
+		},
+		{
+			"definition": "lucrative",
+			"pos": "adjective"
+		},
+		{
+			"definition": "marked by great fruitfulness",
+			"pos": "adjective"
+		}
+	]
+}

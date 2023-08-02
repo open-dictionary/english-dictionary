@@ -1,0 +1,25 @@
+{
+	"word": "backup",
+	"definitions": [
+		{
+			"definition": "an accumulation caused by clogging or a stoppage",
+			"pos": "noun"
+		},
+		{
+			"definition": "someone who takes the place of another (as when things get dangerous or difficult)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a musical part (vocal or instrumental) that supports or provides background for other musical parts",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a copy of a file or directory on a separate storage device",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of providing approval and support",
+			"pos": "noun"
+		}
+	]
+}

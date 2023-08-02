@@ -1,0 +1,77 @@
+{
+	"word": "rest",
+	"definitions": [
+		{
+			"definition": "something left after other parts have been taken away",
+			"pos": "noun"
+		},
+		{
+			"definition": "freedom from activity (work or strain or responsibility)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a pause for relaxation",
+			"pos": "noun"
+		},
+		{
+			"definition": "a state of inaction",
+			"pos": "noun"
+		},
+		{
+			"definition": "euphemisms for death (based on an analogy between lying in a bed and in a tomb)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a support on which things can be put",
+			"pos": "noun"
+		},
+		{
+			"definition": "a musical notation indicating a silence of a specified duration",
+			"pos": "noun"
+		},
+		{
+			"definition": "not move",
+			"pos": "verb"
+		},
+		{
+			"definition": "take a short break from one's activities in order to relax",
+			"pos": "verb"
+		},
+		{
+			"definition": "give a rest to",
+			"pos": "verb"
+		},
+		{
+			"definition": "have a place in relation to something else",
+			"pos": "verb"
+		},
+		{
+			"definition": "be at rest",
+			"pos": "verb"
+		},
+		{
+			"definition": "stay the same",
+			"pos": "verb"
+		},
+		{
+			"definition": "be inherent or innate in",
+			"pos": "verb"
+		},
+		{
+			"definition": "put something in a resting position, as for support or steadying",
+			"pos": "verb"
+		},
+		{
+			"definition": "sit, as on a branch",
+			"pos": "verb"
+		},
+		{
+			"definition": "rest on or as if on a pillow",
+			"pos": "verb"
+		},
+		{
+			"definition": "be inactive, refrain from acting",
+			"pos": "verb"
+		}
+	]
+}

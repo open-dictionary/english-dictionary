@@ -1,0 +1,21 @@
+{
+	"word": "event",
+	"definitions": [
+		{
+			"definition": "something that happens at a given place and time",
+			"pos": "noun"
+		},
+		{
+			"definition": "a special set of circumstances",
+			"pos": "noun"
+		},
+		{
+			"definition": "a phenomenon located at a single point in space-time",
+			"pos": "noun"
+		},
+		{
+			"definition": "a phenomenon that follows and is caused by some previous phenomenon",
+			"pos": "noun"
+		}
+	]
+}

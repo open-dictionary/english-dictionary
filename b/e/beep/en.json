@@ -1,0 +1,17 @@
+{
+	"word": "beep",
+	"definitions": [
+		{
+			"definition": "a short high tone produced as a signal or warning",
+			"pos": "noun"
+		},
+		{
+			"definition": "make a loud noise",
+			"pos": "verb"
+		},
+		{
+			"definition": "call, summon, or alert with a beeper",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "appeal",
+	"definitions": [
+		{
+			"definition": "earnest or urgent request",
+			"pos": "noun"
+		},
+		{
+			"definition": "attractiveness that interests or pleases or stimulates",
+			"pos": "noun"
+		},
+		{
+			"definition": "(law) a legal proceeding in which the appellant resorts to a higher court for the purpose of obtaining a review of a lower court decision and a reversal of the lower court's judgment or the granting of a new trial",
+			"pos": "noun"
+		},
+		{
+			"definition": "request for a sum of money",
+			"pos": "noun"
+		},
+		{
+			"definition": "take a court case to a higher court for review",
+			"pos": "verb"
+		},
+		{
+			"definition": "request earnestly (something from somebody)",
+			"pos": "verb"
+		},
+		{
+			"definition": "be attractive to",
+			"pos": "verb"
+		},
+		{
+			"definition": "challenge (a decision)",
+			"pos": "verb"
+		},
+		{
+			"definition": "cite as an authority",
+			"pos": "verb"
+		}
+	]
+}

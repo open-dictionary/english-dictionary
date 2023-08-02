@@ -1,0 +1,73 @@
+{
+	"word": "string",
+	"definitions": [
+		{
+			"definition": "a lightweight cord",
+			"pos": "noun"
+		},
+		{
+			"definition": "stringed instruments that are played with a bow",
+			"pos": "noun"
+		},
+		{
+			"definition": "a tightly stretched cord of wire or gut, as a part of an instrument or a tennis racket",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sequentially ordered set of things or events or ideas in which each successive member is related to the preceding",
+			"pos": "noun"
+		},
+		{
+			"definition": "a linear sequence (as of characters, words, proteins, etc.)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a tie consisting of a cord that goes through a seam around an opening",
+			"pos": "noun"
+		},
+		{
+			"definition": "a tough piece of fiber in vegetables, meat, or other food (especially the tough fibers connecting the two halves of a bean pod)",
+			"pos": "noun"
+		},
+		{
+			"definition": "(cosmology) a hypothetical one-dimensional subatomic particle having a concentration of energy and the dynamic properties of a flexible loop",
+			"pos": "noun"
+		},
+		{
+			"definition": "a collection of objects threaded on a single strand",
+			"pos": "noun"
+		},
+		{
+			"definition": "a necklace made by stringing objects together",
+			"pos": "noun"
+		},
+		{
+			"definition": "thread on or as if on a string",
+			"pos": "verb"
+		},
+		{
+			"definition": "add as if on a string",
+			"pos": "verb"
+		},
+		{
+			"definition": "move or come along",
+			"pos": "verb"
+		},
+		{
+			"definition": "stretch out or arrange like a string",
+			"pos": "verb"
+		},
+		{
+			"definition": "string together",
+			"pos": "verb"
+		},
+		{
+			"definition": "remove the stringy parts of",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide with strings",
+			"pos": "verb"
+		}
+	]
+}

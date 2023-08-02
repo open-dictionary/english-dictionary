@@ -1,0 +1,53 @@
+{
+	"word": "glass",
+	"definitions": [
+		{
+			"definition": "a brittle transparent solid with irregular atomic structure",
+			"pos": "noun"
+		},
+		{
+			"definition": "a container made of glass for holding liquids while drinking",
+			"pos": "noun"
+		},
+		{
+			"definition": "the quantity a glass will hold",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small refracting telescope",
+			"pos": "noun"
+		},
+		{
+			"definition": "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride",
+			"pos": "noun"
+		},
+		{
+			"definition": "a mirror",
+			"pos": "noun"
+		},
+		{
+			"definition": "glassware collectively",
+			"pos": "noun"
+		},
+		{
+			"definition": "furnish with glass",
+			"pos": "verb"
+		},
+		{
+			"definition": "scan (game in the forest) with binoculars",
+			"pos": "verb"
+		},
+		{
+			"definition": "enclose with glass",
+			"pos": "verb"
+		},
+		{
+			"definition": "put in a glass container",
+			"pos": "verb"
+		},
+		{
+			"definition": "become glassy or take on a glass-like appearance",
+			"pos": "verb"
+		}
+	]
+}

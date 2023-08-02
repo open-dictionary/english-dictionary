@@ -1,0 +1,37 @@
+{
+	"word": "tank",
+	"definitions": [
+		{
+			"definition": "an enclosed armored military vehicle",
+			"pos": "noun"
+		},
+		{
+			"definition": "a large (usually metallic) vessel for holding gases or liquids",
+			"pos": "noun"
+		},
+		{
+			"definition": "as much as a tank will hold",
+			"pos": "noun"
+		},
+		{
+			"definition": "a freight car that transports liquids or gases in bulk",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cell for violent prisoners",
+			"pos": "noun"
+		},
+		{
+			"definition": "store in a tank by causing (something) to flow into it",
+			"pos": "verb"
+		},
+		{
+			"definition": "consume excessive amounts of alcohol",
+			"pos": "verb"
+		},
+		{
+			"definition": "treat in a tank",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"word": "morse",
+	"definitions": [
+		{
+			"definition": "a telegraph code in which letters and numbers are represented by strings of dots and dashes (short and long signals)",
+			"pos": "noun"
+		},
+		{
+			"definition": "United States portrait painter who patented the telegraph and developed the Morse code (1791-1872)",
+			"pos": "noun"
+		}
+	]
+}

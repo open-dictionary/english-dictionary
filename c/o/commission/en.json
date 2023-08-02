@@ -1,0 +1,53 @@
+{
+	"word": "commission",
+	"definitions": [
+		{
+			"definition": "a special group delegated to consider some matter",
+			"pos": "noun"
+		},
+		{
+			"definition": "a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of granting authority to undertake certain functions",
+			"pos": "noun"
+		},
+		{
+			"definition": "the state of being in good working order and ready for operation",
+			"pos": "noun"
+		},
+		{
+			"definition": "a group of representatives or delegates",
+			"pos": "noun"
+		},
+		{
+			"definition": "a formal statement of a command or injunction to do something",
+			"pos": "noun"
+		},
+		{
+			"definition": "an official document issued by a government and conferring on the recipient the rank of an officer in the armed forces",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of committing a crime",
+			"pos": "noun"
+		},
+		{
+			"definition": "a special assignment that is given to a person or group",
+			"pos": "noun"
+		},
+		{
+			"definition": "put into commission",
+			"pos": "verb"
+		},
+		{
+			"definition": "place an order for",
+			"pos": "verb"
+		},
+		{
+			"definition": "charge with a task",
+			"pos": "verb"
+		}
+	]
+}

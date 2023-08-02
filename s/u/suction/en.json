@@ -1,0 +1,21 @@
+{
+	"word": "suction",
+	"definitions": [
+		{
+			"definition": "a force over an area produced by a pressure difference",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of sucking",
+			"pos": "noun"
+		},
+		{
+			"definition": "remove or draw away by the force of suction",
+			"pos": "verb"
+		},
+		{
+			"definition": "empty or clean (a body cavity) by the force of suction",
+			"pos": "verb"
+		}
+	]
+}

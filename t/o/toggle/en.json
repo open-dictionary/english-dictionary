@@ -1,0 +1,29 @@
+{
+	"word": "toggle",
+	"definitions": [
+		{
+			"definition": "any instruction that works first one way and then the other",
+			"pos": "noun"
+		},
+		{
+			"definition": "a hinged switch that can assume either of two positions",
+			"pos": "noun"
+		},
+		{
+			"definition": "a fastener consisting of a peg or pin or crosspiece that is inserted into an eye at the end of a rope or a chain or a cable in order to fasten it to something (as another rope or chain or cable)",
+			"pos": "noun"
+		},
+		{
+			"definition": "provide with a toggle or toggles",
+			"pos": "verb"
+		},
+		{
+			"definition": "fasten with, or as if with, a toggle",
+			"pos": "verb"
+		},
+		{
+			"definition": "release by a toggle switch",
+			"pos": "verb"
+		}
+	]
+}

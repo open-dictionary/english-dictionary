@@ -1,0 +1,25 @@
+{
+	"word": "housing",
+	"definitions": [
+		{
+			"definition": "structures collectively in which people are housed",
+			"pos": "noun"
+		},
+		{
+			"definition": "a protective cover designed to contain or support a mechanical component",
+			"pos": "noun"
+		},
+		{
+			"definition": "stable gear consisting of a decorated covering for a horse, especially (formerly) for a warhorse",
+			"pos": "noun"
+		},
+		{
+			"definition": "contain or cover",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide housing for",
+			"pos": "verb"
+		}
+	]
+}

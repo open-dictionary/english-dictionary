@@ -1,0 +1,25 @@
+{
+	"word": "ferry",
+	"definitions": [
+		{
+			"definition": "a boat that transports people or vehicles across a body of water and operates on a regular schedule",
+			"pos": "noun"
+		},
+		{
+			"definition": "transport by boat or aircraft",
+			"pos": "noun"
+		},
+		{
+			"definition": "transport from one place to another",
+			"pos": "verb"
+		},
+		{
+			"definition": "transport by ferry",
+			"pos": "verb"
+		},
+		{
+			"definition": "travel by ferry",
+			"pos": "verb"
+		}
+	]
+}

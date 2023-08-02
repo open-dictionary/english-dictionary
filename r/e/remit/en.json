@@ -1,0 +1,41 @@
+{
+	"word": "remit",
+	"definitions": [
+		{
+			"definition": "the topic that a person, committee, or piece of research is expected to deal with or has authority to deal with",
+			"pos": "noun"
+		},
+		{
+			"definition": "(law) the act of remitting (especially the referral of a law case to another court)",
+			"pos": "noun"
+		},
+		{
+			"definition": "send (money) in payment",
+			"pos": "verb"
+		},
+		{
+			"definition": "hold back to a later time",
+			"pos": "verb"
+		},
+		{
+			"definition": "release from (claims, debts, or taxes)",
+			"pos": "verb"
+		},
+		{
+			"definition": "refer (a matter or legal case) to another committee or authority or court for decision",
+			"pos": "verb"
+		},
+		{
+			"definition": "forgive",
+			"pos": "verb"
+		},
+		{
+			"definition": "make slack as by lessening tension or firmness",
+			"pos": "verb"
+		},
+		{
+			"definition": "diminish or abate",
+			"pos": "verb"
+		}
+	]
+}

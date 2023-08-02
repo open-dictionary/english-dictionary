@@ -1,0 +1,33 @@
+{
+	"word": "cause",
+	"definitions": [
+		{
+			"definition": "events that provide the generative force that is the origin of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a justification for something existing or happening",
+			"pos": "noun"
+		},
+		{
+			"definition": "a series of actions advancing a principle or tending toward a particular end",
+			"pos": "noun"
+		},
+		{
+			"definition": "any entity that produces an effect or is responsible for events or results",
+			"pos": "noun"
+		},
+		{
+			"definition": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+			"pos": "noun"
+		},
+		{
+			"definition": "give rise to",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to do",
+			"pos": "verb"
+		}
+	]
+}

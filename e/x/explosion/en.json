@@ -1,0 +1,33 @@
+{
+	"word": "explosion",
+	"definitions": [
+		{
+			"definition": "a violent release of energy caused by a chemical or nuclear reaction",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of exploding or bursting",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sudden great increase",
+			"pos": "noun"
+		},
+		{
+			"definition": "the noise caused by an explosion",
+			"pos": "noun"
+		},
+		{
+			"definition": "the terminal forced release of pressure built up during the occlusive phase of a stop consonant",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sudden outburst",
+			"pos": "noun"
+		},
+		{
+			"definition": "a golf shot from a bunker that typically moves sand as well as the golf ball",
+			"pos": "noun"
+		}
+	]
+}

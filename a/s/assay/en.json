@@ -1,0 +1,29 @@
+{
+	"word": "assay",
+	"definitions": [
+		{
+			"definition": "an appraisal of the state of affairs",
+			"pos": "noun"
+		},
+		{
+			"definition": "a substance that is undergoing an analysis of its components",
+			"pos": "noun"
+		},
+		{
+			"definition": "a written report of the results of an analysis of the composition of some substance",
+			"pos": "noun"
+		},
+		{
+			"definition": "a quantitative or qualitative test of a substance (especially an ore or a drug) to determine its components",
+			"pos": "noun"
+		},
+		{
+			"definition": "analyze (chemical substances)",
+			"pos": "verb"
+		},
+		{
+			"definition": "make an effort or attempt",
+			"pos": "verb"
+		}
+	]
+}

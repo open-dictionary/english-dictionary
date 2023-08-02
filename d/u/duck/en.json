@@ -1,0 +1,37 @@
+{
+	"word": "duck",
+	"definitions": [
+		{
+			"definition": "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs",
+			"pos": "noun"
+		},
+		{
+			"definition": "(cricket) a score of nothing by a batsman",
+			"pos": "noun"
+		},
+		{
+			"definition": "flesh of a duck (domestic or wild)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a heavy cotton fabric of plain weave",
+			"pos": "noun"
+		},
+		{
+			"definition": "to move (the head or body) quickly downwards or away",
+			"pos": "verb"
+		},
+		{
+			"definition": "submerge or plunge suddenly",
+			"pos": "verb"
+		},
+		{
+			"definition": "dip into a liquid",
+			"pos": "verb"
+		},
+		{
+			"definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+			"pos": "verb"
+		}
+	]
+}

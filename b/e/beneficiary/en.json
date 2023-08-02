@@ -1,0 +1,17 @@
+{
+	"word": "beneficiary",
+	"definitions": [
+		{
+			"definition": "the recipient of funds or other benefits",
+			"pos": "noun"
+		},
+		{
+			"definition": "the semantic role of the intended recipient who benefits from the happening denoted by the verb in the clause",
+			"pos": "noun"
+		},
+		{
+			"definition": "having or arising from a benefice",
+			"pos": "adjective"
+		}
+	]
+}

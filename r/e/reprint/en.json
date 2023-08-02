@@ -1,0 +1,17 @@
+{
+	"word": "reprint",
+	"definitions": [
+		{
+			"definition": "a publication (such as a book) that is reprinted without changes or editing and offered again for sale",
+			"pos": "noun"
+		},
+		{
+			"definition": "a separately printed article that originally appeared in a larger publication",
+			"pos": "noun"
+		},
+		{
+			"definition": "print anew",
+			"pos": "verb"
+		}
+	]
+}

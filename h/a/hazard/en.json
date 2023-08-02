@@ -1,0 +1,29 @@
+{
+	"word": "hazard",
+	"definitions": [
+		{
+			"definition": "a source of danger",
+			"pos": "noun"
+		},
+		{
+			"definition": "an unknown and unpredictable phenomenon that causes an event to result one way rather than another",
+			"pos": "noun"
+		},
+		{
+			"definition": "an obstacle on a golf course",
+			"pos": "noun"
+		},
+		{
+			"definition": "put forward, of a guess, in spite of possible refutation",
+			"pos": "verb"
+		},
+		{
+			"definition": "put at risk",
+			"pos": "verb"
+		},
+		{
+			"definition": "take a risk in the hope of a favorable outcome",
+			"pos": "verb"
+		}
+	]
+}

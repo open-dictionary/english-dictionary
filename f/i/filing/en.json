@@ -1,0 +1,41 @@
+{
+	"word": "filing",
+	"definitions": [
+		{
+			"definition": "the entering of a legal document into the public record",
+			"pos": "noun"
+		},
+		{
+			"definition": "a fragment rubbed off by the use of a file",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of using a file (as in shaping or smoothing an object)",
+			"pos": "noun"
+		},
+		{
+			"definition": "preservation and methodical arrangement as of documents and papers etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "record in a public office or in a court of law",
+			"pos": "verb"
+		},
+		{
+			"definition": "smooth with a file",
+			"pos": "verb"
+		},
+		{
+			"definition": "proceed in line",
+			"pos": "verb"
+		},
+		{
+			"definition": "file a formal charge against",
+			"pos": "verb"
+		},
+		{
+			"definition": "place in a container for keeping records",
+			"pos": "verb"
+		}
+	]
+}

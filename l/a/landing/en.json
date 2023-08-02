@@ -1,0 +1,49 @@
+{
+	"word": "landing",
+	"definitions": [
+		{
+			"definition": "an intermediate platform in a staircase",
+			"pos": "noun"
+		},
+		{
+			"definition": "structure providing a place where boats can land people or goods",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of coming down to the earth (or other surface)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of coming to land after a voyage",
+			"pos": "noun"
+		},
+		{
+			"definition": "reach or come to rest",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to come to the ground",
+			"pos": "verb"
+		},
+		{
+			"definition": "bring into a different state",
+			"pos": "verb"
+		},
+		{
+			"definition": "bring ashore",
+			"pos": "verb"
+		},
+		{
+			"definition": "deliver (a blow)",
+			"pos": "verb"
+		},
+		{
+			"definition": "arrive on shore",
+			"pos": "verb"
+		},
+		{
+			"definition": "shoot at and force to come down",
+			"pos": "verb"
+		}
+	]
+}

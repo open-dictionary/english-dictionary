@@ -1,0 +1,25 @@
+{
+	"word": "anchor",
+	"definitions": [
+		{
+			"definition": "a mechanical device that prevents a vessel from moving",
+			"pos": "noun"
+		},
+		{
+			"definition": "a central cohesive source of support and stability",
+			"pos": "noun"
+		},
+		{
+			"definition": "a television reporter who coordinates a broadcast to which several correspondents contribute",
+			"pos": "noun"
+		},
+		{
+			"definition": "fix firmly and stably",
+			"pos": "verb"
+		},
+		{
+			"definition": "secure a vessel with an anchor",
+			"pos": "verb"
+		}
+	]
+}

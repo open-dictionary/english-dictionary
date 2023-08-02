@@ -1,0 +1,17 @@
+{
+	"word": "calibrate",
+	"definitions": [
+		{
+			"definition": "make fine adjustments or divide into marked intervals for optimal measuring",
+			"pos": "verb"
+		},
+		{
+			"definition": "mark (the scale of a measuring instrument) so that it can be read in the desired units",
+			"pos": "verb"
+		},
+		{
+			"definition": "measure the caliber of",
+			"pos": "verb"
+		}
+	]
+}

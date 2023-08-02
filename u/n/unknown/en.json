@@ -1,0 +1,37 @@
+{
+	"word": "unknown",
+	"definitions": [
+		{
+			"definition": "an unknown and unexplored region",
+			"pos": "noun"
+		},
+		{
+			"definition": "anyone who does not belong in the environment in which they are found",
+			"pos": "noun"
+		},
+		{
+			"definition": "a variable whose values are solutions of an equation",
+			"pos": "noun"
+		},
+		{
+			"definition": "not known",
+			"pos": "adjective"
+		},
+		{
+			"definition": "being or having an unknown or unnamed source",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not known to exist",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not famous or acclaimed",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not known before",
+			"pos": "adjective"
+		}
+	]
+}

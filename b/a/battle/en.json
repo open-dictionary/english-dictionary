@@ -1,0 +1,21 @@
+{
+	"word": "battle",
+	"definitions": [
+		{
+			"definition": "a hostile meeting of opposing military forces in the course of a war",
+			"pos": "noun"
+		},
+		{
+			"definition": "an energetic attempt to achieve something",
+			"pos": "noun"
+		},
+		{
+			"definition": "an open clash between two opposing groups (or individuals)",
+			"pos": "noun"
+		},
+		{
+			"definition": "battle or contend against in or as if in a battle",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"word": "requisition",
+	"definitions": [
+		{
+			"definition": "the act of requiring",
+			"pos": "noun"
+		},
+		{
+			"definition": "an official form on which a request in made",
+			"pos": "noun"
+		},
+		{
+			"definition": "seizing property that belongs to someone else and holding it until profits pay the demand for which it was seized",
+			"pos": "noun"
+		},
+		{
+			"definition": "make a formal request for official services",
+			"pos": "verb"
+		},
+		{
+			"definition": "demand and take for use or service, especially by military or public authority for public service",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"word": "graze",
+	"definitions": [
+		{
+			"definition": "a superficial abrasion",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of grazing",
+			"pos": "noun"
+		},
+		{
+			"definition": "feed as in a meadow or pasture",
+			"pos": "verb"
+		},
+		{
+			"definition": "break the skin (of a body part) by scraping",
+			"pos": "verb"
+		},
+		{
+			"definition": "let feed in a field or pasture or meadow",
+			"pos": "verb"
+		},
+		{
+			"definition": "scrape gently",
+			"pos": "verb"
+		},
+		{
+			"definition": "eat lightly, try different dishes",
+			"pos": "verb"
+		}
+	]
+}

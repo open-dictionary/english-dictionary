@@ -1,0 +1,37 @@
+{
+	"word": "stump",
+	"definitions": [
+		{
+			"definition": "the base part of a tree that remains standing after the tree has been felled",
+			"pos": "noun"
+		},
+		{
+			"definition": "the part of a limb or tooth that remains after the rest is removed",
+			"pos": "noun"
+		},
+		{
+			"definition": "(cricket) any of three upright wooden posts that form the wicket",
+			"pos": "noun"
+		},
+		{
+			"definition": "a platform raised above the surrounding level to give prominence to the person on it",
+			"pos": "noun"
+		},
+		{
+			"definition": "cause to be perplexed or confounded",
+			"pos": "verb"
+		},
+		{
+			"definition": "walk heavily",
+			"pos": "verb"
+		},
+		{
+			"definition": "travel through a district and make political speeches",
+			"pos": "verb"
+		},
+		{
+			"definition": "remove tree stumps from",
+			"pos": "verb"
+		}
+	]
+}

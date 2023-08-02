@@ -1,0 +1,21 @@
+{
+	"word": "paradigm",
+	"definitions": [
+		{
+			"definition": "systematic arrangement of all the inflected forms of a word",
+			"pos": "noun"
+		},
+		{
+			"definition": "a standard or typical example",
+			"pos": "noun"
+		},
+		{
+			"definition": "the class of all items that can be substituted into the same position (or slot) in a grammatical sentence (are in paradigmatic relation with one another)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the generally accepted perspective of a particular discipline at a given time",
+			"pos": "noun"
+		}
+	]
+}

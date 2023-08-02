@@ -1,0 +1,45 @@
+{
+	"word": "paddle",
+	"definitions": [
+		{
+			"definition": "small wooden bat with a flat surface",
+			"pos": "noun"
+		},
+		{
+			"definition": "a blade of a paddle wheel or water wheel",
+			"pos": "noun"
+		},
+		{
+			"definition": "an instrument of punishment consisting of a flat board",
+			"pos": "noun"
+		},
+		{
+			"definition": "a short light oar used without an oarlock to propel a canoe or small boat",
+			"pos": "noun"
+		},
+		{
+			"definition": "propel with a paddle",
+			"pos": "verb"
+		},
+		{
+			"definition": "play in or as if in water, as of small children",
+			"pos": "verb"
+		},
+		{
+			"definition": "swim like a dog in shallow water",
+			"pos": "verb"
+		},
+		{
+			"definition": "walk unsteadily",
+			"pos": "verb"
+		},
+		{
+			"definition": "give a spanking to",
+			"pos": "verb"
+		},
+		{
+			"definition": "stir with a paddle",
+			"pos": "verb"
+		}
+	]
+}

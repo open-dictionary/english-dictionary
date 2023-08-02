@@ -1,0 +1,29 @@
+{
+	"word": "arrest",
+	"definitions": [
+		{
+			"definition": "the act of apprehending (especially apprehending a criminal)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the state of inactivity following an interruption",
+			"pos": "noun"
+		},
+		{
+			"definition": "take into custody",
+			"pos": "verb"
+		},
+		{
+			"definition": "hold back, as of a danger or an enemy",
+			"pos": "verb"
+		},
+		{
+			"definition": "attract and fix",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to stop",
+			"pos": "verb"
+		}
+	]
+}

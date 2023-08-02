@@ -1,0 +1,21 @@
+{
+	"word": "hospitalization",
+	"definitions": [
+		{
+			"definition": "a period of time when you are confined to a hospital",
+			"pos": "noun"
+		},
+		{
+			"definition": "the condition of being treated as a patient in a hospital",
+			"pos": "noun"
+		},
+		{
+			"definition": "insurance that pays all or part of a patient's hospital expense",
+			"pos": "noun"
+		},
+		{
+			"definition": "placing in medical care in a hospital",
+			"pos": "noun"
+		}
+	]
+}

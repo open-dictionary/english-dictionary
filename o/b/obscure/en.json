@@ -1,0 +1,49 @@
+{
+	"word": "obscure",
+	"definitions": [
+		{
+			"definition": "make less visible or unclear",
+			"pos": "verb"
+		},
+		{
+			"definition": "make unclear, indistinct, or blurred",
+			"pos": "verb"
+		},
+		{
+			"definition": "make obscure or unclear",
+			"pos": "verb"
+		},
+		{
+			"definition": "reduce a vowel to a neutral one, such as a schwa",
+			"pos": "verb"
+		},
+		{
+			"definition": "make undecipherable or imperceptible by obscuring or concealing",
+			"pos": "verb"
+		},
+		{
+			"definition": "not clearly expressed or understood",
+			"pos": "adjective"
+		},
+		{
+			"definition": "marked by difficulty of style or expression",
+			"pos": "adjective"
+		},
+		{
+			"definition": "difficult to find",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not famous or acclaimed",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not drawing attention",
+			"pos": "adjective"
+		},
+		{
+			"definition": "remote and separate physically or socially",
+			"pos": "adjective"
+		}
+	]
+}

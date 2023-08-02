@@ -1,0 +1,21 @@
+{
+	"word": "munition",
+	"definitions": [
+		{
+			"definition": "weapons considered collectively",
+			"pos": "noun"
+		},
+		{
+			"definition": "military supplies",
+			"pos": "noun"
+		},
+		{
+			"definition": "defensive structure consisting of walls or mounds built around a stronghold to strengthen it",
+			"pos": "noun"
+		},
+		{
+			"definition": "supply with weapons",
+			"pos": "verb"
+		}
+	]
+}

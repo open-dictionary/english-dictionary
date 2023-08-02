@@ -1,0 +1,25 @@
+{
+	"word": "offstage",
+	"definitions": [
+		{
+			"definition": "a stage area out of sight of the audience",
+			"pos": "noun"
+		},
+		{
+			"definition": "situated or taking place in the area of a stage not visible to the audience",
+			"pos": "adjective"
+		},
+		{
+			"definition": "concealed from public view or attention",
+			"pos": "adjective"
+		},
+		{
+			"definition": "behind the scenes",
+			"pos": "adverb"
+		},
+		{
+			"definition": "not in public",
+			"pos": "adverb"
+		}
+	]
+}

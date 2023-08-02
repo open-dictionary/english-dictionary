@@ -1,0 +1,25 @@
+{
+	"word": "examine",
+	"definitions": [
+		{
+			"definition": "consider in detail and subject to an analysis in order to discover essential features or meaning",
+			"pos": "verb"
+		},
+		{
+			"definition": "observe, check out, and look over carefully or inspect",
+			"pos": "verb"
+		},
+		{
+			"definition": "question or examine thoroughly and closely",
+			"pos": "verb"
+		},
+		{
+			"definition": "question closely",
+			"pos": "verb"
+		},
+		{
+			"definition": "put to the test, as for its quality, or give experimental use to",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"word": "copy",
+	"definitions": [
+		{
+			"definition": "a reproduction of a written record (e.g. of a legal or school record)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a thing made to be similar or identical to another thing",
+			"pos": "noun"
+		},
+		{
+			"definition": "matter to be printed",
+			"pos": "noun"
+		},
+		{
+			"definition": "material suitable for a journalistic account",
+			"pos": "noun"
+		},
+		{
+			"definition": "copy down as is",
+			"pos": "verb"
+		},
+		{
+			"definition": "reproduce someone's behavior or looks",
+			"pos": "verb"
+		},
+		{
+			"definition": "reproduce or make an exact copy of",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a replica of",
+			"pos": "verb"
+		}
+	]
+}

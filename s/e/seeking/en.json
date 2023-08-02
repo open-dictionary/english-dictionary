@@ -1,0 +1,33 @@
+{
+	"word": "seeking",
+	"definitions": [
+		{
+			"definition": "the act of searching for something",
+			"pos": "noun"
+		},
+		{
+			"definition": "an attempt to acquire or gain something",
+			"pos": "noun"
+		},
+		{
+			"definition": "try to get or reach",
+			"pos": "verb"
+		},
+		{
+			"definition": "try to locate or discover, or try to establish the existence of",
+			"pos": "verb"
+		},
+		{
+			"definition": "make an effort or attempt",
+			"pos": "verb"
+		},
+		{
+			"definition": "go to or towards",
+			"pos": "verb"
+		},
+		{
+			"definition": "inquire for",
+			"pos": "verb"
+		}
+	]
+}

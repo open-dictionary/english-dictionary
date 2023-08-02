@@ -1,0 +1,17 @@
+{
+	"word": "foreground",
+	"definitions": [
+		{
+			"definition": "the part of a scene that is near the viewer",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a window for an active application",
+			"pos": "noun"
+		},
+		{
+			"definition": "move into the foreground to make more visible or prominent",
+			"pos": "verb"
+		}
+	]
+}

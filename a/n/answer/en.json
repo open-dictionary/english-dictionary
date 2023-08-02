@@ -1,0 +1,65 @@
+{
+	"word": "answer",
+	"definitions": [
+		{
+			"definition": "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation",
+			"pos": "noun"
+		},
+		{
+			"definition": "a statement that solves a problem or explains how to solve the problem",
+			"pos": "noun"
+		},
+		{
+			"definition": "the speech act of replying to a question",
+			"pos": "noun"
+		},
+		{
+			"definition": "the principal pleading by the defendant in response to plaintiff's complaint",
+			"pos": "noun"
+		},
+		{
+			"definition": "a nonverbal reaction",
+			"pos": "noun"
+		},
+		{
+			"definition": "react verbally",
+			"pos": "verb"
+		},
+		{
+			"definition": "respond to a signal",
+			"pos": "verb"
+		},
+		{
+			"definition": "give the correct answer or solution to",
+			"pos": "verb"
+		},
+		{
+			"definition": "understand the meaning of",
+			"pos": "verb"
+		},
+		{
+			"definition": "give a defence or refutation of (a charge) or in (an argument)",
+			"pos": "verb"
+		},
+		{
+			"definition": "be liable or accountable",
+			"pos": "verb"
+		},
+		{
+			"definition": "be sufficient",
+			"pos": "verb"
+		},
+		{
+			"definition": "match or correspond",
+			"pos": "verb"
+		},
+		{
+			"definition": "be satisfactory for",
+			"pos": "verb"
+		},
+		{
+			"definition": "react to a stimulus or command",
+			"pos": "verb"
+		}
+	]
+}

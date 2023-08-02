@@ -1,0 +1,41 @@
+{
+	"word": "abstract",
+	"definitions": [
+		{
+			"definition": "a concept or idea not associated with any specific instance",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sketchy summary of the main points of an argument or theory",
+			"pos": "noun"
+		},
+		{
+			"definition": "consider a concept without thinking of a specific example",
+			"pos": "verb"
+		},
+		{
+			"definition": "make off with belongings of others",
+			"pos": "verb"
+		},
+		{
+			"definition": "consider apart from a particular case or instance",
+			"pos": "verb"
+		},
+		{
+			"definition": "give an abstract (of)",
+			"pos": "verb"
+		},
+		{
+			"definition": "existing only in the mind",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not representing or imitating external reality or the objects of nature",
+			"pos": "adjective"
+		},
+		{
+			"definition": "dealing with a subject in the abstract without practical purpose or intention",
+			"pos": "adjective"
+		}
+	]
+}

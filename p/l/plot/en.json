@@ -1,0 +1,37 @@
+{
+	"word": "plot",
+	"definitions": [
+		{
+			"definition": "a secret scheme to do something (especially something underhand or illegal)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small area of ground covered by specific vegetation",
+			"pos": "noun"
+		},
+		{
+			"definition": "the story that is told in a novel or play or movie etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "a chart or graph showing the movements or progress of an object",
+			"pos": "noun"
+		},
+		{
+			"definition": "plan secretly, usually something illegal",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a schematic or technical drawing of that shows interactions among variables or how something is constructed",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a plat of",
+			"pos": "verb"
+		},
+		{
+			"definition": "devise the sequence of events in (a literary work or a play, movie, or ballet)",
+			"pos": "verb"
+		}
+	]
+}

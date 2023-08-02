@@ -1,0 +1,25 @@
+{
+	"word": "bet",
+	"definitions": [
+		{
+			"definition": "the money risked on a gamble",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of gambling",
+			"pos": "noun"
+		},
+		{
+			"definition": "maintain with or as if with a bet",
+			"pos": "verb"
+		},
+		{
+			"definition": "stake on the outcome of an issue",
+			"pos": "verb"
+		},
+		{
+			"definition": "have faith or confidence in",
+			"pos": "verb"
+		}
+	]
+}

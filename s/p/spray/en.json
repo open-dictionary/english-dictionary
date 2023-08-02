@@ -1,0 +1,41 @@
+{
+	"word": "spray",
+	"definitions": [
+		{
+			"definition": "a pesticide in suspension or solution",
+			"pos": "noun"
+		},
+		{
+			"definition": "a quantity of small objects flying through the air",
+			"pos": "noun"
+		},
+		{
+			"definition": "flower arrangement consisting of a single branch or shoot bearing flowers and foliage",
+			"pos": "noun"
+		},
+		{
+			"definition": "a dispenser that turns a liquid (such as perfume) into a fine mist",
+			"pos": "noun"
+		},
+		{
+			"definition": "water in small drops in the atmosphere",
+			"pos": "noun"
+		},
+		{
+			"definition": "a jet of vapor",
+			"pos": "noun"
+		},
+		{
+			"definition": "be discharged in sprays of liquid",
+			"pos": "verb"
+		},
+		{
+			"definition": "scatter in a mass or jet of droplets",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover by spraying with a liquid",
+			"pos": "verb"
+		}
+	]
+}

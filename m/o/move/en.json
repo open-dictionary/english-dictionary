@@ -1,0 +1,89 @@
+{
+	"word": "move",
+	"definitions": [
+		{
+			"definition": "the act of deciding to do something",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of changing your residence or place of business",
+			"pos": "noun"
+		},
+		{
+			"definition": "a change of position that does not entail a change of location",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of changing location from one place to another",
+			"pos": "noun"
+		},
+		{
+			"definition": "(game) a player's turn to take some action permitted by the rules of the game",
+			"pos": "noun"
+		},
+		{
+			"definition": "change location",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to move or shift into a new position or place, both in a concrete and in an abstract sense",
+			"pos": "verb"
+		},
+		{
+			"definition": "move so as to change position, perform a nontranslational motion",
+			"pos": "verb"
+		},
+		{
+			"definition": "change residence, affiliation, or place of employment",
+			"pos": "verb"
+		},
+		{
+			"definition": "follow a procedure or take a course",
+			"pos": "verb"
+		},
+		{
+			"definition": "be in a state of action",
+			"pos": "verb"
+		},
+		{
+			"definition": "go or proceed from one point to another",
+			"pos": "verb"
+		},
+		{
+			"definition": "perform an action, or work out or perform (an action)",
+			"pos": "verb"
+		},
+		{
+			"definition": "have an emotional or cognitive impact upon",
+			"pos": "verb"
+		},
+		{
+			"definition": "give an incentive for action",
+			"pos": "verb"
+		},
+		{
+			"definition": "arouse sympathy or compassion in",
+			"pos": "verb"
+		},
+		{
+			"definition": "dispose of by selling",
+			"pos": "verb"
+		},
+		{
+			"definition": "progress by being changed",
+			"pos": "verb"
+		},
+		{
+			"definition": "live one's life in a specified environment",
+			"pos": "verb"
+		},
+		{
+			"definition": "have a turn",
+			"pos": "verb"
+		},
+		{
+			"definition": "propose formally",
+			"pos": "verb"
+		}
+	]
+}

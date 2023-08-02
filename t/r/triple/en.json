@@ -1,0 +1,33 @@
+{
+	"word": "triple",
+	"definitions": [
+		{
+			"definition": "a base hit at which the batter stops safely at third base",
+			"pos": "noun"
+		},
+		{
+			"definition": "a set of three similar things considered as a unit",
+			"pos": "noun"
+		},
+		{
+			"definition": "a quantity that is three times as great as another",
+			"pos": "noun"
+		},
+		{
+			"definition": "increase threefold",
+			"pos": "verb"
+		},
+		{
+			"definition": "hit a three-base hit",
+			"pos": "verb"
+		},
+		{
+			"definition": "having three units or components or elements",
+			"pos": "adjective"
+		},
+		{
+			"definition": "three times as great or many",
+			"pos": "adjective"
+		}
+	]
+}

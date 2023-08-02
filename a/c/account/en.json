@@ -1,0 +1,61 @@
+{
+	"word": "account",
+	"definitions": [
+		{
+			"definition": "a record or narrative description of past events",
+			"pos": "noun"
+		},
+		{
+			"definition": "a short account of the news",
+			"pos": "noun"
+		},
+		{
+			"definition": "a formal contractual relationship established to provide for regular banking or brokerage or business services",
+			"pos": "noun"
+		},
+		{
+			"definition": "a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "grounds",
+			"pos": "noun"
+		},
+		{
+			"definition": "importance or value",
+			"pos": "noun"
+		},
+		{
+			"definition": "a statement of recent transactions and the resulting balance",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of informing by verbal report",
+			"pos": "noun"
+		},
+		{
+			"definition": "an itemized statement of money owed for goods shipped or services rendered",
+			"pos": "noun"
+		},
+		{
+			"definition": "the quality of taking advantage",
+			"pos": "noun"
+		},
+		{
+			"definition": "be the sole or primary factor in the existence, acquisition, supply, or disposal of something",
+			"pos": "verb"
+		},
+		{
+			"definition": "keep an account of",
+			"pos": "verb"
+		},
+		{
+			"definition": "to give an account or representation of in words",
+			"pos": "verb"
+		},
+		{
+			"definition": "furnish a justifying analysis or explanation",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"word": "organic",
+	"definitions": [
+		{
+			"definition": "a fertilizer that is derived from animal or vegetable matter",
+			"pos": "noun"
+		},
+		{
+			"definition": "relating or belonging to the class of chemical compounds having a carbon basis",
+			"pos": "adjective"
+		},
+		{
+			"definition": "being or relating to or derived from or having properties characteristic of living organisms",
+			"pos": "adjective"
+		},
+		{
+			"definition": "involving or affecting physiology or bodily organs",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to foodstuff grown or raised without synthetic fertilizers or pesticides or hormones",
+			"pos": "adjective"
+		},
+		{
+			"definition": "simple and healthful and close to nature",
+			"pos": "adjective"
+		},
+		{
+			"definition": "constitutional in the structure of something (especially your physical makeup)",
+			"pos": "adjective"
+		}
+	]
+}

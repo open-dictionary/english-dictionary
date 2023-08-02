@@ -1,0 +1,33 @@
+{
+	"word": "statement",
+	"definitions": [
+		{
+			"definition": "a message that is stated or declared",
+			"pos": "noun"
+		},
+		{
+			"definition": "a fact or assertion offered as evidence that something is true",
+			"pos": "noun"
+		},
+		{
+			"definition": "(music) the presentation of a musical theme",
+			"pos": "noun"
+		},
+		{
+			"definition": "a nonverbal message",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of affirming or asserting or stating something",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a line of code written as part of a computer program",
+			"pos": "noun"
+		},
+		{
+			"definition": "a document showing credits and debits",
+			"pos": "noun"
+		}
+	]
+}

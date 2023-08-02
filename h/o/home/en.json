@@ -1,0 +1,73 @@
+{
+	"word": "home",
+	"definitions": [
+		{
+			"definition": "where you live at a particular time",
+			"pos": "noun"
+		},
+		{
+			"definition": "housing that someone is living in",
+			"pos": "noun"
+		},
+		{
+			"definition": "the country or state or city where you live",
+			"pos": "noun"
+		},
+		{
+			"definition": "(baseball) base consisting of a rubber slab where the batter stands",
+			"pos": "noun"
+		},
+		{
+			"definition": "the place where you are stationed and from which missions start and end",
+			"pos": "noun"
+		},
+		{
+			"definition": "place where something began and flourished",
+			"pos": "noun"
+		},
+		{
+			"definition": "an environment offering affection and security",
+			"pos": "noun"
+		},
+		{
+			"definition": "a social unit living together",
+			"pos": "noun"
+		},
+		{
+			"definition": "an institution where people are cared for",
+			"pos": "noun"
+		},
+		{
+			"definition": "provide with, or send to, a home",
+			"pos": "verb"
+		},
+		{
+			"definition": "return home accurately from a long distance",
+			"pos": "verb"
+		},
+		{
+			"definition": "used of your own ground",
+			"pos": "adjective"
+		},
+		{
+			"definition": "relating to or being where one lives or where one's roots are",
+			"pos": "adjective"
+		},
+		{
+			"definition": "inside the country",
+			"pos": "adjective"
+		},
+		{
+			"definition": "at or to or in the direction of one's home or family",
+			"pos": "adverb"
+		},
+		{
+			"definition": "on or to the point aimed at",
+			"pos": "adverb"
+		},
+		{
+			"definition": "to the fullest extent",
+			"pos": "adverb"
+		}
+	]
+}

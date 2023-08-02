@@ -1,0 +1,33 @@
+{
+	"word": "orient",
+	"definitions": [
+		{
+			"definition": "the countries of Asia",
+			"pos": "noun"
+		},
+		{
+			"definition": "the hemisphere that includes Eurasia and Africa and Australia",
+			"pos": "noun"
+		},
+		{
+			"definition": "be oriented",
+			"pos": "verb"
+		},
+		{
+			"definition": "determine one's position with reference to another point",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to point",
+			"pos": "verb"
+		},
+		{
+			"definition": "familiarize (someone) with new surroundings or circumstances",
+			"pos": "verb"
+		},
+		{
+			"definition": "adjust to a specific need or market",
+			"pos": "verb"
+		}
+	]
+}

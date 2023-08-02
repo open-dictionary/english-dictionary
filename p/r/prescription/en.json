@@ -1,0 +1,25 @@
+{
+	"word": "prescription",
+	"definitions": [
+		{
+			"definition": "directions prescribed beforehand",
+			"pos": "noun"
+		},
+		{
+			"definition": "a drug that is available only with written instructions from a doctor or dentist to a pharmacist",
+			"pos": "noun"
+		},
+		{
+			"definition": "written instructions for an optician on the lenses for a given person",
+			"pos": "noun"
+		},
+		{
+			"definition": "written instructions from a physician or dentist to a druggist concerning the form and dosage of a drug to be issued to a given patient",
+			"pos": "noun"
+		},
+		{
+			"definition": "available only with a doctor's written prescription",
+			"pos": "adjective"
+		}
+	]
+}

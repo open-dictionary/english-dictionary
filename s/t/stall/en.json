@@ -1,0 +1,61 @@
+{
+	"word": "stall",
+	"definitions": [
+		{
+			"definition": "a compartment in a stable where a single animal is confined and fed",
+			"pos": "noun"
+		},
+		{
+			"definition": "small area set off by walls for special use",
+			"pos": "noun"
+		},
+		{
+			"definition": "a booth where articles are displayed for sale",
+			"pos": "noun"
+		},
+		{
+			"definition": "a malfunction in the flight of an aircraft in which there is a sudden loss of lift that results in a downward plunge",
+			"pos": "noun"
+		},
+		{
+			"definition": "seating in the forward part of the main level of a theater",
+			"pos": "noun"
+		},
+		{
+			"definition": "small individual study area in a library",
+			"pos": "noun"
+		},
+		{
+			"definition": "a tactic used to mislead or delay",
+			"pos": "noun"
+		},
+		{
+			"definition": "postpone doing what one should be doing",
+			"pos": "verb"
+		},
+		{
+			"definition": "come to a stop",
+			"pos": "verb"
+		},
+		{
+			"definition": "deliberately delay an event or action",
+			"pos": "verb"
+		},
+		{
+			"definition": "put into, or keep in, a stall",
+			"pos": "verb"
+		},
+		{
+			"definition": "experience a stall in flight, of airplanes",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause an airplane to go into a stall",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause an engine to stop",
+			"pos": "verb"
+		}
+	]
+}

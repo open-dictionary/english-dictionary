@@ -1,0 +1,37 @@
+{
+	"word": "void",
+	"definitions": [
+		{
+			"definition": "the state of nonexistence",
+			"pos": "noun"
+		},
+		{
+			"definition": "an empty area or space",
+			"pos": "noun"
+		},
+		{
+			"definition": "declare invalid",
+			"pos": "verb"
+		},
+		{
+			"definition": "clear (a room, house, place) of occupants or empty or clear (a place or receptacle) of something",
+			"pos": "verb"
+		},
+		{
+			"definition": "take away the legal force of or render ineffective",
+			"pos": "verb"
+		},
+		{
+			"definition": "excrete or discharge from the body",
+			"pos": "verb"
+		},
+		{
+			"definition": "lacking any legal or binding force",
+			"pos": "adjective"
+		},
+		{
+			"definition": "containing nothing",
+			"pos": "adjective"
+		}
+	]
+}

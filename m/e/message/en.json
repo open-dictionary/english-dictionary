@@ -1,0 +1,25 @@
+{
+	"word": "message",
+	"definitions": [
+		{
+			"definition": "a communication (usually brief) that is written or spoken or signaled",
+			"pos": "noun"
+		},
+		{
+			"definition": "what a communication that is about something is about",
+			"pos": "noun"
+		},
+		{
+			"definition": "send a message to",
+			"pos": "verb"
+		},
+		{
+			"definition": "send as a message",
+			"pos": "verb"
+		},
+		{
+			"definition": "send a message",
+			"pos": "verb"
+		}
+	]
+}

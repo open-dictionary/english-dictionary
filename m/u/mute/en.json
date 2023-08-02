@@ -1,0 +1,25 @@
+{
+	"word": "mute",
+	"definitions": [
+		{
+			"definition": "a deaf person who is unable to speak",
+			"pos": "noun"
+		},
+		{
+			"definition": "a device used to soften the tone of a musical instrument",
+			"pos": "noun"
+		},
+		{
+			"definition": "deaden (a sound or noise), especially by wrapping",
+			"pos": "verb"
+		},
+		{
+			"definition": "expressed without speech",
+			"pos": "adjective"
+		},
+		{
+			"definition": "unable to speak because of hereditary deafness",
+			"pos": "adjective"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"word": "original",
+	"definitions": [
+		{
+			"definition": "an original creation (i.e., an audio recording) from which copies can be made",
+			"pos": "noun"
+		},
+		{
+			"definition": "something that serves as a model or a basis for making copies",
+			"pos": "noun"
+		},
+		{
+			"definition": "preceding all others in time or being as first made or performed",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of e.g. information) not secondhand or by way of something intermediary",
+			"pos": "adjective"
+		},
+		{
+			"definition": "being or productive of something fresh and unusual",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not derived or copied or translated from something else",
+			"pos": "adjective"
+		}
+	]
+}

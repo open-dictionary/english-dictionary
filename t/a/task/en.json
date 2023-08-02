@@ -1,0 +1,21 @@
+{
+	"word": "task",
+	"definitions": [
+		{
+			"definition": "any piece of work that is undertaken or attempted",
+			"pos": "noun"
+		},
+		{
+			"definition": "a specific piece of work required to be done as a duty or for a specific fee",
+			"pos": "noun"
+		},
+		{
+			"definition": "assign a task to",
+			"pos": "verb"
+		},
+		{
+			"definition": "use to the limit",
+			"pos": "verb"
+		}
+	]
+}

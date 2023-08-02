@@ -1,0 +1,33 @@
+{
+	"word": "shelter",
+	"definitions": [
+		{
+			"definition": "a structure that provides privacy and protection from danger",
+			"pos": "noun"
+		},
+		{
+			"definition": "protective covering that provides protection from the weather",
+			"pos": "noun"
+		},
+		{
+			"definition": "the condition of being protected",
+			"pos": "noun"
+		},
+		{
+			"definition": "a way of organizing business to reduce the taxes it must pay on current earnings",
+			"pos": "noun"
+		},
+		{
+			"definition": "temporary housing for homeless or displaced persons",
+			"pos": "noun"
+		},
+		{
+			"definition": "provide shelter for",
+			"pos": "verb"
+		},
+		{
+			"definition": "invest (money) so that it is not taxable",
+			"pos": "verb"
+		}
+	]
+}

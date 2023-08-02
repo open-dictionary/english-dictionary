@@ -1,0 +1,25 @@
+{
+	"word": "hike",
+	"definitions": [
+		{
+			"definition": "a long walk usually for exercise or pleasure",
+			"pos": "noun"
+		},
+		{
+			"definition": "an increase in cost",
+			"pos": "noun"
+		},
+		{
+			"definition": "the amount a salary is increased",
+			"pos": "noun"
+		},
+		{
+			"definition": "increase",
+			"pos": "verb"
+		},
+		{
+			"definition": "walk a long way, as for pleasure or physical exercise",
+			"pos": "verb"
+		}
+	]
+}

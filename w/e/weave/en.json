@@ -1,0 +1,25 @@
+{
+	"word": "weave",
+	"definitions": [
+		{
+			"definition": "pattern of weaving or structure of a fabric",
+			"pos": "noun"
+		},
+		{
+			"definition": "interlace by or as if by weaving",
+			"pos": "verb"
+		},
+		{
+			"definition": "create a piece of cloth by interlacing strands of fabric, such as wool or cotton",
+			"pos": "verb"
+		},
+		{
+			"definition": "sway from side to side",
+			"pos": "verb"
+		},
+		{
+			"definition": "to move or cause to move in a sinuous, spiral, or circular course",
+			"pos": "verb"
+		}
+	]
+}

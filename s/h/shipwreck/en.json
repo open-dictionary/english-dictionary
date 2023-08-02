@@ -1,0 +1,33 @@
+{
+	"word": "shipwreck",
+	"definitions": [
+		{
+			"definition": "a wrecked ship (or a part of one)",
+			"pos": "noun"
+		},
+		{
+			"definition": "an irretrievable loss",
+			"pos": "noun"
+		},
+		{
+			"definition": "an accident that destroys a ship at sea",
+			"pos": "noun"
+		},
+		{
+			"definition": "ruin utterly",
+			"pos": "verb"
+		},
+		{
+			"definition": "suffer failure, as in some enterprise",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to experience shipwreck",
+			"pos": "verb"
+		},
+		{
+			"definition": "destroy a ship",
+			"pos": "verb"
+		}
+	]
+}

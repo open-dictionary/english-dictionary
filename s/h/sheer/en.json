@@ -1,0 +1,37 @@
+{
+	"word": "sheer",
+	"definitions": [
+		{
+			"definition": "turn sharply",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to sheer",
+			"pos": "verb"
+		},
+		{
+			"definition": "complete and without restriction or qualification",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not mixed with extraneous elements",
+			"pos": "adjective"
+		},
+		{
+			"definition": "very steep",
+			"pos": "adjective"
+		},
+		{
+			"definition": "so thin as to transmit light",
+			"pos": "adjective"
+		},
+		{
+			"definition": "straight up or down without a break",
+			"pos": "adverb"
+		},
+		{
+			"definition": "directly",
+			"pos": "adverb"
+		}
+	]
+}

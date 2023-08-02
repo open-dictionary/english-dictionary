@@ -1,0 +1,45 @@
+{
+	"word": "peg",
+	"definitions": [
+		{
+			"definition": "a wooden pin pushed or driven into a surface",
+			"pos": "noun"
+		},
+		{
+			"definition": "small markers inserted into a surface to mark scores or define locations etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "informal terms for the leg",
+			"pos": "noun"
+		},
+		{
+			"definition": "a prosthesis that replaces a missing leg",
+			"pos": "noun"
+		},
+		{
+			"definition": "regulator that can be turned to regulate the pitch of the strings of a stringed instrument",
+			"pos": "noun"
+		},
+		{
+			"definition": "a holder attached to the gunwale of a boat that holds the oar in place and acts as a fulcrum for rowing",
+			"pos": "noun"
+		},
+		{
+			"definition": "succeed in obtaining a position",
+			"pos": "verb"
+		},
+		{
+			"definition": "pierce with a wooden pin or knock or thrust a wooden pin into",
+			"pos": "verb"
+		},
+		{
+			"definition": "fasten or secure with a wooden pin",
+			"pos": "verb"
+		},
+		{
+			"definition": "stabilize (the price of a commodity or an exchange rate) by legislation or market operations",
+			"pos": "verb"
+		}
+	]
+}

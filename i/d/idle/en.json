@@ -1,0 +1,45 @@
+{
+	"word": "idle",
+	"definitions": [
+		{
+			"definition": "the state of an engine or other mechanism that is idling",
+			"pos": "noun"
+		},
+		{
+			"definition": "run disconnected or idle",
+			"pos": "verb"
+		},
+		{
+			"definition": "be idle",
+			"pos": "verb"
+		},
+		{
+			"definition": "not in action or at work",
+			"pos": "adjective"
+		},
+		{
+			"definition": "without a basis in reason or fact",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not in active use",
+			"pos": "adjective"
+		},
+		{
+			"definition": "silly or trivial",
+			"pos": "adjective"
+		},
+		{
+			"definition": "lacking a sense of restraint or responsibility",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not yielding a return",
+			"pos": "adjective"
+		},
+		{
+			"definition": "not having a job",
+			"pos": "adjective"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"word": "stage",
+	"definitions": [
+		{
+			"definition": "any distinct time period in a sequence of events",
+			"pos": "noun"
+		},
+		{
+			"definition": "a specific identifiable position in a continuum or series or especially in a process",
+			"pos": "noun"
+		},
+		{
+			"definition": "a large platform on which people can stand and can be seen by an audience",
+			"pos": "noun"
+		},
+		{
+			"definition": "the theater as a profession (usually `the stage')",
+			"pos": "noun"
+		},
+		{
+			"definition": "a large coach-and-four formerly used to carry passengers and mail on regular routes between towns",
+			"pos": "noun"
+		},
+		{
+			"definition": "a section or portion of a journey or course",
+			"pos": "noun"
+		},
+		{
+			"definition": "any scene regarded as a setting for exhibiting or doing something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small platform on a microscope where the specimen is mounted for examination",
+			"pos": "noun"
+		},
+		{
+			"definition": "perform (a play), especially on a stage",
+			"pos": "verb"
+		},
+		{
+			"definition": "plan, organize, and carry out (an event)",
+			"pos": "verb"
+		}
+	]
+}

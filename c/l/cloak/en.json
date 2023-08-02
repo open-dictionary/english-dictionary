@@ -1,0 +1,25 @@
+{
+	"word": "cloak",
+	"definitions": [
+		{
+			"definition": "anything that covers or conceals",
+			"pos": "noun"
+		},
+		{
+			"definition": "a loose outer garment",
+			"pos": "noun"
+		},
+		{
+			"definition": "hide under a false appearance",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover as if with clothing",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover with or as if with a cloak",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"word": "interpreter",
+	"definitions": [
+		{
+			"definition": "someone who mediates between speakers of different languages",
+			"pos": "noun"
+		},
+		{
+			"definition": "someone who uses art to represent something",
+			"pos": "noun"
+		},
+		{
+			"definition": "an advocate who represents someone else's policy or purpose",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a program that translates and executes source language statements one line at a time",
+			"pos": "noun"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"word": "bluster",
+	"definitions": [
+		{
+			"definition": "noisy confusion and turbulence",
+			"pos": "noun"
+		},
+		{
+			"definition": "a swaggering show of courage",
+			"pos": "noun"
+		},
+		{
+			"definition": "a violent gusty wind",
+			"pos": "noun"
+		},
+		{
+			"definition": "vain and empty boasting",
+			"pos": "noun"
+		},
+		{
+			"definition": "blow hard",
+			"pos": "verb"
+		},
+		{
+			"definition": "show off",
+			"pos": "verb"
+		},
+		{
+			"definition": "act in an arrogant, overly self-assured, or conceited manner",
+			"pos": "verb"
+		}
+	]
+}

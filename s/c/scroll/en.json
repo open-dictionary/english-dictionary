@@ -1,0 +1,17 @@
+{
+	"word": "scroll",
+	"definitions": [
+		{
+			"definition": "a round shape formed by a series of concentric circles (as formed by leaves or flower petals)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a document that can be rolled up (as for storage)",
+			"pos": "noun"
+		},
+		{
+			"definition": "move through text or graphics in order to display parts that do not fit on the screen",
+			"pos": "verb"
+		}
+	]
+}

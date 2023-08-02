@@ -1,0 +1,37 @@
+{
+	"word": "stack",
+	"definitions": [
+		{
+			"definition": "an orderly pile",
+			"pos": "noun"
+		},
+		{
+			"definition": "(often followed by `of') a large number or amount or extent",
+			"pos": "noun"
+		},
+		{
+			"definition": "a list in which the next item to be removed is the item most recently stored (LIFO)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a large tall chimney through which combustion gases and smoke can be evacuated",
+			"pos": "noun"
+		},
+		{
+			"definition": "a storage device that handles data so that the next item to be retrieved is the item most recently stored (LIFO)",
+			"pos": "noun"
+		},
+		{
+			"definition": "load or cover with stacks",
+			"pos": "verb"
+		},
+		{
+			"definition": "arrange in stacks",
+			"pos": "verb"
+		},
+		{
+			"definition": "arrange the order of so as to increase one's winning chances",
+			"pos": "verb"
+		}
+	]
+}

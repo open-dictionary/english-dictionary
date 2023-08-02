@@ -1,0 +1,21 @@
+{
+	"word": "bilge",
+	"definitions": [
+		{
+			"definition": "water accumulated in the bilge of a ship",
+			"pos": "noun"
+		},
+		{
+			"definition": "where the sides of the vessel curve in to form the bottom",
+			"pos": "noun"
+		},
+		{
+			"definition": "cause to leak",
+			"pos": "verb"
+		},
+		{
+			"definition": "take in water at the bilge",
+			"pos": "verb"
+		}
+	]
+}

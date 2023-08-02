@@ -1,0 +1,29 @@
+{
+	"word": "protest",
+	"definitions": [
+		{
+			"definition": "a formal and solemn declaration of objection",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of protesting",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of making a strong public expression of disagreement and disapproval",
+			"pos": "noun"
+		},
+		{
+			"definition": "utter words of protest",
+			"pos": "verb"
+		},
+		{
+			"definition": "express opposition through action or words",
+			"pos": "verb"
+		},
+		{
+			"definition": "affirm or avow formally or solemnly",
+			"pos": "verb"
+		}
+	]
+}

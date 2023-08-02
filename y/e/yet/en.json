@@ -1,0 +1,29 @@
+{
+	"word": "yet",
+	"definitions": [
+		{
+			"definition": "up to the present time",
+			"pos": "adverb"
+		},
+		{
+			"definition": "used in negative statement to describe a situation that has existed up to this point or up to the present time",
+			"pos": "adverb"
+		},
+		{
+			"definition": "to a greater degree or extent",
+			"pos": "adverb"
+		},
+		{
+			"definition": "within an indefinite time or at an unspecified future time",
+			"pos": "adverb"
+		},
+		{
+			"definition": "used after a superlative",
+			"pos": "adverb"
+		},
+		{
+			"definition": "despite anything to the contrary (usually preceding a concession)",
+			"pos": "adverb"
+		}
+	]
+}

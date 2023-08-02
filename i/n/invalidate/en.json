@@ -1,0 +1,21 @@
+{
+	"word": "invalidate",
+	"definitions": [
+		{
+			"definition": "declare invalid",
+			"pos": "verb"
+		},
+		{
+			"definition": "make invalid for use",
+			"pos": "verb"
+		},
+		{
+			"definition": "show to be invalid",
+			"pos": "verb"
+		},
+		{
+			"definition": "take away the legal force of or render ineffective",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"word": "abbey",
+	"definitions": [
+		{
+			"definition": "a church associated with a monastery or convent",
+			"pos": "noun"
+		},
+		{
+			"definition": "a convent ruled by an abbess",
+			"pos": "noun"
+		},
+		{
+			"definition": "a monastery ruled by an abbot",
+			"pos": "noun"
+		}
+	]
+}

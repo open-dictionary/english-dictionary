@@ -1,0 +1,21 @@
+{
+	"word": "surf",
+	"definitions": [
+		{
+			"definition": "waves breaking on the shore",
+			"pos": "noun"
+		},
+		{
+			"definition": "ride the waves of the sea with a surfboard",
+			"pos": "verb"
+		},
+		{
+			"definition": "look around casually and randomly, without seeking anything in particular",
+			"pos": "verb"
+		},
+		{
+			"definition": "switch channels, on television",
+			"pos": "verb"
+		}
+	]
+}

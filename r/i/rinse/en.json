@@ -1,0 +1,33 @@
+{
+	"word": "rinse",
+	"definitions": [
+		{
+			"definition": "a liquid preparation used on wet hair to give it a tint",
+			"pos": "noun"
+		},
+		{
+			"definition": "the removal of soap with clean water in the final stage of washing",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of giving a light tint to the hair",
+			"pos": "noun"
+		},
+		{
+			"definition": "washing lightly without soap",
+			"pos": "noun"
+		},
+		{
+			"definition": "wash off soap or remaining dirt",
+			"pos": "verb"
+		},
+		{
+			"definition": "clean with some chemical process",
+			"pos": "verb"
+		},
+		{
+			"definition": "rinse one's mouth and throat with mouthwash",
+			"pos": "verb"
+		}
+	]
+}

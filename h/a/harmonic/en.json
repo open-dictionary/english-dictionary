@@ -1,0 +1,33 @@
+{
+	"word": "harmonic",
+	"definitions": [
+		{
+			"definition": "a tone that is a component of a complex sound",
+			"pos": "noun"
+		},
+		{
+			"definition": "any of a series of musical tones whose frequencies are integral multiples of the frequency of a fundamental",
+			"pos": "noun"
+		},
+		{
+			"definition": "of or relating to harmony as distinct from melody and rhythm",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to harmonics",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to the branch of acoustics that studies the composition of musical sounds",
+			"pos": "adjective"
+		},
+		{
+			"definition": "relating to vibrations that occur as a result of vibrations in a nearby body",
+			"pos": "adjective"
+		},
+		{
+			"definition": "involving or characterized by harmony",
+			"pos": "adjective"
+		}
+	]
+}

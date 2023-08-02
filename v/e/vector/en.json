@@ -1,0 +1,21 @@
+{
+	"word": "vector",
+	"definitions": [
+		{
+			"definition": "a variable quantity that can be resolved into components",
+			"pos": "noun"
+		},
+		{
+			"definition": "a straight line segment whose length is magnitude and whose orientation in space is direction",
+			"pos": "noun"
+		},
+		{
+			"definition": "any agent (person or animal or microorganism) that carries and transmits a disease",
+			"pos": "noun"
+		},
+		{
+			"definition": "(genetics) a virus or other agent that is used to deliver DNA to a cell",
+			"pos": "noun"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"word": "dice",
+	"definitions": [
+		{
+			"definition": "a small cube with 1 to 6 spots on the six faces",
+			"pos": "noun"
+		},
+		{
+			"definition": "cut into cubes",
+			"pos": "verb"
+		},
+		{
+			"definition": "play dice",
+			"pos": "verb"
+		}
+	]
+}

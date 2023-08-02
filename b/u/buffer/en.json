@@ -1,0 +1,45 @@
+{
+	"word": "buffer",
+	"definitions": [
+		{
+			"definition": "(chemistry) an ionic compound that resists changes in its pH",
+			"pos": "noun"
+		},
+		{
+			"definition": "a neutral zone between two rival powers that is created in order to diminish the danger of conflict",
+			"pos": "noun"
+		},
+		{
+			"definition": "an inclined metal frame at the front of a locomotive to clear the track",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a part of RAM used for temporary storage of data that is waiting to be sent to a device",
+			"pos": "noun"
+		},
+		{
+			"definition": "a power tool used to buff surfaces",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cushion-like device that reduces shock due to an impact",
+			"pos": "noun"
+		},
+		{
+			"definition": "an implement consisting of soft material mounted on a block",
+			"pos": "noun"
+		},
+		{
+			"definition": "add a buffer (a solution)",
+			"pos": "verb"
+		},
+		{
+			"definition": "protect from impact",
+			"pos": "verb"
+		},
+		{
+			"definition": "of the yellowish-beige color of buff leather",
+			"pos": "adjective"
+		}
+	]
+}

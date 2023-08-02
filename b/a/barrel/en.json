@@ -1,0 +1,29 @@
+{
+	"word": "barrel",
+	"definitions": [
+		{
+			"definition": "a tube through which a bullet travels when a gun is fired",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cylindrical container that holds liquids",
+			"pos": "noun"
+		},
+		{
+			"definition": "a bulging cylindrical shape",
+			"pos": "noun"
+		},
+		{
+			"definition": "the quantity that a barrel (of any size) will hold",
+			"pos": "noun"
+		},
+		{
+			"definition": "any of various units of capacity",
+			"pos": "noun"
+		},
+		{
+			"definition": "put in barrels",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"word": "broadside",
+	"definitions": [
+		{
+			"definition": "an advertisement (usually printed on a page or in a leaflet) intended for wide distribution",
+			"pos": "noun"
+		},
+		{
+			"definition": "a speech of violent denunciation",
+			"pos": "noun"
+		},
+		{
+			"definition": "all of the armament that is fired from one side of a warship",
+			"pos": "noun"
+		},
+		{
+			"definition": "the whole side of a vessel from stem to stern",
+			"pos": "noun"
+		},
+		{
+			"definition": "the simultaneous firing of all the armament on one side of a warship",
+			"pos": "noun"
+		},
+		{
+			"definition": "collide with the broad side of",
+			"pos": "verb"
+		},
+		{
+			"definition": "toward a full side",
+			"pos": "adjective"
+		},
+		{
+			"definition": "with a side facing an object",
+			"pos": "adverb"
+		}
+	]
+}

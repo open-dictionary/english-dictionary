@@ -1,0 +1,41 @@
+{
+	"word": "size",
+	"definitions": [
+		{
+			"definition": "the physical magnitude of something (how big it is)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the property resulting from being one of a series of graduated measurements (as of clothing)",
+			"pos": "noun"
+		},
+		{
+			"definition": "any glutinous material used to fill pores in surfaces or to stiffen fabrics",
+			"pos": "noun"
+		},
+		{
+			"definition": "the actual state of affairs",
+			"pos": "noun"
+		},
+		{
+			"definition": "a large magnitude",
+			"pos": "noun"
+		},
+		{
+			"definition": "cover or stiffen or glaze a porous material with size or sizing (a glutinous substance)",
+			"pos": "verb"
+		},
+		{
+			"definition": "sort according to size",
+			"pos": "verb"
+		},
+		{
+			"definition": "make to a size",
+			"pos": "verb"
+		},
+		{
+			"definition": "(used in combination) sized",
+			"pos": "adjective"
+		}
+	]
+}

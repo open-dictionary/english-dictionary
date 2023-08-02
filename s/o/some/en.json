@@ -1,0 +1,25 @@
+{
+	"word": "some",
+	"definitions": [
+		{
+			"definition": "(quantifier) used with either mass nouns or plural count nouns to indicate an unspecified number or quantity",
+			"pos": "adjective"
+		},
+		{
+			"definition": "relatively much but unspecified in amount or extent",
+			"pos": "adjective"
+		},
+		{
+			"definition": "relatively many but unspecified in number",
+			"pos": "adjective"
+		},
+		{
+			"definition": "remarkable",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of quantities) imprecise but fairly close to correct",
+			"pos": "adverb"
+		}
+	]
+}

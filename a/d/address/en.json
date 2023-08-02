@@ -1,0 +1,77 @@
+{
+	"word": "address",
+	"definitions": [
+		{
+			"definition": "(computer science) the code that identifies where a piece of information is stored",
+			"pos": "noun"
+		},
+		{
+			"definition": "the place where a person or organization can be found or communicated with",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of delivering a formal spoken communication to an audience",
+			"pos": "noun"
+		},
+		{
+			"definition": "the manner of speaking to another individual",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sign in front of a house or business carrying the conventional form by which its location is described",
+			"pos": "noun"
+		},
+		{
+			"definition": "written directions for finding some location",
+			"pos": "noun"
+		},
+		{
+			"definition": "the stance assumed by a golfer in preparation for hitting a golf ball",
+			"pos": "noun"
+		},
+		{
+			"definition": "social skill",
+			"pos": "noun"
+		},
+		{
+			"definition": "speak to",
+			"pos": "verb"
+		},
+		{
+			"definition": "give a speech to",
+			"pos": "verb"
+		},
+		{
+			"definition": "put an address on (an envelope)",
+			"pos": "verb"
+		},
+		{
+			"definition": "direct a question at someone",
+			"pos": "verb"
+		},
+		{
+			"definition": "address or apply oneself to something, direct one's efforts towards something, such as a question",
+			"pos": "verb"
+		},
+		{
+			"definition": "greet, as with a prescribed form, title, or name",
+			"pos": "verb"
+		},
+		{
+			"definition": "access or locate by address",
+			"pos": "verb"
+		},
+		{
+			"definition": "act on verbally or in some form of artistic expression",
+			"pos": "verb"
+		},
+		{
+			"definition": "speak to someone",
+			"pos": "verb"
+		},
+		{
+			"definition": "adjust and aim (a golf ball) at in preparation of hitting",
+			"pos": "verb"
+		}
+	]
+}

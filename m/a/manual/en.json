@@ -1,0 +1,25 @@
+{
+	"word": "manual",
+	"definitions": [
+		{
+			"definition": "a small handbook",
+			"pos": "noun"
+		},
+		{
+			"definition": "(military) a prescribed drill in handling a rifle",
+			"pos": "noun"
+		},
+		{
+			"definition": "of or relating to the hands",
+			"pos": "adjective"
+		},
+		{
+			"definition": "requiring human effort",
+			"pos": "adjective"
+		},
+		{
+			"definition": "doing or requiring physical work",
+			"pos": "adjective"
+		}
+	]
+}

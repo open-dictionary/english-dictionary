@@ -1,0 +1,21 @@
+{
+	"word": "converge",
+	"definitions": [
+		{
+			"definition": "be adjacent or come together",
+			"pos": "verb"
+		},
+		{
+			"definition": "approach a limit as the number of terms increases without limit",
+			"pos": "verb"
+		},
+		{
+			"definition": "move or draw together at a certain location",
+			"pos": "verb"
+		},
+		{
+			"definition": "come together so as to form a single product",
+			"pos": "verb"
+		}
+	]
+}

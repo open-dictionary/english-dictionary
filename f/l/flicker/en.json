@@ -1,0 +1,29 @@
+{
+	"word": "flicker",
+	"definitions": [
+		{
+			"definition": "a momentary flash of light",
+			"pos": "noun"
+		},
+		{
+			"definition": "North American woodpecker",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of moving back and forth",
+			"pos": "noun"
+		},
+		{
+			"definition": "move back and forth very rapidly",
+			"pos": "verb"
+		},
+		{
+			"definition": "shine unsteadily",
+			"pos": "verb"
+		},
+		{
+			"definition": "flash intermittently",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"word": "maximas",
+	"definitions": [
+		{
+			"definition": "the largest possible quantity",
+			"pos": "noun"
+		},
+		{
+			"definition": "the greatest possible degree",
+			"pos": "noun"
+		},
+		{
+			"definition": "the point on a curve where the tangent changes from positive on the left to negative on the right",
+			"pos": "noun"
+		}
+	]
+}

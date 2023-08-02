@@ -1,0 +1,45 @@
+{
+	"word": "dim",
+	"definitions": [
+		{
+			"definition": "switch (a car's headlights) from a higher to a lower beam",
+			"pos": "verb"
+		},
+		{
+			"definition": "become dim or lusterless",
+			"pos": "verb"
+		},
+		{
+			"definition": "make dim or lusterless",
+			"pos": "verb"
+		},
+		{
+			"definition": "make dim by comparison or conceal",
+			"pos": "verb"
+		},
+		{
+			"definition": "become vague or indistinct",
+			"pos": "verb"
+		},
+		{
+			"definition": "lacking in light",
+			"pos": "adjective"
+		},
+		{
+			"definition": "lacking clarity or distinctness",
+			"pos": "adjective"
+		},
+		{
+			"definition": "made dim or less bright",
+			"pos": "adjective"
+		},
+		{
+			"definition": "offering little or no hope",
+			"pos": "adjective"
+		},
+		{
+			"definition": "slow to learn or understand",
+			"pos": "adjective"
+		}
+	]
+}

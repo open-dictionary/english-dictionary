@@ -1,0 +1,29 @@
+{
+	"word": "accretion",
+	"definitions": [
+		{
+			"definition": "an increase by natural growth or addition",
+			"pos": "noun"
+		},
+		{
+			"definition": "something contributing to growth or increase",
+			"pos": "noun"
+		},
+		{
+			"definition": "(astronomy) the formation of a celestial object by the effect of gravity pulling together surrounding objects and gases",
+			"pos": "noun"
+		},
+		{
+			"definition": "(biology) growth by addition as by the adhesion of parts or particles",
+			"pos": "noun"
+		},
+		{
+			"definition": "(geology) an increase in land resulting from alluvial deposits or waterborne sediment",
+			"pos": "noun"
+		},
+		{
+			"definition": "(law) an increase in a beneficiary's share in an estate (as when a co-beneficiary dies or fails to meet some condition or rejects the inheritance)",
+			"pos": "noun"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "paper",
+	"definitions": [
+		{
+			"definition": "a material made of cellulose pulp derived mainly from wood or rags or certain grasses",
+			"pos": "noun"
+		},
+		{
+			"definition": "an essay (especially one written as an assignment)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a daily or weekly publication on folded sheets",
+			"pos": "noun"
+		},
+		{
+			"definition": "a medium for written communication",
+			"pos": "noun"
+		},
+		{
+			"definition": "a scholarly article describing the results of observations or stating hypotheses",
+			"pos": "noun"
+		},
+		{
+			"definition": "a business firm that publishes newspapers",
+			"pos": "noun"
+		},
+		{
+			"definition": "the physical object that is the product of a newspaper publisher",
+			"pos": "noun"
+		},
+		{
+			"definition": "cover with paper",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover with wallpaper",
+			"pos": "verb"
+		}
+	]
+}

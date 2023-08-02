@@ -1,0 +1,37 @@
+{
+	"word": "overcast",
+	"definitions": [
+		{
+			"definition": "the state of the sky when it is covered by clouds",
+			"pos": "noun"
+		},
+		{
+			"definition": "gloomy semidarkness caused by cloud cover",
+			"pos": "noun"
+		},
+		{
+			"definition": "a long whipstitch or overhand stitch overlying an edge to prevent raveling",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cast that falls beyond the intended spot",
+			"pos": "noun"
+		},
+		{
+			"definition": "make overcast or cloudy",
+			"pos": "verb"
+		},
+		{
+			"definition": "sew over the edge of with long slanting wide stitches",
+			"pos": "verb"
+		},
+		{
+			"definition": "sew with an overcast stitch from one section to the next",
+			"pos": "verb"
+		},
+		{
+			"definition": "filled or abounding with clouds",
+			"pos": "adjective"
+		}
+	]
+}

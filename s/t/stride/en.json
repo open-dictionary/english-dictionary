@@ -1,0 +1,25 @@
+{
+	"word": "stride",
+	"definitions": [
+		{
+			"definition": "a step in walking or running",
+			"pos": "noun"
+		},
+		{
+			"definition": "the distance covered by a step",
+			"pos": "noun"
+		},
+		{
+			"definition": "significant progress (especially in the phrase `make strides')",
+			"pos": "noun"
+		},
+		{
+			"definition": "walk with long steps",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover or traverse by taking long steps",
+			"pos": "verb"
+		}
+	]
+}

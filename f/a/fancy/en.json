@@ -1,0 +1,29 @@
+{
+	"word": "fancy",
+	"definitions": [
+		{
+			"definition": "something many people believe that is false",
+			"pos": "noun"
+		},
+		{
+			"definition": "imagination or fantasy",
+			"pos": "noun"
+		},
+		{
+			"definition": "a predisposition to like something",
+			"pos": "noun"
+		},
+		{
+			"definition": "imagine",
+			"pos": "verb"
+		},
+		{
+			"definition": "have a fancy or particular liking or desire for",
+			"pos": "verb"
+		},
+		{
+			"definition": "not plain",
+			"pos": "adjective"
+		}
+	]
+}

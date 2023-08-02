@@ -1,0 +1,33 @@
+{
+	"word": "deck",
+	"definitions": [
+		{
+			"definition": "any of various platforms built into a vessel",
+			"pos": "noun"
+		},
+		{
+			"definition": "street name for a packet of illegal drugs",
+			"pos": "noun"
+		},
+		{
+			"definition": "a pack of 52 playing cards",
+			"pos": "noun"
+		},
+		{
+			"definition": "a porch that resembles the deck on a ship",
+			"pos": "noun"
+		},
+		{
+			"definition": "be beautiful to look at",
+			"pos": "verb"
+		},
+		{
+			"definition": "decorate",
+			"pos": "verb"
+		},
+		{
+			"definition": "knock down with force",
+			"pos": "verb"
+		}
+	]
+}

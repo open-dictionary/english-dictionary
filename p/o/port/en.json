@@ -1,0 +1,61 @@
+{
+	"word": "port",
+	"definitions": [
+		{
+			"definition": "a place (seaport or airport) where people and merchandise can enter or leave a country",
+			"pos": "noun"
+		},
+		{
+			"definition": "sweet dark-red dessert wine originally from Portugal",
+			"pos": "noun"
+		},
+		{
+			"definition": "an opening (in a wall or ship or armored vehicle) for firing through",
+			"pos": "noun"
+		},
+		{
+			"definition": "the left side of a ship or aircraft to someone who is aboard and facing the bow or nose",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) computer circuit consisting of the hardware and associated circuitry that links one device with another (especially a computer and a hard disk drive or other peripherals)",
+			"pos": "noun"
+		},
+		{
+			"definition": "put or turn on the left side, of a ship",
+			"pos": "verb"
+		},
+		{
+			"definition": "bring to port",
+			"pos": "verb"
+		},
+		{
+			"definition": "land at or reach a port",
+			"pos": "verb"
+		},
+		{
+			"definition": "turn or go to the port or left side, of a ship",
+			"pos": "verb"
+		},
+		{
+			"definition": "carry, bear, convey, or bring",
+			"pos": "verb"
+		},
+		{
+			"definition": "carry or hold with both hands diagonally across the body, especially of weapons",
+			"pos": "verb"
+		},
+		{
+			"definition": "drink port",
+			"pos": "verb"
+		},
+		{
+			"definition": "modify (software) for use on a different machine or platform",
+			"pos": "verb"
+		},
+		{
+			"definition": "located on the left side of a ship or aircraft",
+			"pos": "adjective"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "plane",
+	"definitions": [
+		{
+			"definition": "an aircraft that has a fixed wing and is powered by propellers or jets",
+			"pos": "noun"
+		},
+		{
+			"definition": "(mathematics) an unbounded two-dimensional shape",
+			"pos": "noun"
+		},
+		{
+			"definition": "a level of existence or development",
+			"pos": "noun"
+		},
+		{
+			"definition": "a power tool for smoothing or shaping wood",
+			"pos": "noun"
+		},
+		{
+			"definition": "a carpenter's hand tool with an adjustable blade for smoothing or shaping wood",
+			"pos": "noun"
+		},
+		{
+			"definition": "cut or remove with or as if with a plane",
+			"pos": "verb"
+		},
+		{
+			"definition": "travel on the surface of water",
+			"pos": "verb"
+		},
+		{
+			"definition": "make even or smooth, with or as with a carpenter's plane",
+			"pos": "verb"
+		},
+		{
+			"definition": "having a surface without slope, tilt in which no part is higher or lower than another",
+			"pos": "adjective"
+		}
+	]
+}

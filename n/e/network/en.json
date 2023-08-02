@@ -1,0 +1,29 @@
+{
+	"word": "network",
+	"definitions": [
+		{
+			"definition": "an interconnected system of things or people",
+			"pos": "noun"
+		},
+		{
+			"definition": "(broadcasting) a communication system consisting of a group of broadcasting stations that all transmit the same programs",
+			"pos": "noun"
+		},
+		{
+			"definition": "an open fabric of string or rope or wire woven together at regular intervals",
+			"pos": "noun"
+		},
+		{
+			"definition": "a system of intersecting lines or channels",
+			"pos": "noun"
+		},
+		{
+			"definition": "(electronics) a system of interconnected electronic components or circuits",
+			"pos": "noun"
+		},
+		{
+			"definition": "communicate with and within a group",
+			"pos": "verb"
+		}
+	]
+}

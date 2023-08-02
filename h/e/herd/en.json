@@ -1,0 +1,29 @@
+{
+	"word": "herd",
+	"definitions": [
+		{
+			"definition": "a group of cattle or sheep or other domestic mammals all of the same kind that are herded by humans",
+			"pos": "noun"
+		},
+		{
+			"definition": "a group of wild mammals of one species that remain together: antelope or elephants or seals or whales or zebra",
+			"pos": "noun"
+		},
+		{
+			"definition": "a crowd especially of ordinary or undistinguished persons or things",
+			"pos": "noun"
+		},
+		{
+			"definition": "cause to herd, drive, or crowd together",
+			"pos": "verb"
+		},
+		{
+			"definition": "move together, like a herd",
+			"pos": "verb"
+		},
+		{
+			"definition": "keep, move, or drive animals",
+			"pos": "verb"
+		}
+	]
+}

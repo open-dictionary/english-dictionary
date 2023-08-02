@@ -1,0 +1,21 @@
+{
+	"word": "buoy",
+	"definitions": [
+		{
+			"definition": "bright-colored",
+			"pos": "noun"
+		},
+		{
+			"definition": "float on the surface of water",
+			"pos": "verb"
+		},
+		{
+			"definition": "keep afloat",
+			"pos": "verb"
+		},
+		{
+			"definition": "mark with a buoy",
+			"pos": "verb"
+		}
+	]
+}

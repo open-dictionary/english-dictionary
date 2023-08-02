@@ -1,0 +1,25 @@
+{
+	"word": "logic",
+	"definitions": [
+		{
+			"definition": "the branch of philosophy that analyzes inference",
+			"pos": "noun"
+		},
+		{
+			"definition": "reasoned and reasonable judgment",
+			"pos": "noun"
+		},
+		{
+			"definition": "the principles that guide reasoning within a given field or situation",
+			"pos": "noun"
+		},
+		{
+			"definition": "the system of operations performed by a computer that underlies the machine's representation of logical operations",
+			"pos": "noun"
+		},
+		{
+			"definition": "a system of reasoning",
+			"pos": "noun"
+		}
+	]
+}

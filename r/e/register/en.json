@@ -1,0 +1,73 @@
+{
+	"word": "register",
+	"definitions": [
+		{
+			"definition": "an official written record of names or events or transactions",
+			"pos": "noun"
+		},
+		{
+			"definition": "(music) the timbre that is characteristic of a certain range and manner of production of the human voice or of different pipe organ stops or of different musical instruments",
+			"pos": "noun"
+		},
+		{
+			"definition": "a book in which names and transactions are listed",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) memory device that is the part of computer memory that has a specific address and that is used to hold information of a specific kind",
+			"pos": "noun"
+		},
+		{
+			"definition": "an air passage (usually in the floor or a wall of a room) for admitting or excluding heated air from the room",
+			"pos": "noun"
+		},
+		{
+			"definition": "a regulator (as a sliding plate) for regulating the flow of air into a furnace or other heating device",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cashbox with an adding machine to register transactions",
+			"pos": "noun"
+		},
+		{
+			"definition": "record in writing",
+			"pos": "verb"
+		},
+		{
+			"definition": "record in a public office or in a court of law",
+			"pos": "verb"
+		},
+		{
+			"definition": "enroll to vote",
+			"pos": "verb"
+		},
+		{
+			"definition": "be aware of",
+			"pos": "verb"
+		},
+		{
+			"definition": "indicate a certain reading",
+			"pos": "verb"
+		},
+		{
+			"definition": "have one's name listed as a candidate for several parties",
+			"pos": "verb"
+		},
+		{
+			"definition": "show in one's face",
+			"pos": "verb"
+		},
+		{
+			"definition": "manipulate the registers of an organ",
+			"pos": "verb"
+		},
+		{
+			"definition": "send by registered mail",
+			"pos": "verb"
+		},
+		{
+			"definition": "enter into someone's consciousness",
+			"pos": "verb"
+		}
+	]
+}

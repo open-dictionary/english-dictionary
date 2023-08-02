@@ -1,0 +1,25 @@
+{
+	"word": "prompting",
+	"definitions": [
+		{
+			"definition": "persuasion formulated as a suggestion",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cue given to a performer (usually the beginning of the next line to be spoken)",
+			"pos": "noun"
+		},
+		{
+			"definition": "give an incentive for action",
+			"pos": "verb"
+		},
+		{
+			"definition": "serve as the inciting cause of",
+			"pos": "verb"
+		},
+		{
+			"definition": "assist (somebody acting or reciting) by suggesting the next words of something forgotten or imperfectly learned",
+			"pos": "verb"
+		}
+	]
+}

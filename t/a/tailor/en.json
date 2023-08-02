@@ -1,0 +1,21 @@
+{
+	"word": "tailor",
+	"definitions": [
+		{
+			"definition": "a person whose occupation is making and altering garments",
+			"pos": "noun"
+		},
+		{
+			"definition": "adjust to a specific need or market",
+			"pos": "verb"
+		},
+		{
+			"definition": "style and tailor in a certain fashion",
+			"pos": "verb"
+		},
+		{
+			"definition": "create (clothes) with cloth",
+			"pos": "verb"
+		}
+	]
+}

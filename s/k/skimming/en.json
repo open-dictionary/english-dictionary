@@ -1,0 +1,49 @@
+{
+	"word": "skimming",
+	"definitions": [
+		{
+			"definition": "the act of removing floating material from the surface of a liquid",
+			"pos": "noun"
+		},
+		{
+			"definition": "reading or glancing through quickly",
+			"pos": "noun"
+		},
+		{
+			"definition": "failure to declare income in order to avoid paying taxes on it",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of brushing against while passing",
+			"pos": "noun"
+		},
+		{
+			"definition": "travel on the surface of water",
+			"pos": "verb"
+		},
+		{
+			"definition": "move or pass swiftly and lightly over the surface of",
+			"pos": "verb"
+		},
+		{
+			"definition": "examine hastily",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to skip over a surface",
+			"pos": "verb"
+		},
+		{
+			"definition": "coat (a liquid) with a layer",
+			"pos": "verb"
+		},
+		{
+			"definition": "remove from the surface",
+			"pos": "verb"
+		},
+		{
+			"definition": "read superficially",
+			"pos": "verb"
+		}
+	]
+}

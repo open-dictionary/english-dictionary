@@ -1,0 +1,53 @@
+{
+	"word": "flight",
+	"definitions": [
+		{
+			"definition": "a formation of aircraft in flight",
+			"pos": "noun"
+		},
+		{
+			"definition": "an instance of traveling by air",
+			"pos": "noun"
+		},
+		{
+			"definition": "a stairway (set of steps) between one floor or landing and the next",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of escaping physically",
+			"pos": "noun"
+		},
+		{
+			"definition": "an air force unit smaller than a squadron",
+			"pos": "noun"
+		},
+		{
+			"definition": "passing above and beyond ordinary bounds",
+			"pos": "noun"
+		},
+		{
+			"definition": "the path followed by an object moving through space",
+			"pos": "noun"
+		},
+		{
+			"definition": "a flock of flying birds",
+			"pos": "noun"
+		},
+		{
+			"definition": "a scheduled trip by plane between designated airports",
+			"pos": "noun"
+		},
+		{
+			"definition": "shoot a bird in flight",
+			"pos": "verb"
+		},
+		{
+			"definition": "fly in a flock",
+			"pos": "verb"
+		},
+		{
+			"definition": "decorate with feathers",
+			"pos": "verb"
+		}
+	]
+}

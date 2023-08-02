@@ -1,0 +1,33 @@
+{
+	"word": "roman",
+	"definitions": [
+		{
+			"definition": "a resident of modern Rome",
+			"pos": "noun"
+		},
+		{
+			"definition": "an inhabitant of the ancient Roman Empire",
+			"pos": "noun"
+		},
+		{
+			"definition": "a typeface used in ancient Roman inscriptions",
+			"pos": "noun"
+		},
+		{
+			"definition": "relating to or characteristic of people of Rome",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to or derived from Rome (especially ancient Rome)",
+			"pos": "adjective"
+		},
+		{
+			"definition": "characteristic of the modern type that most directly represents the type used in ancient Roman inscriptions",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to or supporting Romanism",
+			"pos": "adjective"
+		}
+	]
+}

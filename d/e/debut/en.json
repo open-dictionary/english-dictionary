@@ -1,0 +1,25 @@
+{
+	"word": "debut",
+	"definitions": [
+		{
+			"definition": "the act of beginning something new",
+			"pos": "noun"
+		},
+		{
+			"definition": "the presentation of a debutante in society",
+			"pos": "noun"
+		},
+		{
+			"definition": "present for the first time to the public",
+			"pos": "verb"
+		},
+		{
+			"definition": "appear for the first time in public",
+			"pos": "verb"
+		},
+		{
+			"definition": "make one's debut",
+			"pos": "verb"
+		}
+	]
+}

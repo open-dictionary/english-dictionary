@@ -1,0 +1,41 @@
+{
+	"word": "security",
+	"definitions": [
+		{
+			"definition": "the state of being free from danger or injury",
+			"pos": "noun"
+		},
+		{
+			"definition": "defense against financial failure",
+			"pos": "noun"
+		},
+		{
+			"definition": "freedom from anxiety or fear",
+			"pos": "noun"
+		},
+		{
+			"definition": "a formal declaration that documents a fact of relevance to finance and investment",
+			"pos": "noun"
+		},
+		{
+			"definition": "property that your creditor can claim in case you default on your obligation",
+			"pos": "noun"
+		},
+		{
+			"definition": "a department responsible for the security of the institution's property and workers",
+			"pos": "noun"
+		},
+		{
+			"definition": "a guarantee that an obligation will be met",
+			"pos": "noun"
+		},
+		{
+			"definition": "an electrical device that sets off an alarm when someone tries to break in",
+			"pos": "noun"
+		},
+		{
+			"definition": "measures taken as a precaution against theft or espionage or sabotage etc.",
+			"pos": "noun"
+		}
+	]
+}

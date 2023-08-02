@@ -1,0 +1,33 @@
+{
+	"word": "ticket",
+	"definitions": [
+		{
+			"definition": "a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a label written or printed on paper, cardboard, or plastic that is attached to something to indicate its owner, nature, price, etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "a summons issued to an offender (especially to someone who violates a traffic regulation)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a list of candidates nominated by a political party to run for election to public offices",
+			"pos": "noun"
+		},
+		{
+			"definition": "the appropriate or desirable thing",
+			"pos": "noun"
+		},
+		{
+			"definition": "issue a ticket or a fine to as a penalty",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide with a ticket for passage or admission",
+			"pos": "verb"
+		}
+	]
+}

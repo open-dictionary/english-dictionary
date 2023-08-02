@@ -1,0 +1,25 @@
+{
+	"word": "furrow",
+	"definitions": [
+		{
+			"definition": "a long shallow trench in the ground (especially one made by a plow)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a slight depression or fold in the smoothness of a surface",
+			"pos": "noun"
+		},
+		{
+			"definition": "hollow out in the form of a furrow or groove",
+			"pos": "verb"
+		},
+		{
+			"definition": "make wrinkled or creased",
+			"pos": "verb"
+		},
+		{
+			"definition": "cut a furrow into a columns",
+			"pos": "verb"
+		}
+	]
+}

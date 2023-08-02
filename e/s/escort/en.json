@@ -1,0 +1,29 @@
+{
+	"word": "escort",
+	"definitions": [
+		{
+			"definition": "someone who escorts and protects a prominent person",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of accompanying someone or something in order to protect them",
+			"pos": "noun"
+		},
+		{
+			"definition": "an attendant who is employed to accompany someone",
+			"pos": "noun"
+		},
+		{
+			"definition": "a participant in a date",
+			"pos": "noun"
+		},
+		{
+			"definition": "accompany as an escort",
+			"pos": "verb"
+		},
+		{
+			"definition": "accompany or escort",
+			"pos": "verb"
+		}
+	]
+}

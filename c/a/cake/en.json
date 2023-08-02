@@ -1,0 +1,21 @@
+{
+	"word": "cake",
+	"definitions": [
+		{
+			"definition": "a block of solid substance (such as soap or wax)",
+			"pos": "noun"
+		},
+		{
+			"definition": "small flat mass of chopped food",
+			"pos": "noun"
+		},
+		{
+			"definition": "baked goods made from or based on a mixture of flour, sugar, eggs, and fat",
+			"pos": "noun"
+		},
+		{
+			"definition": "form a coat over",
+			"pos": "verb"
+		}
+	]
+}

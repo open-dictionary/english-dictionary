@@ -1,0 +1,33 @@
+{
+	"word": "gold",
+	"definitions": [
+		{
+			"definition": "coins made of gold",
+			"pos": "noun"
+		},
+		{
+			"definition": "a deep yellow color",
+			"pos": "noun"
+		},
+		{
+			"definition": "a soft yellow malleable ductile (trivalent and univalent) metallic element",
+			"pos": "noun"
+		},
+		{
+			"definition": "great wealth",
+			"pos": "noun"
+		},
+		{
+			"definition": "something likened to the metal in brightness or preciousness or superiority etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "made from or covered with gold",
+			"pos": "adjective"
+		},
+		{
+			"definition": "having the deep slightly brownish color of gold",
+			"pos": "adjective"
+		}
+	]
+}

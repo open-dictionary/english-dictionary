@@ -1,0 +1,29 @@
+{
+	"word": "silence",
+	"definitions": [
+		{
+			"definition": "the state of being silent (as when no one is speaking)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the absence of sound",
+			"pos": "noun"
+		},
+		{
+			"definition": "a refusal to speak when expected",
+			"pos": "noun"
+		},
+		{
+			"definition": "the trait of keeping things secret",
+			"pos": "noun"
+		},
+		{
+			"definition": "cause to be quiet or not talk",
+			"pos": "verb"
+		},
+		{
+			"definition": "keep from expression, for example by threats or pressure",
+			"pos": "verb"
+		}
+	]
+}

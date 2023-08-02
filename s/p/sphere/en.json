@@ -1,0 +1,33 @@
+{
+	"word": "sphere",
+	"definitions": [
+		{
+			"definition": "a particular environment or walk of life",
+			"pos": "noun"
+		},
+		{
+			"definition": "any spherically shaped artifact",
+			"pos": "noun"
+		},
+		{
+			"definition": "the geographical area in which one nation is very influential",
+			"pos": "noun"
+		},
+		{
+			"definition": "a particular aspect of life or activity",
+			"pos": "noun"
+		},
+		{
+			"definition": "a solid figure bounded by a spherical surface (including the space it encloses)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a three-dimensional closed surface such that every point on the surface is equidistant from the center",
+			"pos": "noun"
+		},
+		{
+			"definition": "the apparent surface of the imaginary sphere on which celestial bodies appear to be projected",
+			"pos": "noun"
+		}
+	]
+}

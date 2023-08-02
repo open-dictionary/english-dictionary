@@ -1,0 +1,21 @@
+{
+	"word": "redundancy",
+	"definitions": [
+		{
+			"definition": "repetition of messages to reduce the probability of errors in transmission",
+			"pos": "noun"
+		},
+		{
+			"definition": "the attribute of being superfluous and unneeded",
+			"pos": "noun"
+		},
+		{
+			"definition": "(electronics) a system design that duplicates components to provide alternatives in case one component fails",
+			"pos": "noun"
+		},
+		{
+			"definition": "repetition of an act needlessly",
+			"pos": "noun"
+		}
+	]
+}

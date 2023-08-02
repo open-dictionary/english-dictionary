@@ -1,0 +1,33 @@
+{
+	"word": "nominal",
+	"definitions": [
+		{
+			"definition": "a phrase that can function as the subject or object of a verb",
+			"pos": "noun"
+		},
+		{
+			"definition": "relating to or constituting or bearing or giving a name",
+			"pos": "adjective"
+		},
+		{
+			"definition": "insignificantly small",
+			"pos": "adjective"
+		},
+		{
+			"definition": "pertaining to a noun or to a word group that functions as a noun",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of, relating to, or characteristic of an amount that is not adjusted for inflation",
+			"pos": "adjective"
+		},
+		{
+			"definition": "named",
+			"pos": "adjective"
+		},
+		{
+			"definition": "existing in name only",
+			"pos": "adjective"
+		}
+	]
+}

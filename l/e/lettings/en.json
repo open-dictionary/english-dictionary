@@ -1,0 +1,33 @@
+{
+	"word": "lettings",
+	"definitions": [
+		{
+			"definition": "property that is leased or rented out or let",
+			"pos": "noun"
+		},
+		{
+			"definition": "make it possible through a specific action or lack of action for something to happen",
+			"pos": "verb"
+		},
+		{
+			"definition": "actively cause something to happen",
+			"pos": "verb"
+		},
+		{
+			"definition": "consent to, give permission",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to move",
+			"pos": "verb"
+		},
+		{
+			"definition": "leave unchanged",
+			"pos": "verb"
+		},
+		{
+			"definition": "grant use or occupation of under a term of contract",
+			"pos": "verb"
+		}
+	]
+}

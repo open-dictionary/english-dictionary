@@ -1,0 +1,49 @@
+{
+	"word": "claim",
+	"definitions": [
+		{
+			"definition": "an assertion of a right (as to money or property)",
+			"pos": "noun"
+		},
+		{
+			"definition": "an assertion that something is true or factual",
+			"pos": "noun"
+		},
+		{
+			"definition": "demand for something as rightful or due",
+			"pos": "noun"
+		},
+		{
+			"definition": "an informal right to something",
+			"pos": "noun"
+		},
+		{
+			"definition": "an established or recognized right",
+			"pos": "noun"
+		},
+		{
+			"definition": "a demand especially in the phrase \"the call of duty\"",
+			"pos": "noun"
+		},
+		{
+			"definition": "assert or affirm strongly",
+			"pos": "verb"
+		},
+		{
+			"definition": "demand as being one's due or property",
+			"pos": "verb"
+		},
+		{
+			"definition": "ask for legally or make a legal claim to, as of debts, for example",
+			"pos": "verb"
+		},
+		{
+			"definition": "lay claim to",
+			"pos": "verb"
+		},
+		{
+			"definition": "take as an undesirable consequence of some event or state of affairs",
+			"pos": "verb"
+		}
+	]
+}

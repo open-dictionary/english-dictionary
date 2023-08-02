@@ -1,0 +1,33 @@
+{
+	"word": "native",
+	"definitions": [
+		{
+			"definition": "an indigenous person who was born in a particular place",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person born in a particular place or country",
+			"pos": "noun"
+		},
+		{
+			"definition": "indigenous plants and animals",
+			"pos": "noun"
+		},
+		{
+			"definition": "characteristic of or existing by virtue of geographic origin",
+			"pos": "adjective"
+		},
+		{
+			"definition": "belonging to one by birth",
+			"pos": "adjective"
+		},
+		{
+			"definition": "characteristic of or relating to people inhabiting a region from the beginning",
+			"pos": "adjective"
+		},
+		{
+			"definition": "as found in nature in the elemental form",
+			"pos": "adjective"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"word": "inside",
+	"definitions": [
+		{
+			"definition": "the region that is inside of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "the inner or enclosed surface of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "relating to or being on the side closer to the center or within a defined space",
+			"pos": "adjective"
+		},
+		{
+			"definition": "being or applying to the inside of a building",
+			"pos": "adjective"
+		},
+		{
+			"definition": "confined to an exclusive group",
+			"pos": "adjective"
+		},
+		{
+			"definition": "away from the outer edge",
+			"pos": "adjective"
+		},
+		{
+			"definition": "within a building",
+			"pos": "adverb"
+		},
+		{
+			"definition": "on the inside",
+			"pos": "adverb"
+		},
+		{
+			"definition": "with respect to private feelings",
+			"pos": "adverb"
+		},
+		{
+			"definition": "in reality",
+			"pos": "adverb"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"word": "lockes",
+	"definitions": [
+		{
+			"definition": "English empiricist philosopher who believed that all knowledge is derived from sensory experience (1632-1704)",
+			"pos": "noun"
+		},
+		{
+			"definition": "fasten with a lock",
+			"pos": "verb"
+		},
+		{
+			"definition": "keep engaged",
+			"pos": "verb"
+		},
+		{
+			"definition": "become rigid or immoveable",
+			"pos": "verb"
+		},
+		{
+			"definition": "hold in a locking position",
+			"pos": "verb"
+		},
+		{
+			"definition": "become engaged or intermeshed with one another",
+			"pos": "verb"
+		},
+		{
+			"definition": "hold fast (in a certain state)",
+			"pos": "verb"
+		},
+		{
+			"definition": "place in a place where something cannot be removed or someone cannot escape",
+			"pos": "verb"
+		},
+		{
+			"definition": "pass by means through a lock in a waterway",
+			"pos": "verb"
+		},
+		{
+			"definition": "build locks in order to facilitate the navigation of vessels",
+			"pos": "verb"
+		}
+	]
+}

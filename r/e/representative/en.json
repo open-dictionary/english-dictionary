@@ -1,0 +1,33 @@
+{
+	"word": "representative",
+	"definitions": [
+		{
+			"definition": "a person who represents others",
+			"pos": "noun"
+		},
+		{
+			"definition": "an advocate who represents someone else's policy or purpose",
+			"pos": "noun"
+		},
+		{
+			"definition": "a member of the United States House of Representatives",
+			"pos": "noun"
+		},
+		{
+			"definition": "an item of information that is typical of a class or group",
+			"pos": "noun"
+		},
+		{
+			"definition": "serving to represent or typify",
+			"pos": "adjective"
+		},
+		{
+			"definition": "standing for something else",
+			"pos": "adjective"
+		},
+		{
+			"definition": "being or characteristic of government by representation in which citizens exercise power through elected officers and representatives",
+			"pos": "adjective"
+		}
+	]
+}

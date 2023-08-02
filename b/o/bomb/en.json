@@ -1,0 +1,25 @@
+{
+	"word": "bomb",
+	"definitions": [
+		{
+			"definition": "an explosive device fused to explode under specific conditions",
+			"pos": "noun"
+		},
+		{
+			"definition": "strong sealed vessel for measuring heat of combustion",
+			"pos": "noun"
+		},
+		{
+			"definition": "an event that fails badly or is totally ineffectual",
+			"pos": "noun"
+		},
+		{
+			"definition": "throw bombs at or attack with bombs",
+			"pos": "verb"
+		},
+		{
+			"definition": "fail to get a passing grade",
+			"pos": "verb"
+		}
+	]
+}

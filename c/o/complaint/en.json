@@ -1,0 +1,25 @@
+{
+	"word": "complaint",
+	"definitions": [
+		{
+			"definition": "an often persistent bodily disorder or disease",
+			"pos": "noun"
+		},
+		{
+			"definition": "(formerly) a loud cry (or repeated cries) of pain or rage or sorrow",
+			"pos": "noun"
+		},
+		{
+			"definition": "an expression of grievance or resentment",
+			"pos": "noun"
+		},
+		{
+			"definition": "(civil law) the first pleading of the plaintiff setting out the facts on which the claim for relief is based",
+			"pos": "noun"
+		},
+		{
+			"definition": "(criminal law) a pleading describing some wrong or offense",
+			"pos": "noun"
+		}
+	]
+}

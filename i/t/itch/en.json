@@ -1,0 +1,33 @@
+{
+	"word": "itch",
+	"definitions": [
+		{
+			"definition": "a contagious skin infection caused by the itch mite",
+			"pos": "noun"
+		},
+		{
+			"definition": "a strong restless desire",
+			"pos": "noun"
+		},
+		{
+			"definition": "an irritating cutaneous sensation that produces a desire to scratch",
+			"pos": "noun"
+		},
+		{
+			"definition": "scrape or rub as if to relieve itching",
+			"pos": "verb"
+		},
+		{
+			"definition": "have or perceive an itch",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to perceive an itch",
+			"pos": "verb"
+		},
+		{
+			"definition": "have a strong desire or urge to do something",
+			"pos": "verb"
+		}
+	]
+}

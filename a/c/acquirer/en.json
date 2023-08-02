@@ -1,0 +1,21 @@
+{
+	"word": "acquirer",
+	"definitions": [
+		{
+			"definition": "a person who acquires something (usually permanently)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a corporation gaining financial control over another corporation or financial institution through a payment in cash or an exchange of stock",
+			"pos": "noun"
+		},
+		{
+			"definition": "the financial institution that dispenses cash in automated teller machines and collects a fee from the bank that issued the credit card",
+			"pos": "noun"
+		},
+		{
+			"definition": "a credit card processing bank",
+			"pos": "noun"
+		}
+	]
+}

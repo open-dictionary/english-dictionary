@@ -1,0 +1,13 @@
+{
+	"word": "lexicon",
+	"definitions": [
+		{
+			"definition": "a language user's knowledge of words",
+			"pos": "noun"
+		},
+		{
+			"definition": "a reference book containing an alphabetical list of words with information about them",
+			"pos": "noun"
+		}
+	]
+}

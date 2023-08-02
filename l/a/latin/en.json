@@ -1,0 +1,33 @@
+{
+	"word": "latin",
+	"definitions": [
+		{
+			"definition": "any dialect of the language of ancient Rome",
+			"pos": "noun"
+		},
+		{
+			"definition": "an inhabitant of ancient Latium",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person who is a member of those peoples whose languages derived from Latin",
+			"pos": "noun"
+		},
+		{
+			"definition": "of or relating to the ancient Latins or the Latin language",
+			"pos": "adjective"
+		},
+		{
+			"definition": "relating to people or countries speaking Romance languages",
+			"pos": "adjective"
+		},
+		{
+			"definition": "relating to languages derived from Latin",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to the ancient region of Latium",
+			"pos": "adjective"
+		}
+	]
+}

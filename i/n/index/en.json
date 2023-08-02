@@ -1,0 +1,37 @@
+{
+	"word": "index",
+	"definitions": [
+		{
+			"definition": "a numerical scale used to compare variables with one another or with some reference number",
+			"pos": "noun"
+		},
+		{
+			"definition": "a number or ratio (a value on a scale of measurement) derived from a series of observed facts",
+			"pos": "noun"
+		},
+		{
+			"definition": "a mathematical notation indicating the number of times a quantity is multiplied by itself",
+			"pos": "noun"
+		},
+		{
+			"definition": "an alphabetical listing of names and topics along with page numbers where they are discussed",
+			"pos": "noun"
+		},
+		{
+			"definition": "the finger next to the thumb",
+			"pos": "noun"
+		},
+		{
+			"definition": "list in an index",
+			"pos": "verb"
+		},
+		{
+			"definition": "provide with an index",
+			"pos": "verb"
+		},
+		{
+			"definition": "adjust through indexation",
+			"pos": "verb"
+		}
+	]
+}

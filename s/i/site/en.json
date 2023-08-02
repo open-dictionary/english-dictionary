@@ -1,0 +1,21 @@
+{
+	"word": "site",
+	"definitions": [
+		{
+			"definition": "the piece of land on which something is located (or is to be located)",
+			"pos": "noun"
+		},
+		{
+			"definition": "physical position in relation to the surroundings",
+			"pos": "noun"
+		},
+		{
+			"definition": "a computer connected to the internet that maintains a series of web pages on the World Wide Web",
+			"pos": "noun"
+		},
+		{
+			"definition": "assign a location to",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"word": "neighbour",
+	"definitions": [
+		{
+			"definition": "a person who lives (or is located) near another",
+			"pos": "noun"
+		},
+		{
+			"definition": "a nearby object of the same kind",
+			"pos": "noun"
+		},
+		{
+			"definition": "live or be located as a neighbor",
+			"pos": "verb"
+		},
+		{
+			"definition": "be located near or adjacent to",
+			"pos": "verb"
+		}
+	]
+}

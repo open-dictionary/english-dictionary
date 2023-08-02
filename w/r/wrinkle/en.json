@@ -1,0 +1,33 @@
+{
+	"word": "wrinkle",
+	"definitions": [
+		{
+			"definition": "a slight depression or fold in the smoothness of a surface",
+			"pos": "noun"
+		},
+		{
+			"definition": "a minor difficulty",
+			"pos": "noun"
+		},
+		{
+			"definition": "a clever method of doing something (especially something new and different)",
+			"pos": "noun"
+		},
+		{
+			"definition": "gather or contract into wrinkles or folds",
+			"pos": "verb"
+		},
+		{
+			"definition": "make wrinkles or creases on a smooth surface",
+			"pos": "verb"
+		},
+		{
+			"definition": "make wrinkled or creased",
+			"pos": "verb"
+		},
+		{
+			"definition": "become wrinkled or crumpled or creased",
+			"pos": "verb"
+		}
+	]
+}

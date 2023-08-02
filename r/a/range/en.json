@@ -1,0 +1,73 @@
+{
+	"word": "range",
+	"definitions": [
+		{
+			"definition": "an area in which something acts or operates or has power or control: \"the range of a supersonic jet\"",
+			"pos": "noun"
+		},
+		{
+			"definition": "the limits within which something can be effective",
+			"pos": "noun"
+		},
+		{
+			"definition": "a large tract of grassy open land on which livestock can graze",
+			"pos": "noun"
+		},
+		{
+			"definition": "a series of hills or mountains",
+			"pos": "noun"
+		},
+		{
+			"definition": "a place for shooting (firing or driving) projectiles of various kinds",
+			"pos": "noun"
+		},
+		{
+			"definition": "a variety of different things or activities",
+			"pos": "noun"
+		},
+		{
+			"definition": "(mathematics) the set of values of the dependent variable for which a function is defined",
+			"pos": "noun"
+		},
+		{
+			"definition": "the limit of capability",
+			"pos": "noun"
+		},
+		{
+			"definition": "a kitchen appliance used for cooking food",
+			"pos": "noun"
+		},
+		{
+			"definition": "change or be different within limits",
+			"pos": "verb"
+		},
+		{
+			"definition": "move about aimlessly or without any destination, often in search of food or employment",
+			"pos": "verb"
+		},
+		{
+			"definition": "have a range",
+			"pos": "verb"
+		},
+		{
+			"definition": "range or extend over",
+			"pos": "verb"
+		},
+		{
+			"definition": "lay out orderly or logically in a line or as if in a line",
+			"pos": "verb"
+		},
+		{
+			"definition": "feed as in a meadow or pasture",
+			"pos": "verb"
+		},
+		{
+			"definition": "let eat",
+			"pos": "verb"
+		},
+		{
+			"definition": "assign a rank or rating to",
+			"pos": "verb"
+		}
+	]
+}

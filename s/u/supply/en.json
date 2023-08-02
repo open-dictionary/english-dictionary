@@ -1,0 +1,33 @@
+{
+	"word": "supply",
+	"definitions": [
+		{
+			"definition": "an amount of something available for use",
+			"pos": "noun"
+		},
+		{
+			"definition": "offering goods and services for sale",
+			"pos": "noun"
+		},
+		{
+			"definition": "the activity of supplying or providing something",
+			"pos": "noun"
+		},
+		{
+			"definition": "give something useful or necessary to",
+			"pos": "verb"
+		},
+		{
+			"definition": "circulate or distribute or equip with",
+			"pos": "verb"
+		},
+		{
+			"definition": "give what is desired or needed, especially support, food or sustenance",
+			"pos": "verb"
+		},
+		{
+			"definition": "state or say further",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"word": "learning",
+	"definitions": [
+		{
+			"definition": "the cognitive process of acquiring skill or knowledge",
+			"pos": "noun"
+		},
+		{
+			"definition": "profound scholarly knowledge",
+			"pos": "noun"
+		},
+		{
+			"definition": "gain knowledge or skills",
+			"pos": "verb"
+		},
+		{
+			"definition": "get to know or become aware of, usually accidentally",
+			"pos": "verb"
+		},
+		{
+			"definition": "commit to memory",
+			"pos": "verb"
+		},
+		{
+			"definition": "be a student of a certain subject",
+			"pos": "verb"
+		},
+		{
+			"definition": "impart skills or knowledge to",
+			"pos": "verb"
+		},
+		{
+			"definition": "find out, learn, or determine with certainty, usually by making an inquiry or other effort",
+			"pos": "verb"
+		}
+	]
+}

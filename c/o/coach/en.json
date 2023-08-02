@@ -1,0 +1,33 @@
+{
+	"word": "coach",
+	"definitions": [
+		{
+			"definition": "(sports) someone in charge of training an athlete or a team",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person who gives private instruction (as in singing, acting, etc.)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a railcar where passengers ride",
+			"pos": "noun"
+		},
+		{
+			"definition": "a carriage pulled by four horses with one driver",
+			"pos": "noun"
+		},
+		{
+			"definition": "a vehicle carrying many passengers",
+			"pos": "noun"
+		},
+		{
+			"definition": "teach and supervise (someone)",
+			"pos": "verb"
+		},
+		{
+			"definition": "drive a coach",
+			"pos": "verb"
+		}
+	]
+}

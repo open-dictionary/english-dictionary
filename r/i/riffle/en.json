@@ -1,0 +1,29 @@
+{
+	"word": "riffle",
+	"definitions": [
+		{
+			"definition": "a small wave on the surface of a liquid",
+			"pos": "noun"
+		},
+		{
+			"definition": "shuffling by splitting the pack and interweaving the two halves at their corners",
+			"pos": "noun"
+		},
+		{
+			"definition": "twitch or flutter",
+			"pos": "verb"
+		},
+		{
+			"definition": "look through a book or other written material",
+			"pos": "verb"
+		},
+		{
+			"definition": "stir up (water) so as to form ripples",
+			"pos": "verb"
+		},
+		{
+			"definition": "shuffle (playing cards) by separating the deck into two parts and riffling with the thumbs so the cards intermix",
+			"pos": "verb"
+		}
+	]
+}

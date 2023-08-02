@@ -1,0 +1,21 @@
+{
+	"word": "modifier",
+	"definitions": [
+		{
+			"definition": "a content word that qualifies the meaning of a noun or verb",
+			"pos": "noun"
+		},
+		{
+			"definition": "a moderator who makes less extreme or uncompromising",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person who changes something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a gene that modifies the effect produced by another gene",
+			"pos": "noun"
+		}
+	]
+}

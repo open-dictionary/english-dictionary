@@ -1,0 +1,37 @@
+{
+	"word": "gun",
+	"definitions": [
+		{
+			"definition": "a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)",
+			"pos": "noun"
+		},
+		{
+			"definition": "large but transportable armament",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person who shoots a gun (as regards their ability)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a professional killer who uses a gun",
+			"pos": "noun"
+		},
+		{
+			"definition": "a hand-operated pump that resembles a pistol",
+			"pos": "noun"
+		},
+		{
+			"definition": "a pedal that controls the throttle valve",
+			"pos": "noun"
+		},
+		{
+			"definition": "the discharge of a firearm as signal or as a salute in military ceremonies",
+			"pos": "noun"
+		},
+		{
+			"definition": "shoot with a gun",
+			"pos": "verb"
+		}
+	]
+}

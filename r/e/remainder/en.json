@@ -1,0 +1,25 @@
+{
+	"word": "remainder",
+	"definitions": [
+		{
+			"definition": "something left after other parts have been taken away",
+			"pos": "noun"
+		},
+		{
+			"definition": "the part of the dividend that is left over when the dividend is not evenly divisible by the divisor",
+			"pos": "noun"
+		},
+		{
+			"definition": "the number that remains after subtraction",
+			"pos": "noun"
+		},
+		{
+			"definition": "a piece of cloth that is left over after the rest has been used or sold",
+			"pos": "noun"
+		},
+		{
+			"definition": "sell cheaply as remainders",
+			"pos": "verb"
+		}
+	]
+}

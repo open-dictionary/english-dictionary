@@ -1,0 +1,53 @@
+{
+	"word": "command",
+	"definitions": [
+		{
+			"definition": "an authoritative direction or instruction to do something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a military unit or region under the control of a single officer",
+			"pos": "noun"
+		},
+		{
+			"definition": "the power or authority to command",
+			"pos": "noun"
+		},
+		{
+			"definition": "availability for use",
+			"pos": "noun"
+		},
+		{
+			"definition": "a position of highest authority",
+			"pos": "noun"
+		},
+		{
+			"definition": "great skillfulness and knowledge of some subject or activity",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a line of code written as part of a computer program",
+			"pos": "noun"
+		},
+		{
+			"definition": "be in command of",
+			"pos": "verb"
+		},
+		{
+			"definition": "make someone do something",
+			"pos": "verb"
+		},
+		{
+			"definition": "demand as one's due",
+			"pos": "verb"
+		},
+		{
+			"definition": "look down on",
+			"pos": "verb"
+		},
+		{
+			"definition": "exercise authoritative control or power over",
+			"pos": "verb"
+		}
+	]
+}

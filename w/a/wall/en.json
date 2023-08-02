@@ -1,0 +1,41 @@
+{
+	"word": "wall",
+	"definitions": [
+		{
+			"definition": "an architectural partition with a height and length greater than its thickness",
+			"pos": "noun"
+		},
+		{
+			"definition": "anything that suggests a wall in structure or function or effect",
+			"pos": "noun"
+		},
+		{
+			"definition": "(anatomy) a layer (a lining or membrane) that encloses a structure",
+			"pos": "noun"
+		},
+		{
+			"definition": "a difficult or awkward situation",
+			"pos": "noun"
+		},
+		{
+			"definition": "a vertical (or almost vertical) smooth rock face (as of a cave or mountain)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a layer of material that encloses space",
+			"pos": "noun"
+		},
+		{
+			"definition": "a masonry fence (as around an estate or garden)",
+			"pos": "noun"
+		},
+		{
+			"definition": "an embankment built around a space for defensive purposes",
+			"pos": "noun"
+		},
+		{
+			"definition": "surround with a wall in order to fortify",
+			"pos": "verb"
+		}
+	]
+}

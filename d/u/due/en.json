@@ -1,0 +1,33 @@
+{
+	"word": "due",
+	"definitions": [
+		{
+			"definition": "that which is deserved or owed",
+			"pos": "noun"
+		},
+		{
+			"definition": "a payment that is due (e.g., as the price of membership)",
+			"pos": "noun"
+		},
+		{
+			"definition": "owed and payable immediately or on demand",
+			"pos": "adjective"
+		},
+		{
+			"definition": "scheduled to arrive",
+			"pos": "adjective"
+		},
+		{
+			"definition": "suitable to or expected in the circumstances",
+			"pos": "adjective"
+		},
+		{
+			"definition": "capable of being assigned or credited to",
+			"pos": "adjective"
+		},
+		{
+			"definition": "directly or exactly",
+			"pos": "adverb"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"word": "airway",
+	"definitions": [
+		{
+			"definition": "a duct that provides ventilation (as in mines)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a designated route followed by airplanes in flying from one airport to another",
+			"pos": "noun"
+		},
+		{
+			"definition": "the passages through which air enters and leaves the body",
+			"pos": "noun"
+		},
+		{
+			"definition": "a commercial enterprise that provides scheduled flights for passengers",
+			"pos": "noun"
+		}
+	]
+}

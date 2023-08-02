@@ -1,0 +1,73 @@
+{
+	"word": "active",
+	"definitions": [
+		{
+			"definition": "chemical agent capable of activity",
+			"pos": "noun"
+		},
+		{
+			"definition": "the voice used to indicate that the grammatical subject of the verb is performing the action or causing the happening denoted by the verb",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person who is a participating member of an organization",
+			"pos": "noun"
+		},
+		{
+			"definition": "tending to become more severe or wider in scope",
+			"pos": "adjective"
+		},
+		{
+			"definition": "engaged in or ready for military or naval operations",
+			"pos": "adjective"
+		},
+		{
+			"definition": "disposed to take action or effectuate change",
+			"pos": "adjective"
+		},
+		{
+			"definition": "taking part in an activity",
+			"pos": "adjective"
+		},
+		{
+			"definition": "characterized by energetic activity",
+			"pos": "adjective"
+		},
+		{
+			"definition": "exerting influence or producing a change or effect",
+			"pos": "adjective"
+		},
+		{
+			"definition": "full of activity or engaged in continuous activity",
+			"pos": "adjective"
+		},
+		{
+			"definition": "in operation",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of the sun) characterized by an increased occurrence of sunspots and flares and radio emissions",
+			"pos": "adjective"
+		},
+		{
+			"definition": "expressing that the subject of the sentence has the semantic function of actor: \"Hemingway favors active constructions\"",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(used of verbs (e.g. `to run') and participial adjectives (e.g. `running' in `running water')) expressing action rather than a state of being",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of e.g. volcanos) capable of erupting",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of e.g. volcanos) erupting or liable to erupt",
+			"pos": "adjective"
+		},
+		{
+			"definition": "engaged in full-time work",
+			"pos": "adjective"
+		}
+	]
+}

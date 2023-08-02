@@ -1,0 +1,29 @@
+{
+	"word": "stripe",
+	"definitions": [
+		{
+			"definition": "an adornment consisting of a strip of a contrasting color or material",
+			"pos": "noun"
+		},
+		{
+			"definition": "a piece of braid, usually on the sleeve, indicating military rank or length of service",
+			"pos": "noun"
+		},
+		{
+			"definition": "V-shaped sleeve badge indicating military rank and service",
+			"pos": "noun"
+		},
+		{
+			"definition": "a kind or category",
+			"pos": "noun"
+		},
+		{
+			"definition": "a narrow marking of a different color or texture from the background",
+			"pos": "noun"
+		},
+		{
+			"definition": "mark with stripes",
+			"pos": "verb"
+		}
+	]
+}

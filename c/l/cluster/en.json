@@ -1,0 +1,17 @@
+{
+	"word": "cluster",
+	"definitions": [
+		{
+			"definition": "a grouping of a number of similar things",
+			"pos": "noun"
+		},
+		{
+			"definition": "come together as in a cluster or flock",
+			"pos": "verb"
+		},
+		{
+			"definition": "gather or cause to gather into a cluster",
+			"pos": "verb"
+		}
+	]
+}

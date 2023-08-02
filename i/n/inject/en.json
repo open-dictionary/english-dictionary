@@ -1,0 +1,29 @@
+{
+	"word": "inject",
+	"definitions": [
+		{
+			"definition": "give an injection to",
+			"pos": "verb"
+		},
+		{
+			"definition": "to introduce (a new aspect or element)",
+			"pos": "verb"
+		},
+		{
+			"definition": "force or drive (a fluid or gas) into by piercing",
+			"pos": "verb"
+		},
+		{
+			"definition": "take by injection",
+			"pos": "verb"
+		},
+		{
+			"definition": "feed intravenously",
+			"pos": "verb"
+		},
+		{
+			"definition": "to insert between other elements",
+			"pos": "verb"
+		}
+	]
+}

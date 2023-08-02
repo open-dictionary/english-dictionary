@@ -1,0 +1,17 @@
+{
+	"word": "universe",
+	"definitions": [
+		{
+			"definition": "everything that exists anywhere",
+			"pos": "noun"
+		},
+		{
+			"definition": "(statistics) the entire aggregation of items from which samples can be drawn",
+			"pos": "noun"
+		},
+		{
+			"definition": "everything stated or assumed in a given discussion",
+			"pos": "noun"
+		}
+	]
+}

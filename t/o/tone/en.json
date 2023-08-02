@@ -1,0 +1,65 @@
+{
+	"word": "tone",
+	"definitions": [
+		{
+			"definition": "the quality of a person's voice",
+			"pos": "noun"
+		},
+		{
+			"definition": "(linguistics) a pitch or change in pitch of the voice that serves to distinguish words in tonal languages",
+			"pos": "noun"
+		},
+		{
+			"definition": "(music) the distinctive property of a complex sound (a voice or noise or musical sound)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the general atmosphere of a place or situation and the effect that it has on people",
+			"pos": "noun"
+		},
+		{
+			"definition": "a quality of a given color that differs slightly from another color",
+			"pos": "noun"
+		},
+		{
+			"definition": "a notation representing the pitch and duration of a musical sound",
+			"pos": "noun"
+		},
+		{
+			"definition": "a steady sound without overtones",
+			"pos": "noun"
+		},
+		{
+			"definition": "the elastic tension of living muscles, arteries, etc. that facilitate response to stimuli",
+			"pos": "noun"
+		},
+		{
+			"definition": "a musical interval of two semitones",
+			"pos": "noun"
+		},
+		{
+			"definition": "the quality of something (an act or a piece of writing) that reveals the attitudes and presuppositions of the author",
+			"pos": "noun"
+		},
+		{
+			"definition": "utter monotonously and repetitively and rhythmically",
+			"pos": "verb"
+		},
+		{
+			"definition": "vary the pitch of one's speech",
+			"pos": "verb"
+		},
+		{
+			"definition": "change the color or tone of",
+			"pos": "verb"
+		},
+		{
+			"definition": "change to a color image",
+			"pos": "verb"
+		},
+		{
+			"definition": "give a healthy elasticity to",
+			"pos": "verb"
+		}
+	]
+}

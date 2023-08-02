@@ -1,0 +1,41 @@
+{
+	"word": "instrument",
+	"definitions": [
+		{
+			"definition": "a device that requires skill for proper use",
+			"pos": "noun"
+		},
+		{
+			"definition": "the means whereby some act is accomplished",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person used by another to gain an end",
+			"pos": "noun"
+		},
+		{
+			"definition": "(law) a document that states some contractual relationship or grants some right",
+			"pos": "noun"
+		},
+		{
+			"definition": "the semantic role of the entity (usually inanimate) that the agent uses to perform an action or start a process",
+			"pos": "noun"
+		},
+		{
+			"definition": "any of various devices or contrivances that can be used to produce musical tones or sounds",
+			"pos": "noun"
+		},
+		{
+			"definition": "equip with instruments for measuring, recording, or controlling",
+			"pos": "verb"
+		},
+		{
+			"definition": "write an instrumental score for",
+			"pos": "verb"
+		},
+		{
+			"definition": "address a legal document to",
+			"pos": "verb"
+		}
+	]
+}

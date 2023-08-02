@@ -1,0 +1,37 @@
+{
+	"word": "formal",
+	"definitions": [
+		{
+			"definition": "a lavish dance requiring formal attire",
+			"pos": "noun"
+		},
+		{
+			"definition": "a gown for evening wear",
+			"pos": "noun"
+		},
+		{
+			"definition": "being in accord with established forms and conventions and requirements (as e.g. of formal dress)",
+			"pos": "adjective"
+		},
+		{
+			"definition": "characteristic of or befitting a person in authority",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of spoken and written language) adhering to traditional standards of correctness and without casual, contracted, and colloquial forms",
+			"pos": "adjective"
+		},
+		{
+			"definition": "represented in simplified or symbolic form",
+			"pos": "adjective"
+		},
+		{
+			"definition": "logically deductive",
+			"pos": "adjective"
+		},
+		{
+			"definition": "refined or imposing in manner or appearance",
+			"pos": "adjective"
+		}
+	]
+}

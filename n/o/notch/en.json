@@ -1,0 +1,29 @@
+{
+	"word": "notch",
+	"definitions": [
+		{
+			"definition": "a V-shaped indentation",
+			"pos": "noun"
+		},
+		{
+			"definition": "the location in a range of mountains of a geological formation that is lower than the surrounding peaks",
+			"pos": "noun"
+		},
+		{
+			"definition": "a V-shaped or U-shaped indentation carved or scratched into a surface",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small cut",
+			"pos": "noun"
+		},
+		{
+			"definition": "cut or make a notch into",
+			"pos": "verb"
+		},
+		{
+			"definition": "notch a surface to record something",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"word": "implication",
+	"definitions": [
+		{
+			"definition": "something that is inferred (deduced or entailed or implied)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a meaning that is not expressly stated but can be inferred",
+			"pos": "noun"
+		},
+		{
+			"definition": "an accusation that brings into intimate and usually incriminating connection",
+			"pos": "noun"
+		},
+		{
+			"definition": "a logical relation between propositions p and q of the form `if p then q'",
+			"pos": "noun"
+		},
+		{
+			"definition": "a relation implicated by virtue of involvement or close connection (especially an incriminating involvement)",
+			"pos": "noun"
+		}
+	]
+}

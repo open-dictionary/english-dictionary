@@ -1,0 +1,65 @@
+{
+	"word": "name",
+	"definitions": [
+		{
+			"definition": "a language unit by which a person or thing is known",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person's reputation",
+			"pos": "noun"
+		},
+		{
+			"definition": "family based on male descent",
+			"pos": "noun"
+		},
+		{
+			"definition": "a well-known or notable person",
+			"pos": "noun"
+		},
+		{
+			"definition": "by the sanction or authority of",
+			"pos": "noun"
+		},
+		{
+			"definition": "a defamatory or abusive word or phrase",
+			"pos": "noun"
+		},
+		{
+			"definition": "assign a specified (usually proper) proper name to",
+			"pos": "verb"
+		},
+		{
+			"definition": "give the name or identifying characteristics of",
+			"pos": "verb"
+		},
+		{
+			"definition": "charge with a function",
+			"pos": "verb"
+		},
+		{
+			"definition": "create and charge with a task or function",
+			"pos": "verb"
+		},
+		{
+			"definition": "mention and identify by name",
+			"pos": "verb"
+		},
+		{
+			"definition": "make reference to",
+			"pos": "verb"
+		},
+		{
+			"definition": "identify as in botany or biology, for example",
+			"pos": "verb"
+		},
+		{
+			"definition": "give or make a list of",
+			"pos": "verb"
+		},
+		{
+			"definition": "determine or distinguish the nature of a problem or an illness through a diagnostic analysis",
+			"pos": "verb"
+		}
+	]
+}

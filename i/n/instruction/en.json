@@ -1,0 +1,21 @@
+{
+	"word": "instruction",
+	"definitions": [
+		{
+			"definition": "a message describing how something is to be done",
+			"pos": "noun"
+		},
+		{
+			"definition": "the activities of educating or instructing",
+			"pos": "noun"
+		},
+		{
+			"definition": "the profession of a teacher",
+			"pos": "noun"
+		},
+		{
+			"definition": "(computer science) a line of code written as part of a computer program",
+			"pos": "noun"
+		}
+	]
+}

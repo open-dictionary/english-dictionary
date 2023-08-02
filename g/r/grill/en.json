@@ -1,0 +1,21 @@
+{
+	"word": "grill",
+	"definitions": [
+		{
+			"definition": "a restaurant where food is cooked on a grill",
+			"pos": "noun"
+		},
+		{
+			"definition": "a framework of metal bars used as a partition or a grate",
+			"pos": "noun"
+		},
+		{
+			"definition": "cook over or under a grill",
+			"pos": "verb"
+		},
+		{
+			"definition": "examine thoroughly",
+			"pos": "verb"
+		}
+	]
+}

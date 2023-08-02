@@ -1,0 +1,25 @@
+{
+	"word": "hoodoo",
+	"definitions": [
+		{
+			"definition": "(geology) a column of weathered and unusually shaped rock",
+			"pos": "noun"
+		},
+		{
+			"definition": "a practitioner of voodoo",
+			"pos": "noun"
+		},
+		{
+			"definition": "a charm superstitiously believed to embody magical powers",
+			"pos": "noun"
+		},
+		{
+			"definition": "something believed to bring bad luck",
+			"pos": "noun"
+		},
+		{
+			"definition": "bring bad luck",
+			"pos": "verb"
+		}
+	]
+}

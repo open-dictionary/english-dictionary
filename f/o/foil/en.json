@@ -1,0 +1,37 @@
+{
+	"word": "foil",
+	"definitions": [
+		{
+			"definition": "a piece of thin and flexible sheet metal",
+			"pos": "noun"
+		},
+		{
+			"definition": "anything that serves by contrast to call attention to another thing's good qualities",
+			"pos": "noun"
+		},
+		{
+			"definition": "a device consisting of a flat or curved piece (as a metal plate) so that its surface reacts to the water it is passing through",
+			"pos": "noun"
+		},
+		{
+			"definition": "picture consisting of a positive photograph or drawing on a transparent base",
+			"pos": "noun"
+		},
+		{
+			"definition": "a light slender flexible sword tipped by a button",
+			"pos": "noun"
+		},
+		{
+			"definition": "enhance by contrast",
+			"pos": "verb"
+		},
+		{
+			"definition": "hinder or prevent (the efforts, plans, or desires) of",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover or back with foil",
+			"pos": "verb"
+		}
+	]
+}

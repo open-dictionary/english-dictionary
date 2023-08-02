@@ -1,0 +1,37 @@
+{
+	"word": "recess",
+	"definitions": [
+		{
+			"definition": "a state of abeyance or suspended business",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small concavity",
+			"pos": "noun"
+		},
+		{
+			"definition": "an arm off of a larger body of water (often between rocky headlands)",
+			"pos": "noun"
+		},
+		{
+			"definition": "an enclosure that is set back or indented",
+			"pos": "noun"
+		},
+		{
+			"definition": "a pause from doing something (as work)",
+			"pos": "noun"
+		},
+		{
+			"definition": "put into a recess",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a recess in",
+			"pos": "verb"
+		},
+		{
+			"definition": "close at the end of a session",
+			"pos": "verb"
+		}
+	]
+}

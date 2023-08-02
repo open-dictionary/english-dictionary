@@ -1,0 +1,33 @@
+{
+	"word": "header",
+	"definitions": [
+		{
+			"definition": "a line of text serving to indicate what the passage below it is about",
+			"pos": "noun"
+		},
+		{
+			"definition": "horizontal beam used as a finishing piece over a door or window",
+			"pos": "noun"
+		},
+		{
+			"definition": "brick that is laid sideways at the top of a wall",
+			"pos": "noun"
+		},
+		{
+			"definition": "a framing member crossing and supporting the ends of joists, studs, or rafters so as to transfer their weight to parallel joists, studs, or rafters",
+			"pos": "noun"
+		},
+		{
+			"definition": "a machine that cuts the heads off grain and moves them into a wagon",
+			"pos": "noun"
+		},
+		{
+			"definition": "(soccer) the act of hitting the ball with your head",
+			"pos": "noun"
+		},
+		{
+			"definition": "a headlong jump (or fall)",
+			"pos": "noun"
+		}
+	]
+}

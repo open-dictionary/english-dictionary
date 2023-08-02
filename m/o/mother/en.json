@@ -1,0 +1,33 @@
+{
+	"word": "mother",
+	"definitions": [
+		{
+			"definition": "a woman who has given birth to a child (also used as a term of address to your mother)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a stringy slimy substance consisting of yeast cells and bacteria",
+			"pos": "noun"
+		},
+		{
+			"definition": "a term of address for an elderly woman",
+			"pos": "noun"
+		},
+		{
+			"definition": "a term of address for a mother superior",
+			"pos": "noun"
+		},
+		{
+			"definition": "a condition that is the inspiration for an activity or situation",
+			"pos": "noun"
+		},
+		{
+			"definition": "care for like a mother",
+			"pos": "verb"
+		},
+		{
+			"definition": "make (offspring) by reproduction",
+			"pos": "verb"
+		}
+	]
+}

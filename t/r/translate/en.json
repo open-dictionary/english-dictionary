@@ -1,0 +1,45 @@
+{
+	"word": "translate",
+	"definitions": [
+		{
+			"definition": "restate (words) from one language into another language",
+			"pos": "verb"
+		},
+		{
+			"definition": "change from one form or medium into another",
+			"pos": "verb"
+		},
+		{
+			"definition": "make sense of a language",
+			"pos": "verb"
+		},
+		{
+			"definition": "bring to a certain spiritual state",
+			"pos": "verb"
+		},
+		{
+			"definition": "change the position of (figures or bodies) in space without rotation",
+			"pos": "verb"
+		},
+		{
+			"definition": "be equivalent in effect",
+			"pos": "verb"
+		},
+		{
+			"definition": "be translatable, or be translatable in a certain way",
+			"pos": "verb"
+		},
+		{
+			"definition": "subject to movement in which every part of the body moves parallel to and the same distance as every other point on the body",
+			"pos": "verb"
+		},
+		{
+			"definition": "express, as in simple and less technical language",
+			"pos": "verb"
+		},
+		{
+			"definition": "determine the amino-acid sequence of a protein during its synthesis by using information on the messenger RNA",
+			"pos": "verb"
+		}
+	]
+}

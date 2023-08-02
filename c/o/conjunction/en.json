@@ -1,0 +1,29 @@
+{
+	"word": "conjunction",
+	"definitions": [
+		{
+			"definition": "the temporal property of two things happening at the same time",
+			"pos": "noun"
+		},
+		{
+			"definition": "the state of being joined together",
+			"pos": "noun"
+		},
+		{
+			"definition": "an uninflected function word that serves to conjoin words or phrases or clauses or sentences",
+			"pos": "noun"
+		},
+		{
+			"definition": "the grammatical relation between linguistic units (words or phrases or clauses) that are connected by a conjunction",
+			"pos": "noun"
+		},
+		{
+			"definition": "(astronomy) apparent meeting or passing of two or more celestial bodies in the same degree of the zodiac",
+			"pos": "noun"
+		},
+		{
+			"definition": "something that joins or connects",
+			"pos": "noun"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "stub",
+	"definitions": [
+		{
+			"definition": "a short piece remaining on a trunk or stem where a branch is lost",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small piece",
+			"pos": "noun"
+		},
+		{
+			"definition": "a torn part of a ticket returned to the holder as a receipt",
+			"pos": "noun"
+		},
+		{
+			"definition": "the part of a check that is retained as a record",
+			"pos": "noun"
+		},
+		{
+			"definition": "the small unused part of something (especially the end of a cigarette that is left after smoking)",
+			"pos": "noun"
+		},
+		{
+			"definition": "pull up (weeds) by their roots",
+			"pos": "verb"
+		},
+		{
+			"definition": "extinguish by crushing",
+			"pos": "verb"
+		},
+		{
+			"definition": "clear of weeds by uprooting them",
+			"pos": "verb"
+		},
+		{
+			"definition": "strike (one's toe) accidentally against an object",
+			"pos": "verb"
+		}
+	]
+}

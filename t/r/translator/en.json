@@ -1,0 +1,17 @@
+{
+	"word": "translator",
+	"definitions": [
+		{
+			"definition": "a person who translates written messages from one language to another",
+			"pos": "noun"
+		},
+		{
+			"definition": "someone who mediates between speakers of different languages",
+			"pos": "noun"
+		},
+		{
+			"definition": "a program that translates one programming language into another",
+			"pos": "noun"
+		}
+	]
+}

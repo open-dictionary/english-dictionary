@@ -1,0 +1,29 @@
+{
+	"word": "pastoral",
+	"definitions": [
+		{
+			"definition": "a musical composition that evokes rural life",
+			"pos": "noun"
+		},
+		{
+			"definition": "a letter from a pastor to the congregation",
+			"pos": "noun"
+		},
+		{
+			"definition": "a literary work idealizing the rural life (especially the life of shepherds)",
+			"pos": "noun"
+		},
+		{
+			"definition": "of or relating to a pastor",
+			"pos": "adjective"
+		},
+		{
+			"definition": "relating to shepherds or herdsmen or devoted to raising sheep or cattle",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(used with regard to idealized country life) idyllically rustic",
+			"pos": "adjective"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"word": "alternate",
+	"definitions": [
+		{
+			"definition": "someone who takes the place of another person",
+			"pos": "noun"
+		},
+		{
+			"definition": "go back and forth",
+			"pos": "verb"
+		},
+		{
+			"definition": "exchange people temporarily to fulfill certain jobs and functions",
+			"pos": "verb"
+		},
+		{
+			"definition": "be an understudy or alternate for a role",
+			"pos": "verb"
+		},
+		{
+			"definition": "reverse (a direction, attitude, or course of action)",
+			"pos": "verb"
+		},
+		{
+			"definition": "do something in turns",
+			"pos": "verb"
+		},
+		{
+			"definition": "every second one of a series",
+			"pos": "adjective"
+		},
+		{
+			"definition": "serving or used in place of another",
+			"pos": "adjective"
+		},
+		{
+			"definition": "occurring by turns",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of leaves and branches etc",
+			"pos": "adjective"
+		}
+	]
+}

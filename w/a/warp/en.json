@@ -1,0 +1,29 @@
+{
+	"word": "warp",
+	"definitions": [
+		{
+			"definition": "a twist or aberration",
+			"pos": "noun"
+		},
+		{
+			"definition": "a shape distorted by twisting or folding",
+			"pos": "noun"
+		},
+		{
+			"definition": "a moral or mental distortion",
+			"pos": "noun"
+		},
+		{
+			"definition": "yarn arranged lengthways on a loom and crossed by the woof",
+			"pos": "noun"
+		},
+		{
+			"definition": "make false by mutilation or addition",
+			"pos": "verb"
+		},
+		{
+			"definition": "bend out of shape, as under pressure or from heat",
+			"pos": "verb"
+		}
+	]
+}

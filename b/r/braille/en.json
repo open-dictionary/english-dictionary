@@ -1,0 +1,17 @@
+{
+	"word": "braille",
+	"definitions": [
+		{
+			"definition": "French educator who lost his sight at the age of three and who invented a system of writing and printing for sightless people (1809-1852)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a point system of writing in which patterns of raised dots represent letters and numerals",
+			"pos": "noun"
+		},
+		{
+			"definition": "transcribe in braille",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "market",
+	"definitions": [
+		{
+			"definition": "the world of commercial activity where goods and services are bought and sold",
+			"pos": "noun"
+		},
+		{
+			"definition": "the customers for a particular product or service",
+			"pos": "noun"
+		},
+		{
+			"definition": "a marketplace where groceries are sold",
+			"pos": "noun"
+		},
+		{
+			"definition": "the securities markets in the aggregate",
+			"pos": "noun"
+		},
+		{
+			"definition": "an area in a town where a public mercantile establishment is set up",
+			"pos": "noun"
+		},
+		{
+			"definition": "engage in the commercial promotion, sale, or distribution of",
+			"pos": "verb"
+		},
+		{
+			"definition": "buy household supplies",
+			"pos": "verb"
+		},
+		{
+			"definition": "deal in a market",
+			"pos": "verb"
+		},
+		{
+			"definition": "make commercial",
+			"pos": "verb"
+		}
+	]
+}

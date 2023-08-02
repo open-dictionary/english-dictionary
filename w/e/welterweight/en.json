@@ -1,0 +1,21 @@
+{
+	"word": "welterweight",
+	"definitions": [
+		{
+			"definition": "a weight of 28 pounds",
+			"pos": "noun"
+		},
+		{
+			"definition": "an amateur boxer who weighs no more than 148 pounds",
+			"pos": "noun"
+		},
+		{
+			"definition": "a wrestler who weighs 154-172 pounds",
+			"pos": "noun"
+		},
+		{
+			"definition": "a professional boxer who weighs between 141 and 147 pounds",
+			"pos": "noun"
+		}
+	]
+}

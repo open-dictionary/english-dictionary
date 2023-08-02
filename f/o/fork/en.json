@@ -1,0 +1,41 @@
+{
+	"word": "fork",
+	"definitions": [
+		{
+			"definition": "cutlery used for serving and eating food",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of branching out or dividing into branches",
+			"pos": "noun"
+		},
+		{
+			"definition": "the region of the angle formed by the junction of two branches",
+			"pos": "noun"
+		},
+		{
+			"definition": "an agricultural tool used for lifting or digging",
+			"pos": "noun"
+		},
+		{
+			"definition": "the angle formed by the inner sides of the legs where they join the human trunk",
+			"pos": "noun"
+		},
+		{
+			"definition": "lift with a pitchfork",
+			"pos": "verb"
+		},
+		{
+			"definition": "place under attack with one's own pieces, of two enemy pieces",
+			"pos": "verb"
+		},
+		{
+			"definition": "divide into two or more branches so as to form a fork",
+			"pos": "verb"
+		},
+		{
+			"definition": "shape like a fork",
+			"pos": "verb"
+		}
+	]
+}

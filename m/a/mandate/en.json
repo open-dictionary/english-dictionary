@@ -1,0 +1,29 @@
+{
+	"word": "mandate",
+	"definitions": [
+		{
+			"definition": "a document giving an official instruction or command",
+			"pos": "noun"
+		},
+		{
+			"definition": "a territory surrendered by Turkey or Germany after World War I and put under the tutelage of some other European power until they are able to stand by themselves",
+			"pos": "noun"
+		},
+		{
+			"definition": "the commission that is given to a government and its policies through an electoral victory",
+			"pos": "noun"
+		},
+		{
+			"definition": "assign under a mandate",
+			"pos": "verb"
+		},
+		{
+			"definition": "make mandatory",
+			"pos": "verb"
+		},
+		{
+			"definition": "assign authority to",
+			"pos": "verb"
+		}
+	]
+}

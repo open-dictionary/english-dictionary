@@ -1,0 +1,37 @@
+{
+	"word": "incline",
+	"definitions": [
+		{
+			"definition": "an elevated geological formation",
+			"pos": "noun"
+		},
+		{
+			"definition": "an inclined surface connecting two levels",
+			"pos": "noun"
+		},
+		{
+			"definition": "have a tendency or disposition to do or be something",
+			"pos": "verb"
+		},
+		{
+			"definition": "bend or turn (one's ear) towards a speaker in order to listen well",
+			"pos": "verb"
+		},
+		{
+			"definition": "lower or bend (the head or upper body), as in a nod or bow",
+			"pos": "verb"
+		},
+		{
+			"definition": "be at an angle",
+			"pos": "verb"
+		},
+		{
+			"definition": "feel favorably disposed or willing",
+			"pos": "verb"
+		},
+		{
+			"definition": "make receptive or willing towards an action or attitude or belief",
+			"pos": "verb"
+		}
+	]
+}

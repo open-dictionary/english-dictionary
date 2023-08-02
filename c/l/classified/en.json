@@ -1,0 +1,29 @@
+{
+	"word": "classified",
+	"definitions": [
+		{
+			"definition": "a short ad in a newspaper or magazine (usually in small print) and appearing along with other ads of the same type",
+			"pos": "noun"
+		},
+		{
+			"definition": "arrange or order by classes or categories",
+			"pos": "verb"
+		},
+		{
+			"definition": "declare unavailable, as for security reasons",
+			"pos": "verb"
+		},
+		{
+			"definition": "assign to a class or kind",
+			"pos": "verb"
+		},
+		{
+			"definition": "arranged into classes",
+			"pos": "adjective"
+		},
+		{
+			"definition": "official classification of information or documents",
+			"pos": "adjective"
+		}
+	]
+}

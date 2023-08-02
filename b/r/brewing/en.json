@@ -1,0 +1,17 @@
+{
+	"word": "brewing",
+	"definitions": [
+		{
+			"definition": "the production of malt beverages (as beer or ale) from malt and hops by grinding and boiling them and fermenting the result with yeast",
+			"pos": "noun"
+		},
+		{
+			"definition": "prepare by brewing",
+			"pos": "verb"
+		},
+		{
+			"definition": "sit or let sit in boiling water so as to extract the flavor",
+			"pos": "verb"
+		}
+	]
+}

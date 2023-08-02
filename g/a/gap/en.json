@@ -1,0 +1,33 @@
+{
+	"word": "gap",
+	"definitions": [
+		{
+			"definition": "a conspicuous disparity or difference as between two figures",
+			"pos": "noun"
+		},
+		{
+			"definition": "an open or empty space in or between things",
+			"pos": "noun"
+		},
+		{
+			"definition": "a narrow opening",
+			"pos": "noun"
+		},
+		{
+			"definition": "a pass between mountain peaks",
+			"pos": "noun"
+		},
+		{
+			"definition": "a difference (especially an unfortunate difference) between two opinions or two views or two situations",
+			"pos": "noun"
+		},
+		{
+			"definition": "an act of delaying or interrupting the continuity",
+			"pos": "noun"
+		},
+		{
+			"definition": "make an opening or gap in",
+			"pos": "verb"
+		}
+	]
+}

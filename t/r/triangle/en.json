@@ -1,0 +1,25 @@
+{
+	"word": "triangle",
+	"definitions": [
+		{
+			"definition": "a three-sided polygon",
+			"pos": "noun"
+		},
+		{
+			"definition": "something approximating the shape of a triangle",
+			"pos": "noun"
+		},
+		{
+			"definition": "a small northern constellation near Perseus between Andromeda and Aries",
+			"pos": "noun"
+		},
+		{
+			"definition": "any of various triangular drafting instruments used to draw straight lines at specified angles",
+			"pos": "noun"
+		},
+		{
+			"definition": "a percussion instrument consisting of a metal bar bent in the shape of an open triangle",
+			"pos": "noun"
+		}
+	]
+}

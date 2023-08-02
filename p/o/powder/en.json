@@ -1,0 +1,25 @@
+{
+	"word": "powder",
+	"definitions": [
+		{
+			"definition": "a solid substance in the form of tiny loose particles",
+			"pos": "noun"
+		},
+		{
+			"definition": "a mixture of potassium nitrate, charcoal, and sulfur in a 75:15:10 ratio which is used in gunnery, time fuses, and fireworks",
+			"pos": "noun"
+		},
+		{
+			"definition": "any of various cosmetic or medical preparations dispensed in the form of a pulverized powder",
+			"pos": "noun"
+		},
+		{
+			"definition": "make into a powder by breaking up or cause to become dust",
+			"pos": "verb"
+		},
+		{
+			"definition": "apply powder to",
+			"pos": "verb"
+		}
+	]
+}

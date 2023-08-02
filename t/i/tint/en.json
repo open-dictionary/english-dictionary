@@ -1,0 +1,21 @@
+{
+	"word": "tint",
+	"definitions": [
+		{
+			"definition": "a quality of a given color that differs slightly from another color",
+			"pos": "noun"
+		},
+		{
+			"definition": "a dye for coloring the hair",
+			"pos": "noun"
+		},
+		{
+			"definition": "a just detectable amount",
+			"pos": "noun"
+		},
+		{
+			"definition": "color lightly",
+			"pos": "verb"
+		}
+	]
+}

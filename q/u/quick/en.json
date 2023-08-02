@@ -1,0 +1,37 @@
+{
+	"word": "quick",
+	"definitions": [
+		{
+			"definition": "any area of the body that is highly sensitive to pain (as the flesh underneath the skin or a fingernail or toenail)",
+			"pos": "noun"
+		},
+		{
+			"definition": "accomplished rapidly and without delay",
+			"pos": "adjective"
+		},
+		{
+			"definition": "hurried and brief",
+			"pos": "adjective"
+		},
+		{
+			"definition": "moving quickly and lightly",
+			"pos": "adjective"
+		},
+		{
+			"definition": "apprehending and responding with speed and sensitivity",
+			"pos": "adjective"
+		},
+		{
+			"definition": "performed with little or no delay",
+			"pos": "adjective"
+		},
+		{
+			"definition": "easily aroused or excited",
+			"pos": "adjective"
+		},
+		{
+			"definition": "with little or no delay",
+			"pos": "adverb"
+		}
+	]
+}

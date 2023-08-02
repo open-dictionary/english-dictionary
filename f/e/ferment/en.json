@@ -1,0 +1,33 @@
+{
+	"word": "ferment",
+	"definitions": [
+		{
+			"definition": "a state of agitation or turbulent change or development",
+			"pos": "noun"
+		},
+		{
+			"definition": "a substance capable of bringing about fermentation",
+			"pos": "noun"
+		},
+		{
+			"definition": "a process in which an agent causes an organic substance to break down into simpler substances",
+			"pos": "noun"
+		},
+		{
+			"definition": "be in an agitated or excited state",
+			"pos": "verb"
+		},
+		{
+			"definition": "work up into agitation or excitement",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to undergo fermentation",
+			"pos": "verb"
+		},
+		{
+			"definition": "go sour or spoil",
+			"pos": "verb"
+		}
+	]
+}

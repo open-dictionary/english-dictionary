@@ -1,0 +1,25 @@
+{
+	"word": "fruit",
+	"definitions": [
+		{
+			"definition": "the ripened reproductive body of a seed plant",
+			"pos": "noun"
+		},
+		{
+			"definition": "an amount of a product",
+			"pos": "noun"
+		},
+		{
+			"definition": "the consequence of some effort or action",
+			"pos": "noun"
+		},
+		{
+			"definition": "cause to bear fruit",
+			"pos": "verb"
+		},
+		{
+			"definition": "bear fruit",
+			"pos": "verb"
+		}
+	]
+}

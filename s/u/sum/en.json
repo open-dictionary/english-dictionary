@@ -1,0 +1,37 @@
+{
+	"word": "sum",
+	"definitions": [
+		{
+			"definition": "a quantity of money",
+			"pos": "noun"
+		},
+		{
+			"definition": "a quantity obtained by the addition of a group of numbers",
+			"pos": "noun"
+		},
+		{
+			"definition": "the final aggregate",
+			"pos": "noun"
+		},
+		{
+			"definition": "the choicest or most essential or most vital part of some idea or experience",
+			"pos": "noun"
+		},
+		{
+			"definition": "the whole amount",
+			"pos": "noun"
+		},
+		{
+			"definition": "a set containing all and only the members of two or more given sets",
+			"pos": "noun"
+		},
+		{
+			"definition": "be a summary of",
+			"pos": "verb"
+		},
+		{
+			"definition": "determine the sum of",
+			"pos": "verb"
+		}
+	]
+}

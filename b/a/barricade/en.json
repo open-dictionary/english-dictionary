@@ -1,0 +1,25 @@
+{
+	"word": "barricade",
+	"definitions": [
+		{
+			"definition": "a barrier set up by police to stop traffic on a street or road in order to catch a fugitive or inspect traffic etc.",
+			"pos": "noun"
+		},
+		{
+			"definition": "a barrier (usually thrown up hastily) to impede the advance of an enemy",
+			"pos": "noun"
+		},
+		{
+			"definition": "render unsuitable for passage",
+			"pos": "verb"
+		},
+		{
+			"definition": "prevent access to by barricading",
+			"pos": "verb"
+		},
+		{
+			"definition": "block off with barricades",
+			"pos": "verb"
+		}
+	]
+}

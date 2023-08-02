@@ -1,0 +1,41 @@
+{
+	"word": "blade",
+	"definitions": [
+		{
+			"definition": "especially a leaf of grass or the broad portion of a leaf as distinct from the petiole",
+			"pos": "noun"
+		},
+		{
+			"definition": "a dashing young man",
+			"pos": "noun"
+		},
+		{
+			"definition": "something long and thin resembling a blade of grass",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cut of beef from the shoulder blade",
+			"pos": "noun"
+		},
+		{
+			"definition": "a broad flat body part (as of the shoulder or tongue)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the part of the skate that slides on the ice",
+			"pos": "noun"
+		},
+		{
+			"definition": "flat surface that rotates and pushes against air or water",
+			"pos": "noun"
+		},
+		{
+			"definition": "the flat part of a tool or weapon that (usually) has a cutting edge",
+			"pos": "noun"
+		}
+	]
+}

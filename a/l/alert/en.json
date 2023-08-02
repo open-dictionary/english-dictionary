@@ -1,0 +1,33 @@
+{
+	"word": "alert",
+	"definitions": [
+		{
+			"definition": "condition of heightened watchfulness or preparation for action",
+			"pos": "noun"
+		},
+		{
+			"definition": "a warning serves to make you more alert to danger",
+			"pos": "noun"
+		},
+		{
+			"definition": "an automatic signal (usually a sound) warning of danger",
+			"pos": "noun"
+		},
+		{
+			"definition": "warn or arouse to a sense of danger or call to a state of preparedness",
+			"pos": "verb"
+		},
+		{
+			"definition": "engaged in or accustomed to close observation",
+			"pos": "adjective"
+		},
+		{
+			"definition": "quick and energetic",
+			"pos": "adjective"
+		},
+		{
+			"definition": "mentally perceptive and responsive",
+			"pos": "adjective"
+		}
+	]
+}

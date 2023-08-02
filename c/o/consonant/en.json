@@ -1,0 +1,21 @@
+{
+	"word": "consonant",
+	"definitions": [
+		{
+			"definition": "a speech sound that is not a vowel",
+			"pos": "noun"
+		},
+		{
+			"definition": "a letter of the alphabet standing for a spoken consonant",
+			"pos": "noun"
+		},
+		{
+			"definition": "involving or characterized by harmony",
+			"pos": "adjective"
+		},
+		{
+			"definition": "in keeping",
+			"pos": "adjective"
+		}
+	]
+}

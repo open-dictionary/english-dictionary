@@ -1,0 +1,21 @@
+{
+	"word": "discard",
+	"definitions": [
+		{
+			"definition": "anything that is cast aside or discarded",
+			"pos": "noun"
+		},
+		{
+			"definition": "(cards) the act of throwing out a useless card or of failing to follow suit",
+			"pos": "noun"
+		},
+		{
+			"definition": "getting rid something that is regarded as useless or undesirable",
+			"pos": "noun"
+		},
+		{
+			"definition": "throw or cast away",
+			"pos": "verb"
+		}
+	]
+}

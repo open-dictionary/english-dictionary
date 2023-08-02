@@ -1,0 +1,41 @@
+{
+	"word": "tear",
+	"definitions": [
+		{
+			"definition": "a drop of the clear salty saline solution secreted by the lacrimal glands",
+			"pos": "noun"
+		},
+		{
+			"definition": "an opening made forcibly as by pulling apart",
+			"pos": "noun"
+		},
+		{
+			"definition": "an occasion for excessive eating or drinking",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of tearing",
+			"pos": "noun"
+		},
+		{
+			"definition": "separate or cause to separate abruptly",
+			"pos": "verb"
+		},
+		{
+			"definition": "to separate or be separated by force",
+			"pos": "verb"
+		},
+		{
+			"definition": "move quickly and violently",
+			"pos": "verb"
+		},
+		{
+			"definition": "strip of feathers",
+			"pos": "verb"
+		},
+		{
+			"definition": "fill with tears or shed tears",
+			"pos": "verb"
+		}
+	]
+}

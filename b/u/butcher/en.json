@@ -1,0 +1,33 @@
+{
+	"word": "butcher",
+	"definitions": [
+		{
+			"definition": "a retailer of meat",
+			"pos": "noun"
+		},
+		{
+			"definition": "a brutal indiscriminate murderer",
+			"pos": "noun"
+		},
+		{
+			"definition": "a person who slaughters or dresses meat for market",
+			"pos": "noun"
+		},
+		{
+			"definition": "someone who makes mistakes because of incompetence",
+			"pos": "noun"
+		},
+		{
+			"definition": "kill (animals) usually for food consumption",
+			"pos": "verb"
+		},
+		{
+			"definition": "used of men",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of male or female homosexuals) characterized by stereotypically male traits or appearance",
+			"pos": "adjective"
+		}
+	]
+}

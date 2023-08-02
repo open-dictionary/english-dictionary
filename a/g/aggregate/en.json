@@ -1,0 +1,33 @@
+{
+	"word": "aggregate",
+	"definitions": [
+		{
+			"definition": "the whole amount",
+			"pos": "noun"
+		},
+		{
+			"definition": "material such as sand or gravel used with cement and water to make concrete, mortar, or plaster",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sum total of many heterogenous things taken together",
+			"pos": "noun"
+		},
+		{
+			"definition": "amount in the aggregate to",
+			"pos": "verb"
+		},
+		{
+			"definition": "gather in a mass, sum, or whole",
+			"pos": "verb"
+		},
+		{
+			"definition": "formed of separate units gathered into a mass or whole",
+			"pos": "adjective"
+		},
+		{
+			"definition": "composed of a dense cluster of separate units such as carpels or florets or drupelets",
+			"pos": "adjective"
+		}
+	]
+}

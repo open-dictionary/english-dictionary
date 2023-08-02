@@ -1,0 +1,21 @@
+{
+	"word": "cab",
+	"definitions": [
+		{
+			"definition": "a compartment at the front of a motor vehicle or locomotive where driver sits",
+			"pos": "noun"
+		},
+		{
+			"definition": "small two-wheeled horse-drawn carriage",
+			"pos": "noun"
+		},
+		{
+			"definition": "a car driven by a person whose job is to take passengers where they want to go in exchange for money",
+			"pos": "noun"
+		},
+		{
+			"definition": "ride in a taxicab",
+			"pos": "verb"
+		}
+	]
+}

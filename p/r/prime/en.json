@@ -1,0 +1,53 @@
+{
+	"word": "prime",
+	"definitions": [
+		{
+			"definition": "a natural number that has exactly two distinct natural number divisors: 1 and itself",
+			"pos": "noun"
+		},
+		{
+			"definition": "the period of greatest prosperity or productivity",
+			"pos": "noun"
+		},
+		{
+			"definition": "the second canonical hour",
+			"pos": "noun"
+		},
+		{
+			"definition": "the time of maturity when power and vigor are greatest",
+			"pos": "noun"
+		},
+		{
+			"definition": "insert a primer into (a gun, mine, or charge) preparatory to detonation or firing",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover with a primer",
+			"pos": "verb"
+		},
+		{
+			"definition": "fill with priming liquid",
+			"pos": "verb"
+		},
+		{
+			"definition": "first in rank or degree",
+			"pos": "adjective"
+		},
+		{
+			"definition": "used of the first or originating agent",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of superior grade",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or relating to or being an integer that cannot be factored into other integers",
+			"pos": "adjective"
+		},
+		{
+			"definition": "being at the best stage of development",
+			"pos": "adjective"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"word": "feature",
+	"definitions": [
+		{
+			"definition": "a prominent attribute or aspect of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "the characteristic parts of a person's face: eyes and nose and mouth and chin",
+			"pos": "noun"
+		},
+		{
+			"definition": "the principal (full-length) film in a program at a movie theater",
+			"pos": "noun"
+		},
+		{
+			"definition": "a special or prominent article in a newspaper or magazine",
+			"pos": "noun"
+		},
+		{
+			"definition": "(linguistics) a distinctive characteristic of a linguistic unit that serves to distinguish it from other units of the same kind",
+			"pos": "noun"
+		},
+		{
+			"definition": "an article of merchandise that is displayed or advertised more than other articles",
+			"pos": "noun"
+		},
+		{
+			"definition": "have as a feature",
+			"pos": "verb"
+		},
+		{
+			"definition": "wear or display in an ostentatious or proud manner",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"word": "fowl",
+	"definitions": [
+		{
+			"definition": "a domesticated gallinaceous bird thought to be descended from the red jungle fowl",
+			"pos": "noun"
+		},
+		{
+			"definition": "the flesh of a bird or fowl (wild or domestic) used as food",
+			"pos": "noun"
+		},
+		{
+			"definition": "hunt fowl",
+			"pos": "verb"
+		},
+		{
+			"definition": "hunt fowl in the forest",
+			"pos": "verb"
+		}
+	]
+}

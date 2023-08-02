@@ -1,0 +1,49 @@
+{
+	"word": "spring",
+	"definitions": [
+		{
+			"definition": "the season of growth",
+			"pos": "noun"
+		},
+		{
+			"definition": "a metal elastic device that returns to its shape or position when pushed or pulled or pressed",
+			"pos": "noun"
+		},
+		{
+			"definition": "a natural flow of ground water",
+			"pos": "noun"
+		},
+		{
+			"definition": "a point at which water issues forth",
+			"pos": "noun"
+		},
+		{
+			"definition": "the elasticity of something that can be stretched and returns to its original length",
+			"pos": "noun"
+		},
+		{
+			"definition": "a light, self-propelled movement upwards or forwards",
+			"pos": "noun"
+		},
+		{
+			"definition": "move forward by leaps and bounds",
+			"pos": "verb"
+		},
+		{
+			"definition": "develop into a distinctive entity",
+			"pos": "verb"
+		},
+		{
+			"definition": "spring back",
+			"pos": "verb"
+		},
+		{
+			"definition": "develop suddenly",
+			"pos": "verb"
+		},
+		{
+			"definition": "produce or disclose suddenly or unexpectedly",
+			"pos": "verb"
+		}
+	]
+}

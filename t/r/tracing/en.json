@@ -1,0 +1,49 @@
+{
+	"word": "tracing",
+	"definitions": [
+		{
+			"definition": "the act of drawing a plan or diagram or outline",
+			"pos": "noun"
+		},
+		{
+			"definition": "a drawing created by superimposing a semitransparent sheet of paper on the original image and copying on it the lines of the original image",
+			"pos": "noun"
+		},
+		{
+			"definition": "the discovery and description of the course of development of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "follow, discover, or ascertain the course of development of something",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a mark or lines on a surface",
+			"pos": "verb"
+		},
+		{
+			"definition": "to go back over again",
+			"pos": "verb"
+		},
+		{
+			"definition": "pursue or chase relentlessly",
+			"pos": "verb"
+		},
+		{
+			"definition": "discover traces of",
+			"pos": "verb"
+		},
+		{
+			"definition": "make one's course or travel along a path",
+			"pos": "verb"
+		},
+		{
+			"definition": "copy by following the lines of the original drawing on a transparent sheet placed upon it",
+			"pos": "verb"
+		},
+		{
+			"definition": "read with difficulty",
+			"pos": "verb"
+		}
+	]
+}

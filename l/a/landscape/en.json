@@ -1,0 +1,29 @@
+{
+	"word": "landscape",
+	"definitions": [
+		{
+			"definition": "an expanse of scenery that can be seen in a single view",
+			"pos": "noun"
+		},
+		{
+			"definition": "painting depicting an expanse of natural scenery",
+			"pos": "noun"
+		},
+		{
+			"definition": "a genre of art dealing with the depiction of natural scenery",
+			"pos": "noun"
+		},
+		{
+			"definition": "an extensive mental viewpoint",
+			"pos": "noun"
+		},
+		{
+			"definition": "embellish with plants",
+			"pos": "verb"
+		},
+		{
+			"definition": "do landscape gardening",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "mask",
+	"definitions": [
+		{
+			"definition": "a covering to disguise or conceal the face",
+			"pos": "noun"
+		},
+		{
+			"definition": "activity that tries to conceal something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a party of guests wearing costumes and masks",
+			"pos": "noun"
+		},
+		{
+			"definition": "a protective covering worn over the face",
+			"pos": "noun"
+		},
+		{
+			"definition": "hide under a false appearance",
+			"pos": "verb"
+		},
+		{
+			"definition": "put a mask on or cover with a mask",
+			"pos": "verb"
+		},
+		{
+			"definition": "make unrecognizable",
+			"pos": "verb"
+		},
+		{
+			"definition": "cover with a sauce",
+			"pos": "verb"
+		},
+		{
+			"definition": "shield from light",
+			"pos": "verb"
+		}
+	]
+}

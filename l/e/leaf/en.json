@@ -1,0 +1,29 @@
+{
+	"word": "leaf",
+	"definitions": [
+		{
+			"definition": "the main organ of photosynthesis and transpiration in higher plants",
+			"pos": "noun"
+		},
+		{
+			"definition": "a sheet of any written or printed material (especially in a manuscript or book)",
+			"pos": "noun"
+		},
+		{
+			"definition": "hinged or detachable flat section (as of a table or door)",
+			"pos": "noun"
+		},
+		{
+			"definition": "look through a book or other written material",
+			"pos": "verb"
+		},
+		{
+			"definition": "turn over pages",
+			"pos": "verb"
+		},
+		{
+			"definition": "produce leaves, of plants",
+			"pos": "verb"
+		}
+	]
+}

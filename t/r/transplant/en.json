@@ -1,0 +1,33 @@
+{
+	"word": "transplant",
+	"definitions": [
+		{
+			"definition": "(surgery) tissue or organ transplanted from a donor to a recipient",
+			"pos": "noun"
+		},
+		{
+			"definition": "an operation moving an organ from one organism (the donor) to another (the recipient)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of removing something from one location and introducing it in another location",
+			"pos": "noun"
+		},
+		{
+			"definition": "lift and reset in another soil or situation",
+			"pos": "verb"
+		},
+		{
+			"definition": "be transplantable",
+			"pos": "verb"
+		},
+		{
+			"definition": "place the organ of a donor into the body of a recipient",
+			"pos": "verb"
+		},
+		{
+			"definition": "transfer from one place or period to another",
+			"pos": "verb"
+		}
+	]
+}

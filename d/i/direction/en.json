@@ -1,0 +1,41 @@
+{
+	"word": "direction",
+	"definitions": [
+		{
+			"definition": "a line leading to a place or point",
+			"pos": "noun"
+		},
+		{
+			"definition": "the spatial relation between something and the course along which it points or moves",
+			"pos": "noun"
+		},
+		{
+			"definition": "a general course along which something has a tendency to develop",
+			"pos": "noun"
+		},
+		{
+			"definition": "something that provides direction or advice as to a decision or course of action",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of managing something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a message describing how something is to be done",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of setting and holding a course",
+			"pos": "noun"
+		},
+		{
+			"definition": "a formal statement of a command or injunction to do something",
+			"pos": "noun"
+		},
+		{
+			"definition": "the concentration of attention or energy on something",
+			"pos": "noun"
+		}
+	]
+}

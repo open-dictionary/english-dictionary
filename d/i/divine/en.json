@@ -1,0 +1,45 @@
+{
+	"word": "divine",
+	"definitions": [
+		{
+			"definition": "terms referring to the Judeo-Christian God",
+			"pos": "noun"
+		},
+		{
+			"definition": "a clergyman or other person in religious orders",
+			"pos": "noun"
+		},
+		{
+			"definition": "perceive intuitively or through some inexplicable perceptive powers",
+			"pos": "verb"
+		},
+		{
+			"definition": "search by divining, as if with a rod",
+			"pos": "verb"
+		},
+		{
+			"definition": "emanating from God",
+			"pos": "adjective"
+		},
+		{
+			"definition": "resulting from divine providence",
+			"pos": "adjective"
+		},
+		{
+			"definition": "being or having the nature of a god",
+			"pos": "adjective"
+		},
+		{
+			"definition": "devoted to or in the service or worship of a deity",
+			"pos": "adjective"
+		},
+		{
+			"definition": "appropriate to or befitting a god",
+			"pos": "adjective"
+		},
+		{
+			"definition": "being of such surpassing excellence as to suggest inspiration by the gods",
+			"pos": "adjective"
+		}
+	]
+}

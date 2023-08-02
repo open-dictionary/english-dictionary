@@ -1,0 +1,21 @@
+{
+	"word": "morphology",
+	"definitions": [
+		{
+			"definition": "the branch of biology that deals with the structure of animals and plants",
+			"pos": "noun"
+		},
+		{
+			"definition": "studies of the rules for forming admissible words",
+			"pos": "noun"
+		},
+		{
+			"definition": "the admissible arrangement of sounds in words",
+			"pos": "noun"
+		},
+		{
+			"definition": "the branch of geology that studies the characteristics and configuration and evolution of rocks and land forms",
+			"pos": "noun"
+		}
+	]
+}

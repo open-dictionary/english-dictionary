@@ -1,0 +1,45 @@
+{
+	"word": "stake",
+	"definitions": [
+		{
+			"definition": "(law) a right or legal share of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a pole or stake set up to mark something (as the start or end of a race track)",
+			"pos": "noun"
+		},
+		{
+			"definition": "instrument of execution consisting of a vertical post that a victim is tied to for burning",
+			"pos": "noun"
+		},
+		{
+			"definition": "the money risked on a gamble",
+			"pos": "noun"
+		},
+		{
+			"definition": "a strong wooden or metal post with a point at one end so it can be driven into the ground",
+			"pos": "noun"
+		},
+		{
+			"definition": "put at risk",
+			"pos": "verb"
+		},
+		{
+			"definition": "place a bet on",
+			"pos": "verb"
+		},
+		{
+			"definition": "mark with a stake",
+			"pos": "verb"
+		},
+		{
+			"definition": "tie or fasten to a stake",
+			"pos": "verb"
+		},
+		{
+			"definition": "kill by piercing with a spear or sharp pole",
+			"pos": "verb"
+		}
+	]
+}

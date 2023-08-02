@@ -1,0 +1,37 @@
+{
+	"word": "rubber",
+	"definitions": [
+		{
+			"definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products",
+			"pos": "noun"
+		},
+		{
+			"definition": "any of various synthetic elastic materials whose properties resemble natural rubber",
+			"pos": "noun"
+		},
+		{
+			"definition": "a contest consisting of a series of successive matches between the same sides",
+			"pos": "noun"
+		},
+		{
+			"definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber)",
+			"pos": "noun"
+		},
+		{
+			"definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse",
+			"pos": "noun"
+		},
+		{
+			"definition": "a waterproof overshoe that protects shoes from water or snow",
+			"pos": "noun"
+		},
+		{
+			"definition": "coat or impregnate with rubber",
+			"pos": "verb"
+		},
+		{
+			"definition": "returned for lack of funds",
+			"pos": "adjective"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"word": "hurry",
+	"definitions": [
+		{
+			"definition": "a condition of urgency making it necessary to hurry",
+			"pos": "noun"
+		},
+		{
+			"definition": "overly eager speed (and possible carelessness)",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of moving hurriedly and in a careless manner",
+			"pos": "noun"
+		},
+		{
+			"definition": "move very fast",
+			"pos": "verb"
+		},
+		{
+			"definition": "act or move at high speed",
+			"pos": "verb"
+		},
+		{
+			"definition": "urge to an unnatural speed",
+			"pos": "verb"
+		}
+	]
+}

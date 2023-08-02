@@ -1,0 +1,37 @@
+{
+	"word": "scatter",
+	"definitions": [
+		{
+			"definition": "a haphazard distribution in all directions",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of scattering",
+			"pos": "noun"
+		},
+		{
+			"definition": "to cause to separate and go in different directions",
+			"pos": "verb"
+		},
+		{
+			"definition": "move away from each other",
+			"pos": "verb"
+		},
+		{
+			"definition": "distribute loosely",
+			"pos": "verb"
+		},
+		{
+			"definition": "sow by scattering",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to separate",
+			"pos": "verb"
+		},
+		{
+			"definition": "strew or distribute over an area",
+			"pos": "verb"
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"word": "gray",
+	"definitions": [
+		{
+			"definition": "a neutral achromatic color midway between white and black",
+			"pos": "noun"
+		},
+		{
+			"definition": "clothing that is a grey color",
+			"pos": "noun"
+		},
+		{
+			"definition": "any organization or party whose uniforms or badges are grey",
+			"pos": "noun"
+		},
+		{
+			"definition": "horse of a light gray or whitish color",
+			"pos": "noun"
+		},
+		{
+			"definition": "the SI unit of energy absorbed from ionizing radiation",
+			"pos": "noun"
+		},
+		{
+			"definition": "English radiobiologist in whose honor the gray (the SI unit of energy for the absorbed dose of radiation) was named (1905-1965)",
+			"pos": "noun"
+		},
+		{
+			"definition": "English poet best known for his elegy written in a country churchyard (1716-1771)",
+			"pos": "noun"
+		},
+		{
+			"definition": "American navigator who twice circumnavigated the globe and who discovered the Columbia River (1755-1806)",
+			"pos": "noun"
+		},
+		{
+			"definition": "United States botanist who specialized in North American flora and who was an early supporter of Darwin's theories of evolution (1810-1888)",
+			"pos": "noun"
+		},
+		{
+			"definition": "make grey",
+			"pos": "verb"
+		},
+		{
+			"definition": "turn grey",
+			"pos": "verb"
+		},
+		{
+			"definition": "of an achromatic color of any lightness intermediate between the extremes of white and black",
+			"pos": "adjective"
+		},
+		{
+			"definition": "showing characteristics of age, especially having grey or white hair",
+			"pos": "adjective"
+		},
+		{
+			"definition": "used to signify the Confederate forces in the American Civil War (who wore grey uniforms)",
+			"pos": "adjective"
+		},
+		{
+			"definition": "intermediate in character or position",
+			"pos": "adjective"
+		}
+	]
+}

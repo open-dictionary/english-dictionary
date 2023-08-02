@@ -1,0 +1,25 @@
+{
+	"word": "lecture",
+	"definitions": [
+		{
+			"definition": "a speech that is open to the public",
+			"pos": "noun"
+		},
+		{
+			"definition": "a lengthy rebuke",
+			"pos": "noun"
+		},
+		{
+			"definition": "teaching by giving a discourse on some subject (typically to a class)",
+			"pos": "noun"
+		},
+		{
+			"definition": "deliver a lecture or talk",
+			"pos": "verb"
+		},
+		{
+			"definition": "censure severely or angrily",
+			"pos": "verb"
+		}
+	]
+}

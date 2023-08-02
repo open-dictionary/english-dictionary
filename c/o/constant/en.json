@@ -1,0 +1,25 @@
+{
+	"word": "constant",
+	"definitions": [
+		{
+			"definition": "a quantity that does not vary",
+			"pos": "noun"
+		},
+		{
+			"definition": "a number representing a quantity assumed to have a fixed value in a specified mathematical context",
+			"pos": "noun"
+		},
+		{
+			"definition": "unvarying in nature",
+			"pos": "adjective"
+		},
+		{
+			"definition": "steadfast in purpose or devotion or affection",
+			"pos": "adjective"
+		},
+		{
+			"definition": "uninterrupted in time and indefinitely long continuing",
+			"pos": "adjective"
+		}
+	]
+}

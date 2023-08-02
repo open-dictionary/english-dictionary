@@ -1,0 +1,33 @@
+{
+	"word": "formulae",
+	"definitions": [
+		{
+			"definition": "a group of symbols that make a mathematical statement",
+			"pos": "noun"
+		},
+		{
+			"definition": "directions for making something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a conventionalized statement expressing some fundamental principle",
+			"pos": "noun"
+		},
+		{
+			"definition": "a representation of a substance using symbols for its constituent elements",
+			"pos": "noun"
+		},
+		{
+			"definition": "something regarded as a normative example",
+			"pos": "noun"
+		},
+		{
+			"definition": "a liquid food for infants",
+			"pos": "noun"
+		},
+		{
+			"definition": "(mathematics) a standard procedure for solving a class of mathematical problems",
+			"pos": "noun"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"word": "pizzicato",
+	"definitions": [
+		{
+			"definition": "a note or passage that is played pizzicato",
+			"pos": "noun"
+		},
+		{
+			"definition": "(of instruments in the violin family) to be plucked with the finger",
+			"pos": "adjective"
+		},
+		{
+			"definition": "with a light plucking staccato sound",
+			"pos": "adverb"
+		}
+	]
+}

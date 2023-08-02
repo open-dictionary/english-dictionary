@@ -1,0 +1,21 @@
+{
+	"word": "expectation",
+	"definitions": [
+		{
+			"definition": "belief about (or mental picture of) the future",
+			"pos": "noun"
+		},
+		{
+			"definition": "anticipating with confidence of fulfillment",
+			"pos": "noun"
+		},
+		{
+			"definition": "the feeling that something is about to happen",
+			"pos": "noun"
+		},
+		{
+			"definition": "the sum of the values of a random variable divided by the number of values",
+			"pos": "noun"
+		}
+	]
+}

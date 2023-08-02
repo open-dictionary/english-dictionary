@@ -1,0 +1,37 @@
+{
+	"word": "repair",
+	"definitions": [
+		{
+			"definition": "the act of putting something in working order again",
+			"pos": "noun"
+		},
+		{
+			"definition": "a formal way of referring to the condition of something",
+			"pos": "noun"
+		},
+		{
+			"definition": "a frequently visited place",
+			"pos": "noun"
+		},
+		{
+			"definition": "restore by replacing a part or putting together what is torn or broken",
+			"pos": "verb"
+		},
+		{
+			"definition": "make amends for",
+			"pos": "verb"
+		},
+		{
+			"definition": "move, travel, or proceed toward some place",
+			"pos": "verb"
+		},
+		{
+			"definition": "set straight or right",
+			"pos": "verb"
+		},
+		{
+			"definition": "give new life or energy to",
+			"pos": "verb"
+		}
+	]
+}

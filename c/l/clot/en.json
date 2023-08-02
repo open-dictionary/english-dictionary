@@ -1,0 +1,25 @@
+{
+	"word": "clot",
+	"definitions": [
+		{
+			"definition": "a lump of material formed from the content of a liquid",
+			"pos": "noun"
+		},
+		{
+			"definition": "change from a liquid to a thickened or solid state",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to change from a liquid to a solid or thickened state",
+			"pos": "verb"
+		},
+		{
+			"definition": "turn into curds",
+			"pos": "verb"
+		},
+		{
+			"definition": "coalesce or unite in a mass",
+			"pos": "verb"
+		}
+	]
+}

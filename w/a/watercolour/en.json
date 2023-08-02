@@ -1,0 +1,25 @@
+{
+	"word": "watercolour",
+	"definitions": [
+		{
+			"definition": "water-soluble pigment",
+			"pos": "noun"
+		},
+		{
+			"definition": "a water-base paint (with water-soluble pigments)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a painting produced with watercolors",
+			"pos": "noun"
+		},
+		{
+			"definition": "the art or technique of painting with watercolors",
+			"pos": "noun"
+		},
+		{
+			"definition": "paint with watercolors",
+			"pos": "verb"
+		}
+	]
+}

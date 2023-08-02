@@ -1,0 +1,29 @@
+{
+	"word": "unit",
+	"definitions": [
+		{
+			"definition": "any division of quantity accepted as a standard of measurement or exchange",
+			"pos": "noun"
+		},
+		{
+			"definition": "an individual or group or structure or other entity regarded as a structural or functional constituent of a whole",
+			"pos": "noun"
+		},
+		{
+			"definition": "an organization regarded as part of a larger social group",
+			"pos": "noun"
+		},
+		{
+			"definition": "a single undivided whole",
+			"pos": "noun"
+		},
+		{
+			"definition": "a single undivided natural thing occurring in the composition of something else",
+			"pos": "noun"
+		},
+		{
+			"definition": "an assemblage of parts that is regarded as a single entity",
+			"pos": "noun"
+		}
+	]
+}

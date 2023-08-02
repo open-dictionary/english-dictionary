@@ -1,0 +1,25 @@
+{
+	"word": "shearing",
+	"definitions": [
+		{
+			"definition": "removing by cutting off or clipping",
+			"pos": "noun"
+		},
+		{
+			"definition": "cut with shears",
+			"pos": "verb"
+		},
+		{
+			"definition": "shear the wool from",
+			"pos": "verb"
+		},
+		{
+			"definition": "cut or cut through with shears",
+			"pos": "verb"
+		},
+		{
+			"definition": "become deformed by forces tending to produce a shearing strain",
+			"pos": "verb"
+		}
+	]
+}

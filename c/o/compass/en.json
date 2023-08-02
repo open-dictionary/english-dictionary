@@ -1,0 +1,33 @@
+{
+	"word": "compass",
+	"definitions": [
+		{
+			"definition": "navigational instrument for finding directions",
+			"pos": "noun"
+		},
+		{
+			"definition": "an area in which something acts or operates or has power or control: \"the range of a supersonic jet\"",
+			"pos": "noun"
+		},
+		{
+			"definition": "the limit of capability",
+			"pos": "noun"
+		},
+		{
+			"definition": "drafting instrument used for drawing circles",
+			"pos": "noun"
+		},
+		{
+			"definition": "bring about",
+			"pos": "verb"
+		},
+		{
+			"definition": "travel around, either by plane or ship",
+			"pos": "verb"
+		},
+		{
+			"definition": "get the meaning of something",
+			"pos": "verb"
+		}
+	]
+}

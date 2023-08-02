@@ -1,0 +1,33 @@
+{
+	"word": "malt",
+	"definitions": [
+		{
+			"definition": "a milkshake made with malt powder",
+			"pos": "noun"
+		},
+		{
+			"definition": "a lager of high alcohol content",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cereal grain (usually barley) that is kiln-dried after having been germinated by soaking in water",
+			"pos": "noun"
+		},
+		{
+			"definition": "treat with malt or malt extract",
+			"pos": "verb"
+		},
+		{
+			"definition": "turn into malt, become malt",
+			"pos": "verb"
+		},
+		{
+			"definition": "convert grain into malt",
+			"pos": "verb"
+		},
+		{
+			"definition": "convert into malt",
+			"pos": "verb"
+		}
+	]
+}

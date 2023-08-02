@@ -1,0 +1,41 @@
+{
+	"word": "sick",
+	"definitions": [
+		{
+			"definition": "people who are sick",
+			"pos": "noun"
+		},
+		{
+			"definition": "eject the contents of the stomach through the mouth",
+			"pos": "verb"
+		},
+		{
+			"definition": "affected by an impairment of normal physical or mental function",
+			"pos": "adjective"
+		},
+		{
+			"definition": "feeling nausea",
+			"pos": "adjective"
+		},
+		{
+			"definition": "affected with madness or insanity",
+			"pos": "adjective"
+		},
+		{
+			"definition": "having a strong distaste from surfeit",
+			"pos": "adjective"
+		},
+		{
+			"definition": "(of light) lacking in intensity or brightness",
+			"pos": "adjective"
+		},
+		{
+			"definition": "deeply affected by a strong feeling",
+			"pos": "adjective"
+		},
+		{
+			"definition": "shockingly repellent",
+			"pos": "adjective"
+		}
+	]
+}

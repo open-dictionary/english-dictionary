@@ -1,0 +1,17 @@
+{
+	"word": "swap",
+	"definitions": [
+		{
+			"definition": "an equal exchange",
+			"pos": "noun"
+		},
+		{
+			"definition": "exchange or give (something) in exchange for",
+			"pos": "verb"
+		},
+		{
+			"definition": "move (a piece of a program) into memory, in computer science",
+			"pos": "verb"
+		}
+	]
+}

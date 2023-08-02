@@ -1,0 +1,21 @@
+{
+	"word": "jug",
+	"definitions": [
+		{
+			"definition": "a large bottle with a narrow mouth",
+			"pos": "noun"
+		},
+		{
+			"definition": "the quantity contained in a jug",
+			"pos": "noun"
+		},
+		{
+			"definition": "lock up or confine, in or as in a jail",
+			"pos": "verb"
+		},
+		{
+			"definition": "stew in an earthenware jug",
+			"pos": "verb"
+		}
+	]
+}

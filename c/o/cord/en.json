@@ -1,0 +1,29 @@
+{
+	"word": "cord",
+	"definitions": [
+		{
+			"definition": "a line made of twisted fibers or threads",
+			"pos": "noun"
+		},
+		{
+			"definition": "a unit of amount of wood cut for burning",
+			"pos": "noun"
+		},
+		{
+			"definition": "a light insulated conductor for household use",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cut pile fabric with vertical ribs",
+			"pos": "noun"
+		},
+		{
+			"definition": "stack in cords",
+			"pos": "verb"
+		},
+		{
+			"definition": "bind or tie with a cord",
+			"pos": "verb"
+		}
+	]
+}

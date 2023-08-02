@@ -1,0 +1,29 @@
+{
+	"word": "personal",
+	"definitions": [
+		{
+			"definition": "a short newspaper article about a particular person or group",
+			"pos": "noun"
+		},
+		{
+			"definition": "concerning or affecting a particular person or his or her private life and personality",
+			"pos": "adjective"
+		},
+		{
+			"definition": "particular to a given individual",
+			"pos": "adjective"
+		},
+		{
+			"definition": "of or arising from personality",
+			"pos": "adjective"
+		},
+		{
+			"definition": "intimately concerning a person's body or physical being",
+			"pos": "adjective"
+		},
+		{
+			"definition": "indicating grammatical person",
+			"pos": "adjective"
+		}
+	]
+}

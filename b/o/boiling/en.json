@@ -1,0 +1,37 @@
+{
+	"word": "boiling",
+	"definitions": [
+		{
+			"definition": "the application of heat to change something from a liquid to a gas",
+			"pos": "noun"
+		},
+		{
+			"definition": "cooking in a liquid that has been brought to a boil",
+			"pos": "noun"
+		},
+		{
+			"definition": "come to the boiling point and change from a liquid to vapor",
+			"pos": "verb"
+		},
+		{
+			"definition": "immerse or be immersed in a boiling liquid, often for cooking purposes",
+			"pos": "verb"
+		},
+		{
+			"definition": "bring to, or maintain at, the boiling point",
+			"pos": "verb"
+		},
+		{
+			"definition": "be agitated",
+			"pos": "verb"
+		},
+		{
+			"definition": "be in an agitated emotional state",
+			"pos": "verb"
+		},
+		{
+			"definition": "extremely",
+			"pos": "adverb"
+		}
+	]
+}

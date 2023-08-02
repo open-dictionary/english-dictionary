@@ -1,0 +1,25 @@
+{
+	"word": "surety",
+	"definitions": [
+		{
+			"definition": "something clearly established",
+			"pos": "noun"
+		},
+		{
+			"definition": "property that your creditor can claim in case you default on your obligation",
+			"pos": "noun"
+		},
+		{
+			"definition": "a prisoner who is held by one party to insure that another party will meet specified terms",
+			"pos": "noun"
+		},
+		{
+			"definition": "one who provides a warrant or guarantee to another",
+			"pos": "noun"
+		},
+		{
+			"definition": "a guarantee that an obligation will be met",
+			"pos": "noun"
+		}
+	]
+}

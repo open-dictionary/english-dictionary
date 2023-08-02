@@ -1,0 +1,25 @@
+{
+	"word": "bimonthly",
+	"definitions": [
+		{
+			"definition": "a periodical that is published twice a month or every two months (either 24 or 6 issues per year)",
+			"pos": "noun"
+		},
+		{
+			"definition": "occurring twice a month",
+			"pos": "adjective"
+		},
+		{
+			"definition": "occurring every two months",
+			"pos": "adjective"
+		},
+		{
+			"definition": "twice a month",
+			"pos": "adverb"
+		},
+		{
+			"definition": "every two months",
+			"pos": "adverb"
+		}
+	]
+}

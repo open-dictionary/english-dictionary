@@ -1,0 +1,21 @@
+{
+	"word": "export",
+	"definitions": [
+		{
+			"definition": "commodities (goods or services) sold to a foreign country",
+			"pos": "noun"
+		},
+		{
+			"definition": "sell or transfer abroad",
+			"pos": "verb"
+		},
+		{
+			"definition": "transfer (electronic data) out of a database or document in a format that can be used by other programs",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to spread in another part of the world",
+			"pos": "verb"
+		}
+	]
+}

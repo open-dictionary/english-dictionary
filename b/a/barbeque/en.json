@@ -1,0 +1,21 @@
+{
+	"word": "barbeque",
+	"definitions": [
+		{
+			"definition": "meat that has been barbecued or grilled in a highly seasoned sauce",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cookout in which food is cooked over an open fire",
+			"pos": "noun"
+		},
+		{
+			"definition": "a rack to hold meat for cooking over hot charcoal usually out of doors",
+			"pos": "noun"
+		},
+		{
+			"definition": "cook outdoors on a barbecue grill",
+			"pos": "verb"
+		}
+	]
+}

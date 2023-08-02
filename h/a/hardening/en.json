@@ -1,0 +1,37 @@
+{
+	"word": "hardening",
+	"definitions": [
+		{
+			"definition": "abnormal hardening or thickening of tissue",
+			"pos": "noun"
+		},
+		{
+			"definition": "the process of becoming hard or solid by cooling or drying or crystallization",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of making something harder (firmer or tighter or more compact)",
+			"pos": "noun"
+		},
+		{
+			"definition": "become hard or harder",
+			"pos": "verb"
+		},
+		{
+			"definition": "make hard or harder",
+			"pos": "verb"
+		},
+		{
+			"definition": "harden by reheating and cooling in oil",
+			"pos": "verb"
+		},
+		{
+			"definition": "make fit",
+			"pos": "verb"
+		},
+		{
+			"definition": "cause to accept or become hardened to",
+			"pos": "verb"
+		}
+	]
+}

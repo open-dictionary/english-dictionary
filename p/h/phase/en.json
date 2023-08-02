@@ -1,0 +1,29 @@
+{
+	"word": "phase",
+	"definitions": [
+		{
+			"definition": "any distinct time period in a sequence of events",
+			"pos": "noun"
+		},
+		{
+			"definition": "(physical chemistry) a distinct state of matter in a system",
+			"pos": "noun"
+		},
+		{
+			"definition": "a particular point in the time of a cycle",
+			"pos": "noun"
+		},
+		{
+			"definition": "(astronomy) the particular appearance of a body's state of illumination (especially one of the recurring shapes of the part of Earth's moon that is illuminated by the sun)",
+			"pos": "noun"
+		},
+		{
+			"definition": "arrange in phases or stages",
+			"pos": "verb"
+		},
+		{
+			"definition": "adjust so as to be in a synchronized condition",
+			"pos": "verb"
+		}
+	]
+}

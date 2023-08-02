@@ -1,0 +1,25 @@
+{
+	"word": "grid",
+	"definitions": [
+		{
+			"definition": "a pattern of regularly spaced horizontal and vertical lines",
+			"pos": "noun"
+		},
+		{
+			"definition": "a system of high tension cables by which electrical power is distributed throughout a region",
+			"pos": "noun"
+		},
+		{
+			"definition": "a perforated or corrugated metal plate used in a storage battery as a conductor and support for the active material",
+			"pos": "noun"
+		},
+		{
+			"definition": "an electrode placed between the cathode and anode of a vacuum tube to control the flow of electrons through the tube",
+			"pos": "noun"
+		},
+		{
+			"definition": "a cooking utensil of parallel metal bars",
+			"pos": "noun"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"word": "drill",
+	"definitions": [
+		{
+			"definition": "a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)",
+			"pos": "noun"
+		},
+		{
+			"definition": "similar to the mandrill but smaller and less brightly colored",
+			"pos": "noun"
+		},
+		{
+			"definition": "systematic training by multiple repetitions",
+			"pos": "noun"
+		},
+		{
+			"definition": "(military) the training of soldiers to march (as in ceremonial parades) or to perform the manual of arms",
+			"pos": "noun"
+		},
+		{
+			"definition": "make a hole, especially with a pointed power or hand tool",
+			"pos": "verb"
+		},
+		{
+			"definition": "train in the military, e.g., in the use of weapons",
+			"pos": "verb"
+		},
+		{
+			"definition": "learn by repetition",
+			"pos": "verb"
+		},
+		{
+			"definition": "teach by repetition",
+			"pos": "verb"
+		},
+		{
+			"definition": "undergo military training or do military exercises",
+			"pos": "verb"
+		}
+	]
+}

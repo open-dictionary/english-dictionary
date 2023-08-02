@@ -1,0 +1,33 @@
+{
+	"word": "arch",
+	"definitions": [
+		{
+			"definition": "a curved shape in the vertical plane that spans an opening",
+			"pos": "noun"
+		},
+		{
+			"definition": "a curved bony structure supporting or enclosing organs (especially the inner sides of the feet)",
+			"pos": "noun"
+		},
+		{
+			"definition": "a passageway under a curved masonry construction",
+			"pos": "noun"
+		},
+		{
+			"definition": "(architecture) a masonry construction (usually curved) for spanning an opening and supporting the weight above it",
+			"pos": "noun"
+		},
+		{
+			"definition": "form an arch or curve",
+			"pos": "verb"
+		},
+		{
+			"definition": "(used of behavior or attitude) characteristic of those who treat others with condescension",
+			"pos": "adjective"
+		},
+		{
+			"definition": "naughtily or annoyingly playful",
+			"pos": "adjective"
+		}
+	]
+}

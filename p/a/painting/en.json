@@ -1,0 +1,37 @@
+{
+	"word": "painting",
+	"definitions": [
+		{
+			"definition": "graphic art consisting of an artistic composition made by applying paints to a surface",
+			"pos": "noun"
+		},
+		{
+			"definition": "creating a picture with paints",
+			"pos": "noun"
+		},
+		{
+			"definition": "the act of applying paint to a surface",
+			"pos": "noun"
+		},
+		{
+			"definition": "the occupation of a house painter",
+			"pos": "noun"
+		},
+		{
+			"definition": "make a painting",
+			"pos": "verb"
+		},
+		{
+			"definition": "apply paint to",
+			"pos": "verb"
+		},
+		{
+			"definition": "make a painting of",
+			"pos": "verb"
+		},
+		{
+			"definition": "apply a liquid to",
+			"pos": "verb"
+		}
+	]
+}

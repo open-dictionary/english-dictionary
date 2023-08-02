@@ -1,0 +1,37 @@
+{
+	"word": "table",
+	"definitions": [
+		{
+			"definition": "a set of data arranged in rows and columns",
+			"pos": "noun"
+		},
+		{
+			"definition": "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+			"pos": "noun"
+		},
+		{
+			"definition": "a piece of furniture with tableware for a meal laid out on it",
+			"pos": "noun"
+		},
+		{
+			"definition": "flat tableland with steep edges",
+			"pos": "noun"
+		},
+		{
+			"definition": "a company of people assembled at a table for a meal or game",
+			"pos": "noun"
+		},
+		{
+			"definition": "food or meals in general",
+			"pos": "noun"
+		},
+		{
+			"definition": "hold back to a later time",
+			"pos": "verb"
+		},
+		{
+			"definition": "arrange or enter in tabular form",
+			"pos": "verb"
+		}
+	]
+}
