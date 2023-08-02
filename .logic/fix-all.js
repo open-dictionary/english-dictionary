@@ -15,7 +15,7 @@ const entries = readdirSync(REPO_DIR).filter((dirname) => dirname.length == 1);
 for (const entry of entries) {
   console.log(`processing ${entry}`);
   const files = await new Promise((resolve, reject) =>
-    glob(`**/definitions.en.yaml`, { cwd: join(process.cwd(), entry) }, (error, matches) => {
+    glob(`**/definitions.fa.yaml`, { cwd: join(process.cwd(), entry) }, (error, matches) => {
       if (error) {
         reject(error);
       } else {
@@ -28,7 +28,7 @@ for (const entry of entries) {
     const path = join(REPO_DIR, entry, file);
     const definitions = load(readFileSync(path, 'utf8'));
     const json = JSON.stringify({ word, definitions }, null, '\t');
-    writeFileSync(`${dirname(path)}/en.json`, json, 'utf-8');
+    writeFileSync(`${dirname(path)}/fa.json`, json, 'utf-8');
     unlinkSync(path);
   }
 }
